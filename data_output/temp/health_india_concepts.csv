@@ -1,0 +1,8 @@
+entity|importance|category|chunk_id|type
+consultations|5|event|a864c6a3aa9e4714b6773022853020df|concept
+patients|4|misc|a864c6a3aa9e4714b6773022853020df|concept
+abdm.gov.in|3|document|a864c6a3aa9e4714b6773022853020df|concept
+esanjeevani.mohfw.gov.in|4|document|a864c6a3aa9e4714b6773022853020df|concept
+Accelerating Global Health|5|concept|60df57d856f447b7950656fe9dbe5ae5|concept
+CoWIN|4|object|60df57d856f447b7950656fe9dbe5ae5|concept
+COVID-19 India Portal|3|object|60df57d856f447b7950656fe9dbe5ae5|concept

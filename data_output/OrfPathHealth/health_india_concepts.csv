@@ -1,0 +1,1537 @@
+entity|importance|category|chunk_id|type
+Mental Health|5|concept|83d4d0367bb0467e811782a4ada3bbb9|concept
+Health Equity|4|concept|83d4d0367bb0467e811782a4ada3bbb9|concept
+World Health Organization (WHO)|3|organisation|83d4d0367bb0467e811782a4ada3bbb9|concept
+United Nations (UN)|3|organisation|83d4d0367bb0467e811782a4ada3bbb9|concept
+Sustainable Development Goals (SDGs)|4|document|83d4d0367bb0467e811782a4ada3bbb9|concept
+Accelerating Global Health|5|event|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Pathways to Health Equity for the G20|5|event|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Integrating Mental Health into General Healthcare|5|event|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Poverty|4|condition|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Mental Health|5|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Biological Determinants|4|condition|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Psychological Determinants|4|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Social Determinants|4|condition|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Depression|3|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Substance Use Disorders|3|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Behavioural Addictions|3|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Severe Mental Illness (SMI)|3|condition|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Schizophrenia|2|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+Bipolar Mood Disorder|2|concept|1d5cc8cbbb074190b824e1fbc0d644aa|concept
+adversity|4|condition|1f02a81a02054efaacb0ace0c5eadd14|concept
+diabetes|3|condition|1f02a81a02054efaacb0ace0c5eadd14|concept
+tuberculosis|3|condition|1f02a81a02054efaacb0ace0c5eadd14|concept
+socioeconomic vulnerability|4|condition|1f02a81a02054efaacb0ace0c5eadd14|concept
+multimorbidity|3|condition|1f02a81a02054efaacb0ace0c5eadd14|concept
+syndemic|4|concept|1f02a81a02054efaacb0ace0c5eadd14|concept
+mental health|3|condition|1f02a81a02054efaacb0ace0c5eadd14|concept
+healthcare service delivery|5|event|33e4526e998e4865bd5b0dde036c2a20|concept
+healthcare resources|4|object|33e4526e998e4865bd5b0dde036c2a20|concept
+disadvantaged populations|3|organisation|33e4526e998e4865bd5b0dde036c2a20|concept
+mental illness|4|concept|33e4526e998e4865bd5b0dde036c2a20|concept
+World Health Organization (WHO)|4|organisation|33e4526e998e4865bd5b0dde036c2a20|concept
+Mental Health as a Pathway to Health Equity|5|concept|b9359fe26659413da22ea47729356210|concept
+Investing in mental health|4|event|b9359fe26659413da22ea47729356210|concept
+Improving population health|3|concept|b9359fe26659413da22ea47729356210|concept
+Social inequality|3|condition|b9359fe26659413da22ea47729356210|concept
+Human rights|2|concept|b9359fe26659413da22ea47729356210|concept
+Economic efficiency|3|concept|b9359fe26659413da22ea47729356210|concept
+Global economic loss due to mental disorders|2|misc|b9359fe26659413da22ea47729356210|concept
+Investment in treatment of mental illness|3|event|b9359fe26659413da22ea47729356210|concept
+Economic productivity gains|2|concept|b9359fe26659413da22ea47729356210|concept
+The Burden of Mental Health, Substance Use Disorders and Multimorbidity|3|event|b9359fe26659413da22ea47729356210|concept
+Mental and substance-abuse disorders|2|misc|b9359fe26659413da22ea47729356210|concept
+Premature morbidity and mortality globally|1|condition|b9359fe26659413da22ea47729356210|concept
+National Mental Health Survey (NMHS), 2015-16|1|document|b9359fe26659413da22ea47729356210|concept
+India|2|place|b9359fe26659413da22ea47729356210|concept
+Disability-Adjusted-Life-Years (DALYs)|5|condition|acf42504124f4b29b4f551d0365821b0|concept
+mental disorders|4|concept|acf42504124f4b29b4f551d0365821b0|concept
+treatment gap for mental and substance abuse disorders|3|condition|acf42504124f4b29b4f551d0365821b0|concept
+out-of-pocket (OOP) spending|2|concept|acf42504124f4b29b4f551d0365821b0|concept
+medicines|3|object|acf42504124f4b29b4f551d0365821b0|concept
+spending|3|event|5b6399f5e510497481764cd1009caa5c|concept
+doctors’ fees and diagnostic charges in OOP expenditure|4|object|5b6399f5e510497481764cd1009caa5c|concept
+private healthcare settings|3|place|5b6399f5e510497481764cd1009caa5c|concept
+discrimination in the coverage by health insurance toward mental illness|4|misc|5b6399f5e510497481764cd1009caa5c|concept
+chances of catastrophic spending|3|event|5b6399f5e510497481764cd1009caa5c|concept
+Insurance Regulatory and Development Authority of India (IRDAI)|2|organisation|5b6399f5e510497481764cd1009caa5c|concept
+mental illnesses|3|misc|5b6399f5e510497481764cd1009caa5c|concept
+Accelerating Global Health|5|event|b123ca85f1a04a5294b943d121e5c61b|concept
+Pathways to Health Equity for the G20|4|event|b123ca85f1a04a5294b943d121e5c61b|concept
+Mental Health Care Act, 2017|3|document|b123ca85f1a04a5294b943d121e5c61b|concept
+reported violations|2|event|b123ca85f1a04a5294b943d121e5c61b|concept
+rejections of claims for mental illness by insurance companies|3|event|b123ca85f1a04a5294b943d121e5c61b|concept
+discriminatory ceilings on the sum of reimbursement for mental illness|2|event|b123ca85f1a04a5294b943d121e5c61b|concept
+people with serious mental illness (SMI)|3|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+shortened life expectancy|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+multimorbidity|3|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+non-communicable diseases (NCDs)|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+tobacco and alcohol use|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+physical inactivity|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+poor diets|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+national programs to address chronic conditions|3|event|b123ca85f1a04a5294b943d121e5c61b|concept
+chronic conditions|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+poor horizontal integration across the programmes|3|event|b123ca85f1a04a5294b943d121e5c61b|concept
+homeless persons|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+women|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+persons with developmental disorders|2|concept|b123ca85f1a04a5294b943d121e5c61b|concept
+mental health equity|5|concept|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+social inequality|4|concept|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+gender issues|4|concept|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+community participation|3|concept|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+National Program for Mental Health (NMHP)|5|organisation|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+District Mental Health Program (DMHP)|4|organisation|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+India|5|place|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+Asian countries|3|organisation|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+National Mental Health Programme – District Mental Health Programme (>700 districts)|4|document|0fd5e7c372a842cc9368e25bf0cb57b4|concept
+Ayushman Bharat-Pradhan Mantri Jan Arogya Yojna (PM-JAY)|5|programme|d1159f0aacce4add93913834766d4b45|concept
+Universal Health Coverage|4|concept|d1159f0aacce4add93913834766d4b45|concept
+Health and Wellness Centres|4|programme|d1159f0aacce4add93913834766d4b45|concept
+National Tele Mental Health Programme (Tele MANAS)|3|programme|d1159f0aacce4add93913834766d4b45|concept
+Jan Aushadhi Kendras|4|programme|d1159f0aacce4add93913834766d4b45|concept
+National Mental Health Policy (2014)|3|policy|d1159f0aacce4add93913834766d4b45|concept
+National Health Policy (2017)|3|policy|d1159f0aacce4add93913834766d4b45|concept
+Rights of Persons with Disability Act, 2016|4|legislation|d1159f0aacce4add93913834766d4b45|concept
+Mental Health Care Act, 2017|3|legislation|d1159f0aacce4add93913834766d4b45|concept
+Accelerating Global Health|5|event|0e19e6305c0049768cd3d005956a6c24|concept
+Pathways to Health Equity for the G20|5|event|0e19e6305c0049768cd3d005956a6c24|concept
+Psychotropic medications|3|object|0e19e6305c0049768cd3d005956a6c24|concept
+Mental Health Policy (2014)|4|document|0e19e6305c0049768cd3d005956a6c24|concept
+digital academies at NIMHANS|3|organization|0e19e6305c0049768cd3d005956a6c24|concept
+m-Cessation|2|object|0e19e6305c0049768cd3d005956a6c24|concept
+tobacco quit-lines|2|organization|0e19e6305c0049768cd3d005956a6c24|concept
+National Tele Mental Health Program (Tele Mental Health Assistance and Networking Across States: Tele-MANAS)|4|event|0e19e6305c0049768cd3d005956a6c24|concept
+Tele-MANAS initiative|5|organisation|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+World Mental Health Day|3|event|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+tele-mental health services|4|service|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+remote and underserved areas|3|location|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+Box 2. Technological Initiatives in India for Mental Health|4|document|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+Telephone/mobile based initiatives|3|service|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+eSanjeevani|4|organisation|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+e-Manas Karnataka|3|document|3fc32cb84c4d4da6b29abc6c19d6eb76|concept
+NIMHANS digital academy|4|organisation|14b35b1d32d540e9b9815a325f95911e|concept
+Telemedicine Centre|3|place|14b35b1d32d540e9b9815a325f95911e|concept
+NIMHANS|4|organisation|14b35b1d32d540e9b9815a325f95911e|concept
+CIP|2|misc|14b35b1d32d540e9b9815a325f95911e|concept
+Digital Academy|3|organisation|14b35b1d32d540e9b9815a325f95911e|concept
+LGBRIMH Digital Academy|2|misc|14b35b1d32d540e9b9815a325f95911e|concept
+NIMHANS ECHO model|3|concept|14b35b1d32d540e9b9815a325f95911e|concept
+PGIMER “Tele-enabling model”|3|concept|14b35b1d32d540e9b9815a325f95911e|concept
+Chatbots|2|technology|14b35b1d32d540e9b9815a325f95911e|concept
+Telerehabilitation|2|technology|14b35b1d32d540e9b9815a325f95911e|concept
+Self-help|2|technology|14b35b1d32d540e9b9815a325f95911e|concept
+Ayushman Bharat- Pradhan Mantri Jan Arogya Yojna (PM-JAY)|5|organisation|5bbe6986777c47ee854e432f79982bc2|concept
+Universal Health Care (UHC) in India|4|concept|5bbe6986777c47ee854e432f79982bc2|concept
+Secondary and tertiary hospitalisations|3|event|5bbe6986777c47ee854e432f79982bc2|concept
+Annual coverage of INR 500,000 per family|2|document|5bbe6986777c47ee854e432f79982bc2|concept
+Generic medicines|3|object|5bbe6986777c47ee854e432f79982bc2|concept
+Jan Aushadhi Kendras|2|place|5bbe6986777c47ee854e432f79982bc2|concept
+Economic burden|3|concept|5bbe6986777c47ee854e432f79982bc2|concept
+Poor and marginalised|2|condition|5bbe6986777c47ee854e432f79982bc2|concept
+150,000 Health and Wellness Centres (HWC)|3|organisation|5bbe6986777c47ee854e432f79982bc2|concept
+Comprehensive services|2|event|5bbe6986777c47ee854e432f79982bc2|concept
+Screening and essential mental health|2|event|5bbe6986777c47ee854e432f79982bc2|concept
+mental health services|5|concept|2e92547f635f4574ad69394da1fa736d|concept
+general health services|3|concept|2e92547f635f4574ad69394da1fa736d|concept
+MHCA 2017|4|document|2e92547f635f4574ad69394da1fa736d|concept
+parity for mental illness|3|concept|2e92547f635f4574ad69394da1fa736d|concept
+physical conditions|3|concept|2e92547f635f4574ad69394da1fa736d|concept
+Central and State Mental Health Authorities|4|organisation|2e92547f635f4574ad69394da1fa736d|concept
+Mental Health Review Boards|3|organisation|2e92547f635f4574ad69394da1fa736d|concept
+persons with mental illness|4|concept|2e92547f635f4574ad69394da1fa736d|concept
+family members|3|concept|2e92547f635f4574ad69394da1fa736d|concept
+NGOs|4|organisation|2e92547f635f4574ad69394da1fa736d|concept
+checks and balances|3|concept|2e92547f635f4574ad69394da1fa736d|concept
+delivery of mental healthcare|4|concept|2e92547f635f4574ad69394da1fa736d|concept
+mental illness|5|concept|2e92547f635f4574ad69394da1fa736d|concept
+health insurance|4|document|2e92547f635f4574ad69394da1fa736d|concept
+Accelerating Global Health|5|event|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Pathways to Health Equity for the G20|5|event|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Improvements in curative and preventive care domains|4|condition|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Rehabilitative care|3|concept|4cd87763e8f84bdc8f0067b2b4dec451|concept
+National Mental Health Policy 2014|4|document|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Vulnerable populations|3|concept|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Children|2|object|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Elderly|2|object|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Homeless|2|object|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Macro-environmental issues|4|concept|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Poverty|3|condition|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Unemployment|3|condition|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Displacement|2|condition|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Mental health impact of climate change|3|concept|4cd87763e8f84bdc8f0067b2b4dec451|concept
+Leadership and governance|3|organisation|4cd87763e8f84bdc8f0067b2b4dec451|concept
+World Mental Health Report, 2022|5|document|25ad6848459145afa5072490e52d8550|concept
+interrelated services|4|concept|25ad6848459145afa5072490e52d8550|concept
+life cycle|3|misc|25ad6848459145afa5072490e52d8550|concept
+maternal and child mental health|2|concept|25ad6848459145afa5072490e52d8550|concept
+elderly|2|condition|25ad6848459145afa5072490e52d8550|concept
+Mental Health|5|concept|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+LMICs|4|place|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+Health Equity Assessment Toolkit (HEAT and HEAT Plus)|3|object|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+High-Income Countries|4|place|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+United Kingdom (UK)|3|place|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+National Health Service (NHS)|2|object|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+Five-Year Forward View for Mental Health|3|document|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+Public Health Domain|3|misc|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+Disparity Interventions|2|misc|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+Inequality|4|condition|e7ce4dbfa7e046b6aba50e75ac56ef07|concept
+private healthcare providers|4|organisation|d7a98a5523a14a81b33b3cadbeef1397|concept
+non-communicable diseases|4|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+chronic communicable diseases|3|condition|d7a98a5523a14a81b33b3cadbeef1397|concept
+Tuberculosis|3|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+multimorbidity|4|condition|d7a98a5523a14a81b33b3cadbeef1397|concept
+National Programmes|3|organisation|d7a98a5523a14a81b33b3cadbeef1397|concept
+non-communicable diseases programmes|2|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+chronic communicable diseases programmes|2|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+National Mission for Health and Family Welfare (NMHP)|4|organisation|d7a98a5523a14a81b33b3cadbeef1397|concept
+primary care level|3|object|d7a98a5523a14a81b33b3cadbeef1397|concept
+HWC (Health and Wellness Centers)|3|organisation|d7a98a5523a14a81b33b3cadbeef1397|concept
+PM-JAY (Prime Minister's Jan Arogya Yojana)|4|object|d7a98a5523a14a81b33b3cadbeef1397|concept
+patient reported outcomes|3|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+clinical outcomes|3|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+self-management interventions|2|object|d7a98a5523a14a81b33b3cadbeef1397|concept
+peer-based interventions|2|concept|d7a98a5523a14a81b33b3cadbeef1397|concept
+HICs (High Income Countries)|3|organisation|d7a98a5523a14a81b33b3cadbeef1397|concept
+Accelerating Global Health: Pathways to Health Equity for the G20|5|event|644bde3f851d4926ba9d1fa8b25b904b|concept
+cultural settings of LMICs|4|place|644bde3f851d4926ba9d1fa8b25b904b|concept
+brief psychological interventions|3|concept|644bde3f851d4926ba9d1fa8b25b904b|concept
+lay counsellors|4|organisation|644bde3f851d4926ba9d1fa8b25b904b|concept
+moderate to severe depressive disorders and harmful drinking|3|condition|644bde3f851d4926ba9d1fa8b25b904b|concept
+health systems in HICs|4|organisation|644bde3f851d4926ba9d1fa8b25b904b|concept
+long waiting periods for psychological intervention|3|condition|644bde3f851d4926ba9d1fa8b25b904b|concept
+low-intensity interventions|4|concept|644bde3f851d4926ba9d1fa8b25b904b|concept
+Problem Management plus (PM+)|3|document|644bde3f851d4926ba9d1fa8b25b904b|concept
+adults in distress due to exposure to adversity|4|condition|644bde3f851d4926ba9d1fa8b25b904b|concept
+family caregivers|3|organisation|644bde3f851d4926ba9d1fa8b25b904b|concept
+mental health|4|concept|644bde3f851d4926ba9d1fa8b25b904b|concept
+indigenous interventions|3|misc|644bde3f851d4926ba9d1fa8b25b904b|concept
+Yoga|4|object|644bde3f851d4926ba9d1fa8b25b904b|concept
+alternative forms of medicine|3|misc|644bde3f851d4926ba9d1fa8b25b904b|concept
+multimorbidity|4|condition|644bde3f851d4926ba9d1fa8b25b904b|concept
+evidence-based integration|5|concept|78487c391631417992f97fcd77f0ba19|concept
+public health system|4|place|78487c391631417992f97fcd77f0ba19|concept
+cultural acceptance|3|condition|78487c391631417992f97fcd77f0ba19|concept
+Tele-MANAS programme|4|organisation|78487c391631417992f97fcd77f0ba19|concept
+digital literacy|3|condition|78487c391631417992f97fcd77f0ba19|concept
+primary healthcare|4|place|78487c391631417992f97fcd77f0ba19|concept
+Universal Health Coverage (UHC)|3|concept|78487c391631417992f97fcd77f0ba19|concept
+referral pathways|2|misc|78487c391631417992f97fcd77f0ba19|concept
+mental care|3|concept|78487c391631417992f97fcd77f0ba19|concept
+physical care|2|misc|78487c391631417992f97fcd77f0ba19|concept
+robust information systems|3|condition|78487c391631417992f97fcd77f0ba19|concept
+mental and physical care integration|2|misc|78487c391631417992f97fcd77f0ba19|concept
+equitable and quality healthcare|4|concept|996585f3b2fe4afe9aad026a32d48fe9|concept
+Dr. Pratima Murthy|3|person|996585f3b2fe4afe9aad026a32d48fe9|concept
+Director and Senior Professor of Psychiatry|2|position|996585f3b2fe4afe9aad026a32d48fe9|concept
+NIMHANS, Bengaluru|3|organisation|996585f3b2fe4afe9aad026a32d48fe9|concept
+Dr. Krishna Prasad Muliyala|2|person|996585f3b2fe4afe9aad026a32d48fe9|concept
+Additional Professor of Psychiatry|1|position|996585f3b2fe4afe9aad026a32d48fe9|concept
+Dr. Channaveerachari Naveen Kumar|2|person|996585f3b2fe4afe9aad026a32d48fe9|concept
+Professor of Psychiatry and Head of Community Psychiatry|1|position|996585f3b2fe4afe9aad026a32d48fe9|concept
+COVID-19 pandemic|5|event|8bf2b50e94df47b392aa512dbb2e74c1|concept
+lockdown|4|concept|8bf2b50e94df47b392aa512dbb2e74c1|concept
+global economy|3|event|8bf2b50e94df47b392aa512dbb2e74c1|concept
+novel coronavirus|4|concept|8bf2b50e94df47b392aa512dbb2e74c1|concept
+disease|3|concept|8bf2b50e94df47b392aa512dbb2e74c1|concept
+zoonotic virus|2|concept|8bf2b50e94df47b392aa512dbb2e74c1|concept
+Public Health Emergency of International Concern|3|event|8bf2b50e94df47b392aa512dbb2e74c1|concept
+low-income countries|2|concept|8bf2b50e94df47b392aa512dbb2e74c1|concept
+vaccines and drugs|3|object|8bf2b50e94df47b392aa512dbb2e74c1|concept
+bird and animal viruses|5|concept|03a06fd2936d41afa48ec291c8bcbda8|concept
+infectious disease|4|concept|03a06fd2936d41afa48ec291c8bcbda8|concept
+epidemic|3|condition|03a06fd2936d41afa48ec291c8bcbda8|concept
+pandemic|3|condition|03a06fd2936d41afa48ec291c8bcbda8|concept
+prevent|2|concept|03a06fd2936d41afa48ec291c8bcbda8|concept
+Barbara Stocking|1|person|03a06fd2936d41afa48ec291c8bcbda8|concept
+The Urgent Need for a Pandemic Accord|2|document|03a06fd2936d41afa48ec291c8bcbda8|concept
+Accelerating Global Health: Pathways to Health Equity for the G20|4|event|40998ca4b2594430b3f1f64aadfec89b|concept
+COVID-19|5|event|40998ca4b2594430b3f1f64aadfec89b|concept
+Healthcare systems|3|object|40998ca4b2594430b3f1f64aadfec89b|concept
+Simulation exercises|2|event|40998ca4b2594430b3f1f64aadfec89b|concept
+Public health system|3|object|40998ca4b2594430b3f1f64aadfec89b|concept
+Lockdown|4|event|40998ca4b2594430b3f1f64aadfec89b|concept
+Livelihoods and economy|3|condition|40998ca4b2594430b3f1f64aadfec89b|concept
+Trade|2|event|40998ca4b2594430b3f1f64aadfec89b|concept
+Social services (education)|2|object|40998ca4b2594430b3f1f64aadfec89b|concept
+wait and see approach|2|concept|546a91dcc37740dfb8597967e1999249|concept
+February 2020|3|event|546a91dcc37740dfb8597967e1999249|concept
+International Health Regulations (IHR)|4|document|546a91dcc37740dfb8597967e1999249|concept
+World Health Organization (WHO)|3|organisation|546a91dcc37740dfb8597967e1999249|concept
+inequities between countries and population groups|4|concept|546a91dcc37740dfb8597967e1999249|concept
+access to vaccines and drugs|3|concept|546a91dcc37740dfb8597967e1999249|concept
+pandemic treaty|4|concept|546a91dcc37740dfb8597967e1999249|concept
+World Health Assembly (WHA)|3|organisation|546a91dcc37740dfb8597967e1999249|concept
+Pandemic Accord|5|concept|8a0b9edbbadd44c4babe8192a73bc83d|concept
+WHO's 194 member states|3|organisation|8a0b9edbbadd44c4babe8192a73bc83d|concept
+Intergovernmental Negotiating Body (INB)|2|organisation|8a0b9edbbadd44c4babe8192a73bc83d|concept
+World Health Assembly (WHA)|4|event|8a0b9edbbadd44c4babe8192a73bc83d|concept
+Working Group on amendments to the IHR (WGIHR)|3|organisation|8a0b9edbbadd44c4babe8192a73bc83d|concept
+International Health Regulations (IHR)|4|document|8a0b9edbbadd44c4babe8192a73bc83d|concept
+One Health|2|concept|8a0b9edbbadd44c4babe8192a73bc83d|concept
+Equity in access to drugs and vaccines|3|condition|8a0b9edbbadd44c4babe8192a73bc83d|concept
+WGIHR|4|organisation|b666ff6d8d3445a98869212995fcb597|concept
+Pandemic Accord|4|document|b666ff6d8d3445a98869212995fcb597|concept
+IHR|5|organisation|b666ff6d8d3445a98869212995fcb597|concept
+One Health|3|concept|b666ff6d8d3445a98869212995fcb597|concept
+Accelerating Global Health: Pathways to Health Equity for the G20|4|event|6e54c98b3b944682acb35e1bfe531831|concept
+Solidarity|3|concept|6e54c98b3b944682acb35e1bfe531831|concept
+United Nations Charter|2|document|6e54c98b3b944682acb35e1bfe531831|concept
+vaccines, diagnostics and treatments|3|object|6e54c98b3b944682acb35e1bfe531831|concept
+financing for these resources|2|condition|6e54c98b3b944682acb35e1bfe531831|concept
+equity in governance systems|4|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+financing for preparedness and response to pandemics|3|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+donors|2|organisation|9ccb6cad21444a27b7970917ba7e6c8b|concept
+equity|4|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+fairness|3|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+capabilities of countries|2|misc|9ccb6cad21444a27b7970917ba7e6c8b|concept
+poorer countries|3|misc|9ccb6cad21444a27b7970917ba7e6c8b|concept
+developed ones|2|misc|9ccb6cad21444a27b7970917ba7e6c8b|concept
+transparency of data and genomic sequencing|4|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+quickly and effectively responding to the pandemic|3|misc|9ccb6cad21444a27b7970917ba7e6c8b|concept
+development of new drugs and vaccines|2|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+trust within and between countries|3|misc|9ccb6cad21444a27b7970917ba7e6c8b|concept
+accountability requirements|4|concept|9ccb6cad21444a27b7970917ba7e6c8b|concept
+past Accord|2|misc|9ccb6cad21444a27b7970917ba7e6c8b|concept
+Pandemic Accord|4|concept|50ba14851d3f4a95ac0e459eb61a0f50|concept
+IHR|3|concept|50ba14851d3f4a95ac0e459eb61a0f50|concept
+civil society organisations|3|organisation|50ba14851d3f4a95ac0e459eb61a0f50|concept
+parliamentary systems|3|organisation|50ba14851d3f4a95ac0e459eb61a0f50|concept
+zero draft|2|document|50ba14851d3f4a95ac0e459eb61a0f50|concept
+first draft|2|document|50ba14851d3f4a95ac0e459eb61a0f50|concept
+Accord|5|event|bc526127448645b3837dcc3b45668a83|concept
+Human Rights Protection|4|concept|bc526127448645b3837dcc3b45668a83|concept
+Public Health and Healthcare Systems|3|object|bc526127448645b3837dcc3b45668a83|concept
+Staff Protection|4|misc|bc526127448645b3837dcc3b45668a83|concept
+Misinformation Management|3|event|bc526127448645b3837dcc3b45668a83|concept
+Whole-of-Society Approach|4|concept|bc526127448645b3837dcc3b45668a83|concept
+Global Coordination|3|event|bc526127448645b3837dcc3b45668a83|concept
+Preparedness Plans|4|event|bc526127448645b3837dcc3b45668a83|concept
+Simulation Exercises|3|event|bc526127448645b3837dcc3b45668a83|concept
+Universal Health and Preparedness Review|4|document|bc526127448645b3837dcc3b45668a83|concept
+plans|3|concept|5e2a17a4edaa487290ad2532cd863fd8|concept
+independent assessment|2|concept|5e2a17a4edaa487290ad2532cd863fd8|concept
+public health response|3|concept|5e2a17a4edaa487290ad2532cd863fd8|concept
+IHR|2|organisation|5e2a17a4edaa487290ad2532cd863fd8|concept
+Accelerating Global Health|5|event|83977ec929b94ecc86a6c51a35fa39cf|concept
+Pathways to Health Equity for the G20|5|event|83977ec929b94ecc86a6c51a35fa39cf|concept
+one health|4|concept|83977ec929b94ecc86a6c51a35fa39cf|concept
+zoonoses|3|condition|83977ec929b94ecc86a6c51a35fa39cf|concept
+wet markets|2|place|83977ec929b94ecc86a6c51a35fa39cf|concept
+Joint Plan of Action|3|document|83977ec929b94ecc86a6c51a35fa39cf|concept
+equity|4|condition|83977ec929b94ecc86a6c51a35fa39cf|concept
+access to vaccines, drugs, and other medical equipment|5|event|c4ed77f811a94b6b8d85279085b53df5|concept
+ Member states|4|concept|c4ed77f811a94b6b8d85279085b53df5|concept
+differences among them|3|condition|c4ed77f811a94b6b8d85279085b53df5|concept
+Developing countries|4|concept|c4ed77f811a94b6b8d85279085b53df5|concept
+wider spread of manufacturing|3|event|c4ed77f811a94b6b8d85279085b53df5|concept
+Success in getting mRNA vaccine manufacturing underway in South Africa|4|event|c4ed77f811a94b6b8d85279085b53df5|concept
+manufacturing for the whole continent and globally|3|event|c4ed77f811a94b6b8d85279085b53df5|concept
+financial investment|4|condition|c4ed77f811a94b6b8d85279085b53df5|concept
+technology transfer|3|event|c4ed77f811a94b6b8d85279085b53df5|concept
+pharmaceutical industry|4|organisation|c4ed77f811a94b6b8d85279085b53df5|concept
+technology transfer and the associated question of intellectual property rights|3|condition|c4ed77f811a94b6b8d85279085b53df5|concept
+wealthier governments funding R&D|4|event|c4ed77f811a94b6b8d85279085b53df5|concept
+companies earmark a percentage of vaccines for the poorer countries or sell to them at cost|3|event|c4ed77f811a94b6b8d85279085b53df5|concept
+pharmaceutical industry|4|organisation|1a4820465fa844f8901275aa62a66e82|concept
+infectious diseases|3|condition|1a4820465fa844f8901275aa62a66e82|concept
+Pandemic Accord|5|concept|abe8dec679a3446db21c31d36bcd3b12|concept
+World Trade Organization|3|organisation|abe8dec679a3446db21c31d36bcd3b12|concept
+TRIPS waiver|4|concept|abe8dec679a3446db21c31d36bcd3b12|concept
+Doha Trade Round|3|event|abe8dec679a3446db21c31d36bcd3b12|concept
+equity of access|4|concept|abe8dec679a3446db21c31d36bcd3b12|concept
+Pandemic Accord and the IHR|3|misc|abe8dec679a3446db21c31d36bcd3b12|concept
+financing|4|concept|abe8dec679a3446db21c31d36bcd3b12|concept
+G20 Independent High-Level Panel|3|organisation|abe8dec679a3446db21c31d36bcd3b12|concept
+annual financing need for future preparedness and response to pandemics|4|concept|abe8dec679a3446db21c31d36bcd3b12|concept
+PPR|2|organisation|abe8dec679a3446db21c31d36bcd3b12|concept
+health systems|4|concept|c410a5c9df2e4df2998153d58af3836c|concept
+R&D|3|concept|c410a5c9df2e4df2998153d58af3836c|concept
+overall preparedness|4|concept|c410a5c9df2e4df2998153d58af3836c|concept
+G20 report|3|document|c410a5c9df2e4df2998153d58af3836c|concept
+Pandemic Fund at the World Bank|4|organisation|c410a5c9df2e4df2998153d58af3836c|concept
+IHR|3|concept|c410a5c9df2e4df2998153d58af3836c|concept
+Accountability|4|misc|c410a5c9df2e4df2998153d58af3836c|concept
+Accord|3|concept|c410a5c9df2e4df2998153d58af3836c|concept
+external accountability mechanisms|4|misc|c410a5c9df2e4df2998153d58af3836c|concept
+independent assessment of countries|3|concept|c410a5c9df2e4df2998153d58af3836c|concept
+Accord|4|event|c134e5a2812f44f9803c15d7591765a0|concept
+WHO|3|organisation|c134e5a2812f44f9803c15d7591765a0|concept
+Accord|4|event|42c1df8501c946858051c31ad52c5ec5|concept
+IHR|3|concept|42c1df8501c946858051c31ad52c5ec5|concept
+WHO|4|organisation|42c1df8501c946858051c31ad52c5ec5|concept
+International Atomic Energy Agency (IAEA)|3|organisation|42c1df8501c946858051c31ad52c5ec5|concept
+public space|3|misc|42c1df8501c946858051c31ad52c5ec5|concept
+independent assessment body|4|organisation|42c1df8501c946858051c31ad52c5ec5|concept
+monitoring information|3|misc|42c1df8501c946858051c31ad52c5ec5|concept
+pandemics|4|event|42c1df8501c946858051c31ad52c5ec5|concept
+governments|3|misc|42c1df8501c946858051c31ad52c5ec5|concept
+Global Public Health Convention|5|event|d4d6f26b296047fabb3e74cec31ebc41|concept
+countries across the world|4|organisation|d4d6f26b296047fabb3e74cec31ebc41|concept
+resources to deliver|3|condition|d4d6f26b296047fabb3e74cec31ebc41|concept
+Dame Barbara Stocking|4|person|d4d6f26b296047fabb3e74cec31ebc41|concept
+Panel for a Global Public Health Convention|3|organisation|d4d6f26b296047fabb3e74cec31ebc41|concept
+investments in future|3|concept|f21a0cbf122d44f599f9b52ccec5f521|concept
+Ensuring Equitable Supply and Access|2|concept|f21a0cbf122d44f599f9b52ccec5f521|concept
+Critical Vaccines|3|concept|f21a0cbf122d44f599f9b52ccec5f521|concept
+Pandemics|4|concept|f21a0cbf122d44f599f9b52ccec5f521|concept
+COV AX Aurélia Nguyen|2|misc|f21a0cbf122d44f599f9b52ccec5f521|concept
+pandemic|5|event|7aa69007cfd442f9822d3663a6c4c65a|concept
+health systems|4|concept|7aa69007cfd442f9822d3663a6c4c65a|concept
+COVAX Facility|3|organisation|7aa69007cfd442f9822d3663a6c4c65a|concept
+Access to COVID-19 Tools Accelerator (ACT-A)|4|concept|7aa69007cfd442f9822d3663a6c4c65a|concept
+COVAX|3|organisation|7aa69007cfd442f9822d3663a6c4c65a|concept
+Coalition for Epidemic Preparedness Innovations (CEPI)|2|organisation|7aa69007cfd442f9822d3663a6c4c65a|concept
+World Health Organization (WHO)|4|organisation|7aa69007cfd442f9822d3663a6c4c65a|concept
+United Nations Children’s Fund (UNICEF)|3|organisation|7aa69007cfd442f9822d3663a6c4c65a|concept
+Gavi, the Vaccine Alliance|5|organisation|3c76d07238434794b3a491927cbf70e4|concept
+COVAX AMC|4|organisation|3c76d07238434794b3a491927cbf70e4|concept
+Imperial College London|3|organisation|3c76d07238434794b3a491927cbf70e4|concept
+COVID-19 vaccinations|4|concept|3c76d07238434794b3a491927cbf70e4|concept
+conditions|3|condition|3c76d07238434794b3a491927cbf70e4|concept
+pandemic|4|concept|3c76d07238434794b3a491927cbf70e4|concept
+Accelerating Global Health|3|event|80889f7b0eaa4090934f8879b238d535|concept
+Pathways to Health Equity for the G20|4|concept|80889f7b0eaa4090934f8879b238d535|concept
+procurement, distribution, administration of COVID-19 vaccines|5|misc|80889f7b0eaa4090934f8879b238d535|concept
+COVID-19|4|event|80889f7b0eaa4090934f8879b238d535|concept
+COVAX|3|organisation|80889f7b0eaa4090934f8879b238d535|concept
+vaccine makers|4|organisation|80889f7b0eaa4090934f8879b238d535|concept
+bilateral customers|3|misc|80889f7b0eaa4090934f8879b238d535|concept
+vaccine candidates|5|concept|4d3ad7c8415c4169b650d2f3754e263d|concept
+COVAX|4|organisation|4d3ad7c8415c4169b650d2f3754e263d|concept
+export bans|3|misc|4d3ad7c8415c4169b650d2f3754e263d|concept
+global health agencies|4|organisation|4d3ad7c8415c4169b650d2f3754e263d|concept
+COVAX Facility|3|organisation|4d3ad7c8415c4169b650d2f3754e263d|concept
+recommendations|4|misc|895f9a65a28c496595bb295596c4fdd1|concept
+supply|4|concept|895f9a65a28c496595bb295596c4fdd1|concept
+demand|4|concept|895f9a65a28c496595bb295596c4fdd1|concept
+R&D|5|concept|895f9a65a28c496595bb295596c4fdd1|concept
+manufacturing|4|concept|895f9a65a28c496595bb295596c4fdd1|concept
+country-level challenges|5|misc|895f9a65a28c496595bb295596c4fdd1|concept
+other factors|4|misc|895f9a65a28c496595bb295596c4fdd1|concept
+at-risk investments|5|misc|895f9a65a28c496595bb295596c4fdd1|concept
+funding|4|concept|895f9a65a28c496595bb295596c4fdd1|concept
+vaccines|5|object|895f9a65a28c496595bb295596c4fdd1|concept
+R&D stage|4|misc|895f9a65a28c496595bb295596c4fdd1|concept
+COVAX|4|organisation|19c06e9b16344d5f98aae0410d469d9c|concept
+pandemic vaccine pool (PVP)|3|organisation|19c06e9b16344d5f98aae0410d469d9c|concept
+lower-income countries|2|place|19c06e9b16344d5f98aae0410d469d9c|concept
+vaccine candidates|3|misc|19c06e9b16344d5f98aae0410d469d9c|concept
+COVID-19|4|event|19c06e9b16344d5f98aae0410d469d9c|concept
+multinational trade-facilitation measures|3|organisation|19c06e9b16344d5f98aae0410d469d9c|concept
+life-saving equipment|5|object|f85f8a3779d1458a97ac8d5f13f782d0|concept
+health emergencies|4|event|f85f8a3779d1458a97ac8d5f13f782d0|concept
+exemptions and waivers|3|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+trade barriers|3|condition|f85f8a3779d1458a97ac8d5f13f782d0|concept
+life-saving medical countermeasures and materials|4|object|f85f8a3779d1458a97ac8d5f13f782d0|concept
+low- and middle-income countries|3|organisation|f85f8a3779d1458a97ac8d5f13f782d0|concept
+humanitarian situations|4|event|f85f8a3779d1458a97ac8d5f13f782d0|concept
+vaccines|5|object|f85f8a3779d1458a97ac8d5f13f782d0|concept
+vaccinations|4|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+strong, reliable health systems|4|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+early R&D|3|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+scaling-up manufacturing|4|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+securing deals|3|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+consistent policy guidance|3|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+operational, logistical, regulatory, and legal frameworks|4|concept|f85f8a3779d1458a97ac8d5f13f782d0|concept
+ancillary supplies|3|object|f85f8a3779d1458a97ac8d5f13f782d0|concept
+cold chain|3|object|f85f8a3779d1458a97ac8d5f13f782d0|concept
+safe injection equipment|3|object|f85f8a3779d1458a97ac8d5f13f782d0|concept
+international freight and logistics|3|organisation|f85f8a3779d1458a97ac8d5f13f782d0|concept
+in-country delivery requirements|5|event|7b0a4ad9437f45829cb41258f4f78a71|concept
+personal protective equipment for healthcare workers|4|object|7b0a4ad9437f45829cb41258f4f78a71|concept
+countries lacking infrastructure|3|condition|7b0a4ad9437f45829cb41258f4f78a71|concept
+Gavi and WHO|4|organisation|7b0a4ad9437f45829cb41258f4f78a71|concept
+Accelerating Global Health|3|event|4b38bb5b7e7343dc87ddf380cad54595|concept
+Pathways to Health Equity for the G20|3|event|4b38bb5b7e7343dc87ddf380cad54595|concept
+cold chains|3|object|4b38bb5b7e7343dc87ddf380cad54595|concept
+immunisation programmes|4|concept|4b38bb5b7e7343dc87ddf380cad54595|concept
+Gavi|3|organisation|4b38bb5b7e7343dc87ddf380cad54595|concept
+lower-income countries' routine immunisation programmes|4|concept|4b38bb5b7e7343dc87ddf380cad54595|concept
+COVID-19 vaccines|3|object|4b38bb5b7e7343dc87ddf380cad54595|concept
+extra burden of delivering COVID-19 vaccines to other populations|2|misc|4b38bb5b7e7343dc87ddf380cad54595|concept
+efforts to vaccinate mostly children|3|misc|4b38bb5b7e7343dc87ddf380cad54595|concept
+relatively little decline in routine immunisation|2|misc|4b38bb5b7e7343dc87ddf380cad54595|concept
+vaccinators, doctors and nurses were burned out|3|misc|4b38bb5b7e7343dc87ddf380cad54595|concept
+immunisation in Gavi-implementing countries|2|misc|4b38bb5b7e7343dc87ddf380cad54595|concept
+COVID-19|5|event|c34ec7b0256847df9acfe84b02149252|concept
+Health system strengthening investments|4|concept|c34ec7b0256847df9acfe84b02149252|concept
+Primary healthcare services|3|concept|c34ec7b0256847df9acfe84b02149252|concept
+Cold chain|2|object|c34ec7b0256847df9acfe84b02149252|concept
+Vaccine track-and-trace|3|concept|c34ec7b0256847df9acfe84b02149252|concept
+Human resources|2|object|c34ec7b0256847df9acfe84b02149252|concept
+Data monitoring systems|3|concept|c34ec7b0256847df9acfe84b02149252|concept
+COVID-19 vaccine Delivery Support (CDS)|4|organisation|c34ec7b0256847df9acfe84b02149252|concept
+Gavi|3|organisation|c34ec7b0256847df9acfe84b02149252|concept
+COVAX|5|organisation|0e304bf478d4428e929abad5c796e272|concept
+Gavi-implementing countries|4|place|0e304bf478d4428e929abad5c796e272|concept
+routine immunisation|3|concept|0e304bf478d4428e929abad5c796e272|concept
+COVID-19 vaccine coverage|4|condition|0e304bf478d4428e929abad5c796e272|concept
+pandemic preparedness|3|concept|0e304bf478d4428e929abad5c796e272|concept
+most vulnerable people|4|misc|0e304bf478d4428e929abad5c796e272|concept
+equitable supply of vaccines|3|concept|0e304bf478d4428e929abad5c796e272|concept
+vaccine nationalism|5|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+hoarding|4|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+export bans|3|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+COVAX Facility|5|organisation|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+H1N1 pandemic|4|event|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+vaccines|5|object|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+lower-income economies|3|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+wealthier nations|4|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+COVID-19 vaccines|5|object|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+vaccine-candidates|4|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+technology platforms|3|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+regulatory approval|3|event|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+large-scale investments|4|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+COVAX portfolio|4|organisation|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+191 countries|2|misc|27df9e2ca46243ad8d81ff5a54a1fb00|concept
+COVAX|5|organisation|55b09ec3abaf48e98355f0d359b46caf|concept
+finite supply of vaccine doses|3|condition|55b09ec3abaf48e98355f0d359b46caf|concept
+H1N1 vaccine|2|concept|55b09ec3abaf48e98355f0d359b46caf|concept
+Accelerating Global Health|4|event|d4a21a81d74e413ba4d349be59d06804|concept
+Pathways to Health Equity for the G20|3|event|d4a21a81d74e413ba4d349be59d06804|concept
+COVID-19 pandemic|5|event|d4a21a81d74e413ba4d349be59d06804|concept
+vaccine manufacturing|4|object|d4a21a81d74e413ba4d349be59d06804|concept
+African continent|2|place|d4a21a81d74e413ba4d349be59d06804|concept
+Africa Center for Disease Control|2|organisation|d4a21a81d74e413ba4d349be59d06804|concept
+Memorandum of Understanding|3|event|d4a21a81d74e413ba4d349be59d06804|concept
+Gavi|2|organisation|d4a21a81d74e413ba4d349be59d06804|concept
+African Union Commission|2|organisation|d4a21a81d74e413ba4d349be59d06804|concept
+sustainable regional vaccine manufacturing|4|event|d07c2d94246f4df795c7be6170d78db1|concept
+commitments to increase political, financial, and technical investments in immunisation programmes|4|event|d07c2d94246f4df795c7be6170d78db1|concept
+models for ensuring lower-income countries receive vaccine doses|3|event|d07c2d94246f4df795c7be6170d78db1|concept
+manufacturers' transparency about their order books|4|event|d07c2d94246f4df795c7be6170d78db1|concept
+supply inequities among countries|3|condition|d07c2d94246f4df795c7be6170d78db1|concept
+contingent financing for pandemic response|4|event|d07c2d94246f4df795c7be6170d78db1|concept
+COVAX AMC funding|3|document|d07c2d94246f4df795c7be6170d78db1|concept
+PVP funding|3|organisation|d7a7913899f445febee6bff8c39924bc|concept
+variant-containing vaccine boosters|4|object|d7a7913899f445febee6bff8c39924bc|concept
+2024–25 COVID-19 programme|4|event|d7a7913899f445febee6bff8c39924bc|concept
+Gavi board|3|organisation|d7a7913899f445febee6bff8c39924bc|concept
+COVAX|5|organisation|54d16e33cfb44174b61da49448891293|concept
+Gavi, the Vaccine Alliance|4|organisation|54d16e33cfb44174b61da49448891293|concept
+Aurélia Nguyen|3|person|54d16e33cfb44174b61da49448891293|concept
+Global Vaccine Library|4|concept|0cd02fb084694bbca463dd2b114f1d48|concept
+coronavirus|5|organisation|0cd02fb084694bbca463dd2b114f1d48|concept
+spike protein|4|concept|0cd02fb084694bbca463dd2b114f1d48|concept
+neutralising antibodies|3|concept|0cd02fb084694bbca463dd2b114f1d48|concept
+RSV|4|organisation|0cd02fb084694bbca463dd2b114f1d48|concept
+SARS|4|organisation|0cd02fb084694bbca463dd2b114f1d48|concept
+MERS|4|organisation|0cd02fb084694bbca463dd2b114f1d48|concept
+security bodies|3|organisation|d7a7df237a9b4336b1e40e727ecdd5c9|concept
+smallpox vaccines|4|object|d7a7df237a9b4336b1e40e727ecdd5c9|concept
+Mpox|3|concept|d7a7df237a9b4336b1e40e727ecdd5c9|concept
+2022 Mpox epidemic|4|event|d7a7df237a9b4336b1e40e727ecdd5c9|concept
+Accelerating Global Health|3|event|7a57613761f64fe58fbc8709d4670828|concept
+Pathways to Health Equity for the G20|3|event|7a57613761f64fe58fbc8709d4670828|concept
+Viral Threats|3|concept|7a57613761f64fe58fbc8709d4670828|concept
+Infectious Pathogens|4|concept|7a57613761f64fe58fbc8709d4670828|concept
+Containment Race|3|event|7a57613761f64fe58fbc8709d4670828|concept
+Pandemic Control|4|concept|7a57613761f64fe58fbc8709d4670828|concept
+Coalition for Epidemic Preparedness Innovations (CEPI)|3|organisation|7a57613761f64fe58fbc8709d4670828|concept
+One World Vaccine Library|4|document|7a57613761f64fe58fbc8709d4670828|concept
+global community|5|organisation|58efa624d5c4493eb9e220aab122325c|concept
+health security|4|concept|58efa624d5c4493eb9e220aab122325c|concept
+pandemic threats|3|event|58efa624d5c4493eb9e220aab122325c|concept
+vaccines|4|object|58efa624d5c4493eb9e220aab122325c|concept
+dangerous and deadly outbreaks|2|event|58efa624d5c4493eb9e220aab122325c|concept
+incipient pandemic|3|event|58efa624d5c4493eb9e220aab122325c|concept
+potential opponents|2|concept|58efa624d5c4493eb9e220aab122325c|concept
+viruses from around 25 viral families|3|organisation|58efa624d5c4493eb9e220aab122325c|concept
+One World Vaccine Library|3|misc|dc468156950d4a4d8a8878e75499afa3|concept
+viral-family-based prototype vaccine approach|4|concept|dc468156950d4a4d8a8878e75499afa3|concept
+Accelerating Global Health|5|event|0b579a5b26e9407a902cb29529089cee|concept
+Pathways to Health Equity for the G20|4|event|0b579a5b26e9407a902cb29529089cee|concept
+novel paramyxovirus|3|concept|0b579a5b26e9407a902cb29529089cee|concept
+One World Vaccine Library|5|object|0b579a5b26e9407a902cb29529089cee|concept
+Develop vaccines|3|event|cc987a2a91d846c5a1d952ecc309cc62|concept
+Researchers|2|organisation|cc987a2a91d846c5a1d952ecc309cc62|concept
+New outbreak and virus|2|event|cc987a2a91d846c5a1d952ecc309cc62|concept
+Genome sequencing|3|concept|cc987a2a91d846c5a1d952ecc309cc62|concept
+One World Vaccine Library|4|object|cc987a2a91d846c5a1d952ecc309cc62|concept
+CEPI|3|organisation|cc987a2a91d846c5a1d952ecc309cc62|concept
+Virus families|2|concept|cc987a2a91d846c5a1d952ecc309cc62|concept
+Disease X|3|concept|cc987a2a91d846c5a1d952ecc309cc62|concept
+Vaccine library candidates|3|object|cc987a2a91d846c5a1d952ecc309cc62|concept
+clinical testing|4|event|f82e8abf722e423ba48ded1798296b13|concept
+safety|3|condition|f82e8abf722e423ba48ded1798296b13|concept
+immunogenicity|4|concept|f82e8abf722e423ba48ded1798296b13|concept
+platform|3|object|f82e8abf722e423ba48ded1798296b13|concept
+antigens|2|object|f82e8abf722e423ba48ded1798296b13|concept
+lead candidates|4|organisation|f82e8abf722e423ba48ded1798296b13|concept
+families|3|misc|f82e8abf722e423ba48ded1798296b13|concept
+clinical proof of concept|4|concept|f82e8abf722e423ba48ded1798296b13|concept
+One World Vaccine Library|5|object|8cb3bc020aed4d0a86a05c1f658e2708|concept
+100 Days Mission|4|event|8cb3bc020aed4d0a86a05c1f658e2708|concept
+CEPI's 100 Days Mission|3|concept|8cb3bc020aed4d0a86a05c1f658e2708|concept
+G7 and the G20|3|organisation|8cb3bc020aed4d0a86a05c1f658e2708|concept
+Disease X pandemic virus|4|condition|8cb3bc020aed4d0a86a05c1f658e2708|concept
+new vaccines|3|object|8cb3bc020aed4d0a86a05c1f658e2708|concept
+improved surveillance|2|condition|8cb3bc020aed4d0a86a05c1f658e2708|concept
+non-pharmaceutical interventions|3|misc|8cb3bc020aed4d0a86a05c1f658e2708|concept
+One World Vaccine Library|5|concept|f5b55f34587246179c6c6d2bc0801141|concept
+virus families|4|concept|f5b55f34587246179c6c6d2bc0801141|concept
+pandemics|3|concept|f5b55f34587246179c6c6d2bc0801141|concept
+100 Days Mission|2|event|f5b55f34587246179c6c6d2bc0801141|concept
+pandemics|5|event|4160fb9924f24b5eb68e493cd9361060|concept
+Dr. Richard Hatchett|4|person|4160fb9924f24b5eb68e493cd9361060|concept
+Coalition for Epidemic Preparedness Innovations (CEPI)|5|organisation|4160fb9924f24b5eb68e493cd9361060|concept
+Kate Kelland|3|person|4160fb9924f24b5eb68e493cd9361060|concept
+Public Health Workforce|5|concept|732fe967002642599669103e63f2f22a|concept
+COVID-19 pandemic|4|event|732fe967002642599669103e63f2f22a|concept
+Public Health System|3|object|732fe967002642599669103e63f2f22a|concept
+Essential health services|2|object|732fe967002642599669103e63f2f22a|concept
+Routine immunisation|1|object|732fe967002642599669103e63f2f22a|concept
+Disease outbreaks|2|event|732fe967002642599669103e63f2f22a|concept
+limited availability of the health workforce|5|event|3dcdf4837b764370bb2cf1e2776825cc|concept
+COVID-19 infections and deaths among health workers|4|event|3dcdf4837b764370bb2cf1e2776825cc|concept
+mental health issues, including burnout|3|condition|3dcdf4837b764370bb2cf1e2776825cc|concept
+poor working conditions|3|condition|3dcdf4837b764370bb2cf1e2776825cc|concept
+protracted conflicts|2|event|3dcdf4837b764370bb2cf1e2776825cc|concept
+global increase in climate-related and humanitarian disasters|2|event|3dcdf4837b764370bb2cf1e2776825cc|concept
+public health crisis|3|event|3dcdf4837b764370bb2cf1e2776825cc|concept
+reversals in life expectancy and Sustainable Development Goals|2|condition|3dcdf4837b764370bb2cf1e2776825cc|concept
+Investing in the Public Health Workforce|5|concept|c9d7fdd45c4e4061ac050c6a21b2f583|concept
+Essential Public Health Functiona (EPHF)|5|concept|c9d7fdd45c4e4061ac050c6a21b2f583|concept
+Global investment|5|misc|c9d7fdd45c4e4061ac050c6a21b2f583|concept
+G7 and G20 intergovernmental processes|4|event|c9d7fdd45c4e4061ac050c6a21b2f583|concept
+World Health Organization (WHO)|5|organization|c9d7fdd45c4e4061ac050c6a21b2f583|concept
+regional, and global bodies|5|organisation|525f8e57fb164f289fed4c4155309473|concept
+G20|4|organisation|525f8e57fb164f289fed4c4155309473|concept
+G7|4|organisation|525f8e57fb164f289fed4c4155309473|concept
+COVID-19 pandemic|3|event|525f8e57fb164f289fed4c4155309473|concept
+EPHFs (Emergency Public Health Functions)|2|concept|525f8e57fb164f289fed4c4155309473|concept
+World Federation of Public Health Associations (WFPHA), International|2|organisation|525f8e57fb164f289fed4c4155309473|concept
+Association of National Public Health Institutions (IANPHI)|4|organisation|99d0ffec664a4147b99327b232eec755|concept
+Global Network Academic Schools of Public Health (GNASPH).|3|organisation|99d0ffec664a4147b99327b232eec755|concept
+Global Health Summit|5|event|2106f61eb09845f7855d15da890e67ae|concept
+Rome Declaration|4|document|2106f61eb09845f7855d15da890e67ae|concept
+G20 Italia Declaration of Health Ministers|3|document|2106f61eb09845f7855d15da890e67ae|concept
+health workforce|5|misc|5837ba13e7f942cf8b17ebfcaef29429|concept
+COVID-19|4|event|5837ba13e7f942cf8b17ebfcaef29429|concept
+G7 Summit|4|event|5837ba13e7f942cf8b17ebfcaef29429|concept
+Carbis Bay Health Declaration|3|document|5837ba13e7f942cf8b17ebfcaef29429|concept
+G7 Germany|2|event|5837ba13e7f942cf8b17ebfcaef29429|concept
+pandemic preparedness and response|4|concept|1ef5b0e99e864a539d6ef6e41039de13|concept
+G7 Pact for Pandemic Readiness|3|organisation|1ef5b0e99e864a539d6ef6e41039de13|concept
+Berlin|2|place|1ef5b0e99e864a539d6ef6e41039de13|concept
+low- and lower-middle income countries (LMICs)|3|concept|1ef5b0e99e864a539d6ef6e41039de13|concept
+Public Health Workforce|4|concept|58263ccaef7b48289de7a0d400d6d13d|concept
+pandemic preparedness and response|3|concept|58263ccaef7b48289de7a0d400d6d13d|concept
+WHO|4|organisation|58263ccaef7b48289de7a0d400d6d13d|concept
+Strengthening the Global Architecture for Health Emergency Preparedness and Response (HEPR)|3|document|58263ccaef7b48289de7a0d400d6d13d|concept
+G7 Roadmap|2|document|58263ccaef7b48289de7a0d400d6d13d|concept
+International Health Regulation (IHR 2005)|3|document|58263ccaef7b48289de7a0d400d6d13d|concept
+G7 Pact|2|misc|58263ccaef7b48289de7a0d400d6d13d|concept
+Pandemic Fund|3|object|58263ccaef7b48289de7a0d400d6d13d|concept
+Impact Investment Initiative for Global Health|3|event|7cb2165fcdc945c6ae0860e59f189275|concept
+United Nations' three High-Level Meetings|4|event|7cb2165fcdc945c6ae0860e59f189275|concept
+Global South|3|place|7cb2165fcdc945c6ae0860e59f189275|concept
+non-communicable and communicable diseases|2|condition|7cb2165fcdc945c6ae0860e59f189275|concept
+PPR|2|condition|7cb2165fcdc945c6ae0860e59f189275|concept
+Essential health services|3|object|7cb2165fcdc945c6ae0860e59f189275|concept
+Public health workforce|4|organisation|7cb2165fcdc945c6ae0860e59f189275|concept
+G20 and the G7 processes|3|event|7cb2165fcdc945c6ae0860e59f189275|concept
+12 essential public health functions|2|concept|7cb2165fcdc945c6ae0860e59f189275|concept
+roadmap|4|plan|c758753adaf94ea9a1978600c51ad623|concept
+national public health workforce capacity|5|concept|c758753adaf94ea9a1978600c51ad623|concept
+EPHFs|4|event|c758753adaf94ea9a1978600c51ad623|concept
+emergency preparedness and response|3|concept|c758753adaf94ea9a1978600c51ad623|concept
+public health workforce|4|organisation|c758753adaf94ea9a1978600c51ad623|concept
+Public Health Workforce|5|concept|b5e8fd8bf09244c9a74995e5e618f489|concept
+occupations outside of the health sector|4|misc|b5e8fd8bf09244c9a74995e5e618f489|concept
+Global partners|3|organisation|b5e8fd8bf09244c9a74995e5e618f489|concept
+roadmap and action plan|4|document|b5e8fd8bf09244c9a74995e5e618f489|concept
+standard EPHF|3|concept|b5e8fd8bf09244c9a74995e5e618f489|concept
+whole-of-government and whole-of-society approach|4|misc|b5e8fd8bf09244c9a74995e5e618f489|concept
+national stakeholders|3|organisation|b5e8fd8bf09244c9a74995e5e618f489|concept
+existing national and global networks of partners|4|misc|b5e8fd8bf09244c9a74995e5e618f489|concept
+country-based assessment|3|event|b5e8fd8bf09244c9a74995e5e618f489|concept
+policy improvement|4|concept|b5e8fd8bf09244c9a74995e5e618f489|concept
+workforce capacity and readiness|5|concept|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+national assessments and benchmarking|4|event|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+G20 support to invest in preparedness and national capacity|5|event|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+World Bank’s Pandemic Fund|4|organization|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+strengthening human resources|5|concept|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+countries prevent, prepare for, and respond to health emergencies|4|event|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+sustainable public health workforce capacity in LMICs|5|concept|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+alignment with the ongoing governance processes of IHR 2005 amendments and negotiations on a global pandemic accord|4|event|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+Intergovernmental Negotiating Body (INB) on a new WHO convention, agreement, or other international instruments on PPR (WHO CA+)|3|organization|0cb51c16f7fe42cb9f4ad07e5e6ab337|concept
+WHO|3|organisation|503ecc2f98c64e4ba8733349b9834adc|concept
+convention, agreement, international instrument|4|event|503ecc2f98c64e4ba8733349b9834adc|concept
+PPR (WHO CA+)|3|condition|503ecc2f98c64e4ba8733349b9834adc|concept
+International Health Regulation|2|document|503ecc2f98c64e4ba8733349b9834adc|concept
+amendments|3|event|503ecc2f98c64e4ba8733349b9834adc|concept
+Accelerating Global Health|4|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+Pathways to Health Equity for the G20|4|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+Role of India's G20 Presidency|3|event|0ed58dcdb4a043718b2c6e0652992e78|concept
+intergovernmental consensus and commitment for public health strengthening|4|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+public health workforce needs|3|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+G20 in India|3|event|0ed58dcdb4a043718b2c6e0652992e78|concept
+SDGs and global health architecture for PPR|4|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+Indian presidency|3|event|0ed58dcdb4a043718b2c6e0652992e78|concept
+multilateral investment|3|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+LMICs|3|acronym|0ed58dcdb4a043718b2c6e0652992e78|concept
+G20 stakeholders|3|concept|0ed58dcdb4a043718b2c6e0652992e78|concept
+IHR amendments|4|concept|84f7c3515e664f558f550a928bdde5b8|concept
+WHO CA+|3|organisation|84f7c3515e664f558f550a928bdde5b8|concept
+Geneva|2|place|84f7c3515e664f558f550a928bdde5b8|concept
+Public Health Workforce|5|concept|9788f3475aa54d1db48ff648f860e453|concept
+Gender Inequality|4|concept|9788f3475aa54d1db48ff648f860e453|concept
+Health Sector|3|organisation|9788f3475aa54d1db48ff648f860e453|concept
+World Health Organization|4|organisation|9788f3475aa54d1db48ff648f860e453|concept
+Public health and emergency workforce roadmap|3|document|9788f3475aa54d1db48ff648f860e453|concept
+International Association of National Public Health Institutes (IANPHI)|3|organisation|9e0d4b33f8d34f858eb42aa765c93415|concept
+ASPPH|2|organisation|9e0d4b33f8d34f858eb42aa765c93415|concept
+Competency based education, Public health and emergency workforce roadmap|3|concept|9e0d4b33f8d34f858eb42aa765c93415|concept
+emergencies|2|event|9e0d4b33f8d34f858eb42aa765c93415|concept
+Public health|3|concept|9e0d4b33f8d34f858eb42aa765c93415|concept
+One Health|5|concept|c347385c32c941ca9500d586d9b9e88e|concept
+World Health Organization|3|organisation|c347385c32c941ca9500d586d9b9e88e|concept
+Food and Agriculture Organization|2|organisation|c347385c32c941ca9500d586d9b9e88e|concept
+United Nations Environment Programme|2|organisation|c347385c32c941ca9500d586d9b9e88e|concept
+World Organisation for Animal Health|2|organisation|c347385c32c941ca9500d586d9b9e88e|concept
+One Health|5|concept|2dd90976e41d4112a2f6e029eb90b1e3|concept
+pandemic prevention, preparedness, and response|4|concept|2dd90976e41d4112a2f6e029eb90b1e3|concept
+domestic health systems|3|object|2dd90976e41d4112a2f6e029eb90b1e3|concept
+India|4|place|2dd90976e41d4112a2f6e029eb90b1e3|concept
+Multisectoral inclusivity|3|concept|e2379daababe407ba77deb9138fedacf|concept
+OH concept|4|concept|e2379daababe407ba77deb9138fedacf|concept
+Antimicrobial Resistance (AMR)|5|condition|e2379daababe407ba77deb9138fedacf|concept
+Antimicrobial Resistance (AMR)|5|concept|d33d167928ec4c02a898302812a56a09|concept
+WHO|4|organisation|d33d167928ec4c02a898302812a56a09|concept
+Global Public Health Threats|3|concept|d33d167928ec4c02a898302812a56a09|concept
+2050|4|event|d33d167928ec4c02a898302812a56a09|concept
+10 million deaths|3|condition|d33d167928ec4c02a898302812a56a09|concept
+Global Economy|2|concept|d33d167928ec4c02a898302812a56a09|concept
+US$11-444 million|3|misc|d33d167928ec4c02a898302812a56a09|concept
+global health system|5|organisation|f5f198d153604bd3a98fa4917c114a0e|concept
+drug-resistant Tuberculosis|4|condition|f5f198d153604bd3a98fa4917c114a0e|concept
+HIV infections|4|condition|f5f198d153604bd3a98fa4917c114a0e|concept
+artemisinin-based combination therapy-resistance|3|condition|f5f198d153604bd3a98fa4917c114a0e|concept
+antileprotic drug resistance|3|condition|f5f198d153604bd3a98fa4917c114a0e|concept
+zoonotic diseases|4|event|f5f198d153604bd3a98fa4917c114a0e|concept
+pathogens|3|object|f5f198d153604bd3a98fa4917c114a0e|concept
+animals|4|misc|f5f198d153604bd3a98fa4917c114a0e|concept
+urbanisation|3|condition|f5f198d153604bd3a98fa4917c114a0e|concept
+destruction of natural habitats|3|event|f5f198d153604bd3a98fa4917c114a0e|concept
+illegal trade in wildlife|3|organisation|f5f198d153604bd3a98fa4917c114a0e|concept
+wet markets|3|object|f5f198d153604bd3a98fa4917c114a0e|concept
+zoonotic disease|5|concept|764f6457770c4826aadcd6d83adba840|concept
+SARS|3|event|764f6457770c4826aadcd6d83adba840|concept
+MERS|3|event|764f6457770c4826aadcd6d83adba840|concept
+Ebola|3|event|764f6457770c4826aadcd6d83adba840|concept
+Nipah|3|event|764f6457770c4826aadcd6d83adba840|concept
+avian influenza|3|event|764f6457770c4826aadcd6d83adba840|concept
+agriculture sector|4|concept|764f6457770c4826aadcd6d83adba840|concept
+meat handling|3|event|764f6457770c4826aadcd6d83adba840|concept
+eggs|2|object|764f6457770c4826aadcd6d83adba840|concept
+dairy products|2|object|764f6457770c4826aadcd6d83adba840|concept
+vegetables|2|object|764f6457770c4826aadcd6d83adba840|concept
+ecological connectivity|5|concept|ceced3fafd4146ab93a56d8df2c7991f|concept
+biodiversity|4|concept|ceced3fafd4146ab93a56d8df2c7991f|concept
+Global Early Warning and Response System for Major Animal Diseases|4|document|ceced3fafd4146ab93a56d8df2c7991f|concept
+zoonoses|3|concept|ceced3fafd4146ab93a56d8df2c7991f|concept
+Global Vector Control Response (GVCR) 2017–2030|4|document|ceced3fafd4146ab93a56d8df2c7991f|concept
+vector-borne diseases|3|concept|ceced3fafd4146ab93a56d8df2c7991f|concept
+Accelerating Global Health|5|event|c0439552464a4e14b6ef0c4b597c1409|concept
+Pathways to Health Equity for the G20|5|event|c0439552464a4e14b6ef0c4b597c1409|concept
+Water-borne diseases|3|concept|c0439552464a4e14b6ef0c4b597c1409|concept
+Drinking or coming in contact with contaminated water|2|misc|c0439552464a4e14b6ef0c4b597c1409|concept
+Faecal-contaminated water|2|object|c0439552464a4e14b6ef0c4b597c1409|concept
+Two billion people globally|3|condition|c0439552464a4e14b6ef0c4b597c1409|concept
+Cholera, dysentery, typhoid and polio|2|concept|c0439552464a4e14b6ef0c4b597c1409|concept
+Around 485,000 deaths every year|3|condition|c0439552464a4e14b6ef0c4b597c1409|concept
+Food-borne diseases|2|concept|c0439552464a4e14b6ef0c4b597c1409|concept
+Over 200 diseases|1|misc|c0439552464a4e14b6ef0c4b597c1409|concept
+Chemical substances such as unpasteurised (raw) milk|1|misc|c0439552464a4e14b6ef0c4b597c1409|concept
+Undercooked meat or eggs|1|misc|c0439552464a4e14b6ef0c4b597c1409|concept
+Raw fruits and vegetables|1|misc|c0439552464a4e14b6ef0c4b597c1409|concept
+600 million people are affected by food-borne diseases|3|condition|c0439552464a4e14b6ef0c4b597c1409|concept
+420,000 die each year|2|condition|c0439552464a4e14b6ef0c4b597c1409|concept
+Healthy life years lost|1|misc|c0439552464a4e14b6ef0c4b597c1409|concept
+Access to adequate safe and nutritious food|2|object|c0439552464a4e14b6ef0c4b597c1409|concept
+One Health’|3|event|c0439552464a4e14b6ef0c4b597c1409|concept
+Operationalising ‘One Health’|3|event|c0439552464a4e14b6ef0c4b597c1409|concept
+One Health|5|concept|502eb4a32dcc478381748da0c9bd7614|concept
+Memorandum of Understanding (MOU)|4|event|502eb4a32dcc478381748da0c9bd7614|concept
+Quadripartite Collaboration for One Health|5|organisation|502eb4a32dcc478381748da0c9bd7614|concept
+One Health High-Level Expert Panel|4|misc|502eb4a32dcc478381748da0c9bd7614|concept
+One Health Joint Plan of Action (2022-2026)|3|document|502eb4a32dcc478381748da0c9bd7614|concept
+World Health Organisation (WHO)|4|organisation|502eb4a32dcc478381748da0c9bd7614|concept
+Food and Agriculture Organisation (FAO)|4|organisation|502eb4a32dcc478381748da0c9bd7614|concept
+United Nations Environment Programme (UNEP)|3|organisation|502eb4a32dcc478381748da0c9bd7614|concept
+World Organisation for Animal Health (OIE)|2|organisation|502eb4a32dcc478381748da0c9bd7614|concept
+policy actions|3|event|46f7a03700434a8497df7279c7a66991|concept
+investment in intersectoral health governance|4|concept|46f7a03700434a8497df7279c7a66991|concept
+national OH policies|3|object|46f7a03700434a8497df7279c7a66991|concept
+research on OH|4|event|46f7a03700434a8497df7279c7a66991|concept
+genomic surveillance and data-sharing practices|3|object|46f7a03700434a8497df7279c7a66991|concept
+academic courses on OH|2|event|46f7a03700434a8497df7279c7a66991|concept
+One Health|5|concept|51906241584640d99e39f60f1f346d60|concept
+pandemic prevention and preparedness|4|concept|51906241584640d99e39f60f1f346d60|concept
+World Bank's US$10-billion fund|3|object|51906241584640d99e39f60f1f346d60|concept
+UN’s high-level meeting on pandemic prevention, preparedness, and response (September 2023)|4|event|51906241584640d99e39f60f1f346d60|concept
+WHO|4|organisation|51906241584640d99e39f60f1f346d60|concept
+OH approach|5|concept|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Databases and knowledge-sharing resources|4|object|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Best practice examples|3|misc|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+OH workforce|4|object|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Integrated OH surveillance system|3|organisation|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Routine and emergency coordination mechanisms|4|misc|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Standardised framework for addressing zoonotic spillover risks|3|organisation|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Urbanisation and habitat fragmentation|3|misc|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+Spillover risks and disease spread|4|misc|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+G20 countries|5|organisation|fc1d9effc3a4494daf5a1c78a36bf77f|concept
+G20|5|organisation|e3ed493f83654c1a87d1f5bc648a8325|concept
+One Health approach in India|4|concept|e3ed493f83654c1a87d1f5bc648a8325|concept
+Office of the Principal Scientific Adviser (PSA)|3|organisation|e3ed493f83654c1a87d1f5bc648a8325|concept
+integrated disease surveillance|4|concept|3abe5438d6c9449f81cb2cb913a89f17|concept
+environmental surveillance systems|3|concept|3abe5438d6c9449f81cb2cb913a89f17|concept
+robust outbreak investigation mechanisms|3|concept|3abe5438d6c9449f81cb2cb913a89f17|concept
+OH mission|4|event|3abe5438d6c9449f81cb2cb913a89f17|concept
+Targeted R&D|3|concept|3abe5438d6c9449f81cb2cb913a89f17|concept
+vaccines, diagnostics, therapeutics, and other prevention tools|2|object|3abe5438d6c9449f81cb2cb913a89f17|concept
+data and database integration|3|concept|3abe5438d6c9449f81cb2cb913a89f17|concept
+analytics for better tracking of national-level progress and implementation at the local level|2|misc|3abe5438d6c9449f81cb2cb913a89f17|concept
+streamlining regulatory and approval processes|3|concept|3abe5438d6c9449f81cb2cb913a89f17|concept
+One Health Centre|2|object|3abe5438d6c9449f81cb2cb913a89f17|concept
+One Health|5|concept|c1f9626d266a4b3d820e6980b6dacc08|concept
+zoonoses and transboundary animal diseases|4|condition|c1f9626d266a4b3d820e6980b6dacc08|concept
+2008 attempt to operationalise the OH approach for zoonotic disease control and prevention|3|event|c1f9626d266a4b3d820e6980b6dacc08|concept
+zonotic policy documents|4|document|c1f9626d266a4b3d820e6980b6dacc08|concept
+lack of supportive policies|3|condition|c1f9626d266a4b3d820e6980b6dacc08|concept
+conflicting departmental priorities|3|condition|c1f9626d266a4b3d820e6980b6dacc08|concept
+limited institutional capacities|3|condition|c1f9626d266a4b3d820e6980b6dacc08|concept
+cross-sectoral collaboration on disease control|2|event|c1f9626d266a4b3d820e6980b6dacc08|concept
+contextual adaptation based on the underlying sociopolitical, institutional, and cultural contexts|3|concept|c1f9626d266a4b3d820e6980b6dacc08|concept
+OH approach|5|concept|a23f8844edf54ac7a6711c6983787cb1|concept
+interpersonal relationships|4|concept|a23f8844edf54ac7a6711c6983787cb1|concept
+veterinary workforce|3|organisation|a23f8844edf54ac7a6711c6983787cb1|concept
+academic institutions|4|organisation|a23f8844edf54ac7a6711c6983787cb1|concept
+local population|3|misc|a23f8844edf54ac7a6711c6983787cb1|concept
+Tamil Nadu Veterinary and Animal Sciences University|3|organisation|a23f8844edf54ac7a6711c6983787cb1|concept
+Tamil Nadu Dr MGR Medical University|4|organisation|a23f8844edf54ac7a6711c6983787cb1|concept
+Punjab|2|place|a23f8844edf54ac7a6711c6983787cb1|concept
+SARS-CoV2 vaccine trial|4|event|a23f8844edf54ac7a6711c6983787cb1|concept
+outbreak investigation|3|event|a23f8844edf54ac7a6711c6983787cb1|concept
+vaccine hesitancy|4|concept|a23f8844edf54ac7a6711c6983787cb1|concept
+ASHAs|2|organisation|a23f8844edf54ac7a6711c6983787cb1|concept
+preparedness|4|concept|36dd1d845a3147dba0c7891d5d6fb924|concept
+response|3|concept|36dd1d845a3147dba0c7891d5d6fb924|concept
+systems and cross-sectoral capacities|4|concept|36dd1d845a3147dba0c7891d5d6fb924|concept
+inclusive and equitable multi-level workplans and strategies|3|concept|36dd1d845a3147dba0c7891d5d6fb924|concept
+OH principles|4|concept|36dd1d845a3147dba0c7891d5d6fb924|concept
+OH tools, technologies, and practices|3|object|36dd1d845a3147dba0c7891d5d6fb924|concept
+data and knowledge|4|concept|36dd1d845a3147dba0c7891d5d6fb924|concept
+Global Health|5|concept|baf822f00df24576a51d07fdc84491e6|concept
+Pathways to Health Equity|4|concept|baf822f00df24576a51d07fdc84491e6|concept
+G20|3|organisation|baf822f00df24576a51d07fdc84491e6|concept
+Infectious diseases|4|concept|baf822f00df24576a51d07fdc84491e6|concept
+Surveillance systems|3|object|baf822f00df24576a51d07fdc84491e6|concept
+Global collaboration and solidarity|4|concept|baf822f00df24576a51d07fdc84491e6|concept
+Nature|2|object|baf822f00df24576a51d07fdc84491e6|concept
+Health and well-being for all people everywhere|4|concept|baf822f00df24576a51d07fdc84491e6|concept
+MS Swaminathan Research Foundation|2|organisation|baf822f00df24576a51d07fdc84491e6|concept
+World Health Organization|3|organisation|baf822f00df24576a51d07fdc84491e6|concept
+Dr Soumya Swaminathan|4|person|baf822f00df24576a51d07fdc84491e6|concept
+Dr Priyadarshini Rajamani|2|person|baf822f00df24576a51d07fdc84491e6|concept
+Accelerating Global Health|5|event|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+Pathways to Health Equity for the G20|4|concept|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+Building a Resilient Digital Health Ecosystem in India|3|event|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+Lav Agarwal|2|person|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+technology|5|concept|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+communication|4|concept|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+transportation|3|concept|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+healthcare|5|concept|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+electronic health records|3|object|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+artificial intelligence|4|concept|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+wearable devices|3|object|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+health apps|2|object|c0a97f842ce84d1399bb35fcc9ca17a8|concept
+research|3|concept|00596c043eb84a829a663e034eb52bde|concept
+discovering new treatments|4|concept|00596c043eb84a829a663e034eb52bde|concept
+improving overall healthcare outcomes|3|concept|00596c043eb84a829a663e034eb52bde|concept
+COVID-19 pandemic|4|event|00596c043eb84a829a663e034eb52bde|concept
+exponential growth of digital health|3|concept|00596c043eb84a829a663e034eb52bde|concept
+India's massive population|4|event|a57747eedbc94f27aeaa023ebf800e32|concept
+Digital Health Landscape in India|3|misc|a57747eedbc94f27aeaa023ebf800e32|concept
+equitable access to healthcare services|4|event|a57747eedbc94f27aeaa023ebf800e32|concept
+technology|3|misc|a57747eedbc94f27aeaa023ebf800e32|concept
+digital platforms for care|4|event|a57747eedbc94f27aeaa023ebf800e32|concept
+interoperable and standardised electronic health records|3|object|a57747eedbc94f27aeaa023ebf800e32|concept
+Electronic Health Record standards|2|document|a57747eedbc94f27aeaa023ebf800e32|concept
+National Health Policy|3|document|a57747eedbc94f27aeaa023ebf800e32|concept
+India|5|place|1c7917baa4ae4cee997ec26107908884|concept
+Digital healthcare|4|concept|1c7917baa4ae4cee997ec26107908884|concept
+Hospital Management Information System|3|organisation|1c7917baa4ae4cee997ec26107908884|concept
+Online Registration System|2|object|1c7917baa4ae4cee997ec26107908884|concept
+National tuberculosis elimination (Ni-kshay)|3|organisation|1c7917baa4ae4cee997ec26107908884|concept
+Mother and Child Tracking System|2|object|1c7917baa4ae4cee997ec26107908884|concept
+Mera Aspataal (My Hospital)|2|organisation|1c7917baa4ae4cee997ec26107908884|concept
+Health Management Information System|3|object|1c7917baa4ae4cee997ec26107908884|concept
+Integrated Health Information Platform|2|organisation|1c7917baa4ae4cee997ec26107908884|concept
+Non-Communicable Diseases screening application|2|object|1c7917baa4ae4cee997ec26107908884|concept
+Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)|4|event|1c7917baa4ae4cee997ec26107908884|concept
+health and wellness centers|4|organisation|eba3bd7af89a46a586d2786a9549f23b|concept
+preventive care|3|concept|eba3bd7af89a46a586d2786a9549f23b|concept
+primary care|3|concept|eba3bd7af89a46a586d2786a9549f23b|concept
+telemedicine consultation services|4|object|eba3bd7af89a46a586d2786a9549f23b|concept
+Accelerating Global Health|4|event|ec1766626938432892c24b9acb2ca6ca|concept
+Health Equity for the G20|4|event|ec1766626938432892c24b9acb2ca6ca|concept
+financial protection of up to INR 500,000 per family annually|3|concept|ec1766626938432892c24b9acb2ca6ca|concept
+over 120 million crore poor and vulnerable families|3|concept|ec1766626938432892c24b9acb2ca6ca|concept
+Indian population|3|place|ec1766626938432892c24b9acb2ca6ca|concept
+wellness-oriented approach|3|concept|ec1766626938432892c24b9acb2ca6ca|concept
+universal health coverage (UHC)|3|concept|ec1766626938432892c24b9acb2ca6ca|concept
+patient data portability|2|misc|ec1766626938432892c24b9acb2ca6ca|concept
+environment where all people can obtain health services|3|concept|ec1766626938432892c24b9acb2ca6ca|concept
+rethink the core technology backbone of our system|2|misc|ec1766626938432892c24b9acb2ca6ca|concept
+cutting-edge digital solutions|2|concept|ec1766626938432892c24b9acb2ca6ca|concept
+converge into|1|misc|ec1766626938432892c24b9acb2ca6ca|concept
+Resilient Digital Health Ecosystem|5|event|784ecfb5b0fa4e41a0d142cf69671e30|concept
+ABHA numbers|4|document|784ecfb5b0fa4e41a0d142cf69671e30|concept
+ABDM ecosystem|4|organisation|784ecfb5b0fa4e41a0d142cf69671e30|concept
+healthcare structure|3|condition|784ecfb5b0fa4e41a0d142cf69671e30|concept
+COVID-19 pandemic|4|event|784ecfb5b0fa4e41a0d142cf69671e30|concept
+activities|3|misc|c3bf84643ff44d68bf38a16e96fd9e86|concept
+innovative solutions|4|concept|c3bf84643ff44d68bf38a16e96fd9e86|concept
+continuity of health services|4|concept|c3bf84643ff44d68bf38a16e96fd9e86|concept
+whole of government, whole of society' approach|3|misc|c3bf84643ff44d68bf38a16e96fd9e86|concept
+pandemic battle|4|event|c3bf84643ff44d68bf38a16e96fd9e86|concept
+subnational and local governments|3|organisation|c3bf84643ff44d68bf38a16e96fd9e86|concept
+civil society organisations|3|organisation|c3bf84643ff44d68bf38a16e96fd9e86|concept
+private sector|3|organisation|c3bf84643ff44d68bf38a16e96fd9e86|concept
+local communities|3|organisation|c3bf84643ff44d68bf38a16e96fd9e86|concept
+Telemedicine Practice Guidelines|4|document|c3bf84643ff44d68bf38a16e96fd9e86|concept
+eSanjeevaniOPD|4|organisation|c3bf84643ff44d68bf38a16e96fd9e86|concept
+world’s largest national telemedicine service|3|misc|c3bf84643ff44d68bf38a16e96fd9e86|concept
+online health facilities|4|object|c3bf84643ff44d68bf38a16e96fd9e86|concept
+eSanjeevani initiative|3|organisation|c3bf84643ff44d68bf38a16e96fd9e86|concept
+digital divide|3|condition|c3bf84643ff44d68bf38a16e96fd9e86|concept
+rural areas|2|place|c3bf84643ff44d68bf38a16e96fd9e86|concept
+access to healthcare|3|condition|c3bf84643ff44d68bf38a16e96fd9e86|concept
+completed 142 million|2|misc|c3bf84643ff44d68bf38a16e96fd9e86|concept
+consultations|5|event|00c023acbd1649be8e5673413309c140|concept
+record time|4|condition|00c023acbd1649be8e5673413309c140|concept
+patients|3|object|00c023acbd1649be8e5673413309c140|concept
+27 July 2023|2|misc|00c023acbd1649be8e5673413309c140|concept
+abdm.gov.in|1|document|00c023acbd1649be8e5673413309c140|concept
+esanjeevani.mohfw.gov.in|1|document|00c023acbd1649be8e5673413309c140|concept
+Accelerating Global Health|5|concept|96c919e1d14e4ba9870d0f5015e90f1f|concept
+CoWIN|4|organisation|96c919e1d14e4ba9870d0f5015e90f1f|concept
+COVID-19 'war rooms'|3|object|96c919e1d14e4ba9870d0f5015e90f1f|concept
+digital health initiatives|4|concept|96c919e1d14e4ba9870d0f5015e90f1f|concept
+COVID-19 India Portal|3|object|96c919e1d14e4ba9870d0f5015e90f1f|concept
+inventory tracking|4|event|a29a332cd2de4594a574bb57c7d10fd2|concept
+Aarogya Setu|3|organisation|a29a332cd2de4594a574bb57c7d10fd2|concept
+RT-PCR app|2|object|a29a332cd2de4594a574bb57c7d10fd2|concept
+COVID-19 facility app|3|organisation|a29a332cd2de4594a574bb57c7d10fd2|concept
+National Public Health Observatory (NPHO)|4|organisation|a29a332cd2de4594a574bb57c7d10fd2|concept
+Health Emergency Operations Centre (HEOC)|3|organisation|a29a332cd2de4594a574bb57c7d10fd2|concept
+overall healthcare service delivery|5|event|c53fa240102b418d96669de0302129ff|concept
+integration of healthcare programmes|4|concept|c53fa240102b418d96669de0302129ff|concept
+transformation of the healthcare situation in the country|5|event|c53fa240102b418d96669de0302129ff|concept
+Resilient Digital Health Ecosystem|5|concept|8368e5f419c943b89a7a33939b57aa87|concept
+AI in healthcare|4|event|8368e5f419c943b89a7a33939b57aa87|concept
+Centres of Excellence for AI|3|place|8368e5f419c943b89a7a33939b57aa87|concept
+Clinical decision support system|2|object|8368e5f419c943b89a7a33939b57aa87|concept
+Event-based disease surveillance|2|event|8368e5f419c943b89a7a33939b57aa87|concept
+impending disease outbreak|5|event|8ef6462971234fea8ca5b9c897badcc4|concept
+AI assistant for frontline workers in 11 Indian languages|4|object|8ef6462971234fea8ca5b9c897badcc4|concept
+Stimulating Advanced Knowledge for Sustainable Health Management (SAKSHAM) Portal|4|organisation|8ef6462971234fea8ca5b9c897badcc4|concept
+inclusive capacity building of health professionals|3|concept|8ef6462971234fea8ca5b9c897badcc4|concept
+Tele-education in medical education for remote areas|4|event|8ef6462971234fea8ca5b9c897badcc4|concept
+online platforms, video conferencing, pre-recorded lectures|3|object|8ef6462971234fea8ca5b9c897badcc4|concept
+government unified and dedicated online learning and training platform SAKSHAM|4|organisation|8ef6462971234fea8ca5b9c897badcc4|concept
+health professionals|4|organisation|9b1e7fd4829c450b8cc36fbd9453d186|concept
+advanced training|3|event|9b1e7fd4829c450b8cc36fbd9453d186|concept
+regular jobs|2|condition|9b1e7fd4829c450b8cc36fbd9453d186|concept
+portal|3|object|9b1e7fd4829c450b8cc36fbd9453d186|concept
+public health|2|concept|9b1e7fd4829c450b8cc36fbd9453d186|concept
+clinical practices|2|event|9b1e7fd4829c450b8cc36fbd9453d186|concept
+Accelerating Global Health|4|event|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+Pathways to Health Equity for the G20|3|concept|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+Digital health|4|object|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+Public sector|3|organisation|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+Private sector|3|organisation|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+National digital health ecosystem|4|object|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+Digital tools|3|object|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+World Health Assembly|4|event|a4cd493a8ff94f7b9f31d65bd15833b2|concept
+World Health Organization (WHO)|5|organisation|71de2efb72064d318b9e0bee887f6879|concept
+Global Digital Health Partnership (GDHP)|4|organisation|71de2efb72064d318b9e0bee887f6879|concept
+Department for Digital Health and Innovation|3|organisation|71de2efb72064d318b9e0bee887f6879|concept
+Global Strategy on Digital Health 2020-2025|3|document|71de2efb72064d318b9e0bee887f6879|concept
+India's G20 Leadership|5|event|eb215b2863164d6ba5e98fcffff46cba|concept
+Global Health Initiatives|4|concept|eb215b2863164d6ba5e98fcffff46cba|concept
+Climate Change|3|concept|eb215b2863164d6ba5e98fcffff46cba|concept
+Food Insecurity|2|condition|eb215b2863164d6ba5e98fcffff46cba|concept
+pandemic|5|event|1a76e52834584b208c08bddb9a1f0b62|concept
+international cooperation|4|organisation|1a76e52834584b208c08bddb9a1f0b62|concept
+health emergency|4|event|1a76e52834584b208c08bddb9a1f0b62|concept
+One Health|3|concept|1a76e52834584b208c08bddb9a1f0b62|concept
+antimicrobial resistance|3|condition|1a76e52834584b208c08bddb9a1f0b62|concept
+pharmaceutical sector|3|organisation|1a76e52834584b208c08bddb9a1f0b62|concept
+vaccines, therapeutics, diagnostics|2|object|1a76e52834584b208c08bddb9a1f0b62|concept
+Digital Health|5|concept|998d8f77c3c949cd8843d7bdf421b78d|concept
+India's G20 presidency|4|event|998d8f77c3c949cd8843d7bdf421b78d|concept
+Global Initiative on Digital Health (GIDH)|3|organisation|998d8f77c3c949cd8843d7bdf421b78d|concept
+World Health Organization (WHO)|2|organisation|998d8f77c3c949cd8843d7bdf421b78d|concept
+digital public goods|5|concept|73e23711e0a54a8dafa05eb4e0949f6b|concept
+WHO norms, standards, and|4|organisation|73e23711e0a54a8dafa05eb4e0949f6b|concept
+Accelerating Global Health|4|event|97cddb2fd5c54f7f91c34ca00913ee2e|concept
+Pathways to Health Equity for the G20|4|event|97cddb2fd5c54f7f91c34ca00913ee2e|concept
+digital transformation|3|concept|97cddb2fd5c54f7f91c34ca00913ee2e|concept
+ABDM|2|organisation|97cddb2fd5c54f7f91c34ca00913ee2e|concept
+CoWIN|2|organisation|97cddb2fd5c54f7f91c34ca00913ee2e|concept
+eSanjeevani|2|object|97cddb2fd5c54f7f91c34ca00913ee2e|concept
+Lav Agarwal|4|person|ebc08425c0f94baaad5796ba621470b9|concept
+eHealth|3|organisation|ebc08425c0f94baaad5796ba621470b9|concept
+International Health & Collaboration|2|concept|ebc08425c0f94baaad5796ba621470b9|concept
+Public Health|3|concept|ebc08425c0f94baaad5796ba621470b9|concept
+G20|2|organisation|ebc08425c0f94baaad5796ba621470b9|concept
+India's Digital Public Infrastructure Transformation|5|event|9b7a9f8531134be2b16e734bda64a349|concept
+Digital India programme|4|document|9b7a9f8531134be2b16e734bda64a349|concept
+India Enterprise Architecture|5|concept|508c60a74e3c4391a8d4136d0a90ffeb|concept
+Ministry of Electronics and Information Technology (MeitY)|4|organisation|508c60a74e3c4391a8d4136d0a90ffeb|concept
+One Government|3|concept|508c60a74e3c4391a8d4136d0a90ffeb|concept
+Data Empowerment and Protection Architecture (DEPA)|2|organisation|508c60a74e3c4391a8d4136d0a90ffeb|concept
+framework|3|event|b7f8f25fdd3c482cb13517142b7c0117|concept
+DEPA|4|concept|b7f8f25fdd3c482cb13517142b7c0117|concept
+consent-governed and secure data-sharing|3|event|b7f8f25fdd3c482cb13517142b7c0117|concept
+controlled by consent managers|2|concept|b7f8f25fdd3c482cb13517142b7c0117|concept
+private ecosystem|3|event|b7f8f25fdd3c482cb13517142b7c0117|concept
+citizens|2|organisation|b7f8f25fdd3c482cb13517142b7c0117|concept
+finance sector|3|event|b7f8f25fdd3c482cb13517142b7c0117|concept
+loans, insurance, and other financial products|2|event|b7f8f25fdd3c482cb13517142b7c0117|concept
+digital|1|misc|b7f8f25fdd3c482cb13517142b7c0117|concept
+India Stack|5|organisation|be5f478737c04472bffaf880bf0be06b|concept
+DEPA|4|organisation|be5f478737c04472bffaf880bf0be06b|concept
+Aadhaar-based e-KYC|3|technology|be5f478737c04472bffaf880bf0be06b|concept
+Unified Payments Interface (UPI)|4|technology|be5f478737c04472bffaf880bf0be06b|concept
+Aadhaar-based eSign|3|technology|be5f478737c04472bffaf880bf0be06b|concept
+Open Credit Enablement Network|2|technology|be5f478737c04472bffaf880bf0be06b|concept
+Digital infrastructure|4|concept|be5f478737c04472bffaf880bf0be06b|concept
+Private sector service delivery|3|concept|be5f478737c04472bffaf880bf0be06b|concept
+digital transactions|4|event|6c3a8512b9a140c983b92ad7f3e5ac41|concept
+November 2019|3|time|6c3a8512b9a140c983b92ad7f3e5ac41|concept
+January 2023|3|time|6c3a8512b9a140c983b92ad7f3e5ac41|concept
+India's Digital Public Infrastructure Transformation|5|event|26dcc67d7f7c43b4a92343aa220232c4|concept
+MeitY study|4|document|26dcc67d7f7c43b4a92343aa220232c4|concept
+US$500 billion by 2025|3|condition|26dcc67d7f7c43b4a92343aa220232c4|concept
+India's digital economy potential to US$1 trillion|4|concept|26dcc67d7f7c43b4a92343aa220232c4|concept
+business as usual scenario|2|misc|26dcc67d7f7c43b4a92343aa220232c4|concept
+real-time payments in India, China, Brazil|3|concept|26dcc67d7f7c43b4a92343aa220232c4|concept
+Direct Benefit Transfer (DBT) programme|4|organisation|26dcc67d7f7c43b4a92343aa220232c4|concept
+physical delivery of financial benefits|2|misc|26dcc67d7f7c43b4a92343aa220232c4|concept
+digital payment systems|3|object|26dcc67d7f7c43b4a92343aa220232c4|concept
+beneficiaries' bank accounts|2|organisation|26dcc67d7f7c43b4a92343aa220232c4|concept
+corruption, eliminating middlemen|3|misc|26dcc67d7f7c43b4a92343aa220232c4|concept
+transparency|5|concept|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+direct benefit transfer (DBT) in India|4|event|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+Pradhan Mantri Jan-Dhan Yojana|3|object|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+Jan Dhan-Aadhaar-Mobile Yojana|4|organisation|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+Indian Rupees (INR)|2|object|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+FY 2021-22|3|event|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+Digital India|4|organisation|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+e-governance platforms|3|object|5e5cf5cf4f2f42189004a55fd0fbe71f|concept
+MyGov platform|5|organisation|89d34f6b4a1149da8434c3dc7e361947|concept
+digital governance|4|concept|89d34f6b4a1149da8434c3dc7e361947|concept
+citizen-centricity|4|concept|89d34f6b4a1149da8434c3dc7e361947|concept
+technology|4|object|89d34f6b4a1149da8434c3dc7e361947|concept
+government interactions|3|concept|89d34f6b4a1149da8434c3dc7e361947|concept
+citizen-government gap|3|condition|89d34f6b4a1149da8434c3dc7e361947|concept
+enhance government services|3|concept|89d34f6b4a1149da8434c3dc7e361947|concept
+transparency|3|condition|89d34f6b4a1149da8434c3dc7e361947|concept
+democratic participation|3|concept|89d34f6b4a1149da8434c3dc7e361947|concept
+digital literacy|5|concept|e5168689a0894a83821de56e5646e40c|concept
+digital divide|4|condition|e5168689a0894a83821de56e5646e40c|concept
+DPI|5|document|e5168689a0894a83821de56e5646e40c|concept
+India's digital transformation|4|event|e5168689a0894a83821de56e5646e40c|concept
+technology|3|concept|e5168689a0894a83821de56e5646e40c|concept
+inclusivity|4|condition|e5168689a0894a83821de56e5646e40c|concept
+scalability|3|condition|e5168689a0894a83821de56e5646e40c|concept
+regulation|3|condition|e5168689a0894a83821de56e5646e40c|concept
+collaboration|3|concept|e5168689a0894a83821de56e5646e40c|concept
+India's Digital Public Infrastructure Transformation Ecosystem|5|event|ded53e412e15418db0ce8e093a0b0bb7|concept
+government agencies|4|organisation|ded53e412e15418db0ce8e093a0b0bb7|concept
+industry leaders|4|organisation|ded53e412e15418db0ce8e093a0b0bb7|concept
+startups|3|organisation|ded53e412e15418db0ce8e093a0b0bb7|concept
+academia|2|organisation|ded53e412e15418db0ce8e093a0b0bb7|concept
+civil society organisations|3|organisation|ded53e412e15418db0ce8e093a0b0bb7|concept
+India’s G20 presidency|4|event|ded53e412e15418db0ce8e093a0b0bb7|concept
+Global DPI Summit21|3|event|ded53e412e15418db0ce8e093a0b0bb7|concept
+Accelerating Global Health|5|event|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+Pathways to Health Equity for the G20|5|event|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+marginalised communities|4|condition|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+India|5|organisation|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+digital inclusion|3|condition|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+urban telephone subscribers|2|organisation|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+gender gap in mobile ownership|3|condition|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+India's digital infrastructure|4|organisation|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+intermediaries (digital media, e-commerce)|2|object|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+connectivity to cause harm or commit crimes|3|event|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+comprehensive measures|4|event|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+potential DPI’s scalability|2|object|c1ec1f16dbb64a0d8dbd9b266609afae|concept
+regulatory sandboxes|4|concept|717cc8137f1e405aa98adda0a4d527db|concept
+innovative technologies|3|concept|717cc8137f1e405aa98adda0a4d527db|concept
+consumer protection|4|condition|717cc8137f1e405aa98adda0a4d527db|concept
+risk mitigation|3|condition|717cc8137f1e405aa98adda0a4d527db|concept
+India's Digital Public Infrastructure Transformation|5|event|3dea693354c2490488cf797844863da1|concept
+forums and platforms for stakeholders|4|object|3dea693354c2490488cf797844863da1|concept
+policy discussions and regulatory consultations|4|event|3dea693354c2490488cf797844863da1|concept
+balanced regulatory policies|3|concept|3dea693354c2490488cf797844863da1|concept
+Indian regulators|4|organisation|3dea693354c2490488cf797844863da1|concept
+Digital Personal Data Protection Bill 2022|3|document|3dea693354c2490488cf797844863da1|concept
+presentation of the Digital India Act 2023|3|event|3dea693354c2490488cf797844863da1|concept
+consumer needs, emerging technologies, and market trends|4|condition|3dea693354c2490488cf797844863da1|concept
+challenges|2|misc|3dea693354c2490488cf797844863da1|concept
+technology|5|concept|2d915595100243ee97337357adfbd5a8|concept
+regulatory frameworks|4|concept|2d915595100243ee97337357adfbd5a8|concept
+India's DPI|4|concept|2d915595100243ee97337357adfbd5a8|concept
+Aadhaar|3|object|2d915595100243ee97337357adfbd5a8|concept
+UPI|3|object|2d915595100243ee97337357adfbd5a8|concept
+digital health infrastructure|3|object|2d915595100243ee97337357adfbd5a8|concept
+DBT|3|object|2d915595100243ee97337357adfbd5a8|concept
+e-governance|3|object|2d915595100243ee97337357adfbd5a8|concept
+Accelerating Global Health|5|event|613d6988832246eaaf57f6d9192e54d0|concept
+Pathways to Health Equity for the G20|4|concept|613d6988832246eaaf57f6d9192e54d0|concept
+India's DPI experience|3|object|613d6988832246eaaf57f6d9192e54d0|concept
+Digital systems|3|object|613d6988832246eaaf57f6d9192e54d0|concept
+Inclusive societies|2|concept|613d6988832246eaaf57f6d9192e54d0|concept
+Sustainable development in the 21st century|2|event|613d6988832246eaaf57f6d9192e54d0|concept
+Sameer Kanwar|3|person|613d6988832246eaaf57f6d9192e54d0|concept
+Varun Kumar|2|person|613d6988832246eaaf57f6d9192e54d0|concept
+Antibiotics|5|object|a2e40d44ac8b4bc1b87b168a9a450207|concept
+Antimicrobial Resistance (AMR)|5|concept|a2e40d44ac8b4bc1b87b168a9a450207|concept
+Global Health Crisis|4|concept|a2e40d44ac8b4bc1b87b168a9a450207|concept
+Health Equity|3|concept|a2e40d44ac8b4bc1b87b168a9a450207|concept
+Global Economy|2|object|a2e40d44ac8b4bc1b87b168a9a450207|concept
+Extreme Poverty|1|condition|a2e40d44ac8b4bc1b87b168a9a450207|concept
+Developing Nations|2|location|a2e40d44ac8b4bc1b87b168a9a450207|concept
+AMR|5|concept|845384860a874fc8b18ed38b165d91fb|concept
+Interventions|3|concept|845384860a874fc8b18ed38b165d91fb|concept
+Antimicrobials|4|object|845384860a874fc8b18ed38b165d91fb|concept
+Healthcare Systems|3|place|845384860a874fc8b18ed38b165d91fb|concept
+Patient Outcomes|4|concept|845384860a874fc8b18ed38b165d91fb|concept
+Health Equity|3|condition|845384860a874fc8b18ed38b165d91fb|concept
+Essay|2|document|845384860a874fc8b18ed38b165d91fb|concept
+Ranga Reddy Burri|1|person|845384860a874fc8b18ed38b165d91fb|concept
+Robert Skov|1|person|845384860a874fc8b18ed38b165d91fb|concept
+Bulagonda Eswarappa Pradeep|1|person|845384860a874fc8b18ed38b165d91fb|concept
+Ralf Sudbrak|1|person|845384860a874fc8b18ed38b165d91fb|concept
+Antimicrobial Resistance|5|concept|f1e59f2d24db4d059c8bc8fdc7a5193c|concept
+Persistent Infectious Diseases|4|condition|f1e59f2d24db4d059c8bc8fdc7a5193c|concept
+Antimicrobial Drugs|3|object|f1e59f2d24db4d059c8bc8fdc7a5193c|concept
+Biological Evolution|4|concept|f1e59f2d24db4d059c8bc8fdc7a5193c|concept
+Defense System of Microorganisms|3|condition|f1e59f2d24db4d059c8bc8fdc7a5193c|concept
+Antibiotic Resistance Mechanisms|4|concept|f1e59f2d24db4d059c8bc8fdc7a5193c|concept
+Antimicrobial Resistance (AMR)|5|concept|5f12a23a8cd14c22a6ce2a6851934d50|concept
+Resistance|4|condition|5f12a23a8cd14c22a6ce2a6851934d50|concept
+Antibiotics|3|object|5f12a23a8cd14c22a6ce2a6851934d50|concept
+Microorganisms|2|concept|5f12a23a8cd14c22a6ce2a6851934d50|concept
+Selection|4|condition|5f12a23a8cd14c22a6ce2a6851934d50|concept
+Accelerating Global Health|5|event|66c6d834348b4a62b864b5a39bb15fe1|concept
+Pathways to Health Equity for the G20|4|concept|66c6d834348b4a62b864b5a39bb15fe1|concept
+Inadequate infection prevention and control|4|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+AMR|3|concept|66c6d834348b4a62b864b5a39bb15fe1|concept
+Hand hygiene|2|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+Improper disinfection and sterilisation practices|2|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+Inadequate sanitation|2|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+Hospital-acquired infections|2|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+Infection prevention and control measures|3|concept|66c6d834348b4a62b864b5a39bb15fe1|concept
+Infection control practices|2|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+Low- and middle-income countries (LMICs)|3|condition|66c6d834348b4a62b864b5a39bb15fe1|concept
+World Health Organization|2|organisation|66c6d834348b4a62b864b5a39bb15fe1|concept
+WHO|4|organisation|814076eb4141455baa4afe3bddce0dd9|concept
+US Centers for Disease Control and Prevention|3|organisation|814076eb4141455baa4afe3bddce0dd9|concept
+Infection Control Academy of India (IFCAI)|2|organisation|814076eb4141455baa4afe3bddce0dd9|concept
+Abuse/inappropriate use of antibiotics|3|condition|814076eb4141455baa4afe3bddce0dd9|concept
+Selection pressure on microbes due to the use of antimicrobial drugs|3|condition|814076eb4141455baa4afe3bddce0dd9|concept
+Social and administrative factors|2|condition|814076eb4141455baa4afe3bddce0dd9|concept
+Availability of antimicrobials through over-the-counter (OTC) sales without requiring prescriptions|3|condition|814076eb4141455baa4afe3bddce0dd9|concept
+Inappropriate prescription of antibiotics by physicians|2|condition|814076eb4141455baa4afe3bddce0dd9|concept
+Study conducted by WHO|2|event|814076eb4141455baa4afe3bddce0dd9|concept
+Significant proportion of antimicrobials prescribed in outpatient departments were unnecessary or inappropriate|3|condition|814076eb4141455baa4afe3bddce0dd9|concept
+Rampant use of antibiotics in the livestock sector|2|condition|814076eb4141455baa4afe3bddce0dd9|concept
+antibiotic|5|object|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+patients|3|organisation|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+OTC sale of antimicrobials|4|event|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+New legislation|3|event|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+stricter antibiotic prescription and consumption measures|4|event|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+antimicrobial drug development process|3|concept|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+advancements in computational|2|misc|0aef0d4620f242e996cf1d0b2d84b4cc|concept
+Battle Against Antimicrobial Resistance|5|event|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+chemistry and artificial intelligence (AI)|4|concept|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+antimicrobials|3|object|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+in vitro and in vivo trials|2|event|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+bacteria|3|organisation|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+antibiotics|4|object|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+quicker and more efficient antibiotic testing and approval pipelines|3|event|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+antimicrobial discovery|4|concept|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+existing drugs|3|object|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+natural products|2|organisation|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+alternate treatment strategies|2|concept|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+computational approaches for drug design|3|concept|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+interdisciplinary collaborations|2|event|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+new technologies|2|organisation|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+clinical antibacterial pipeline|3|object|7fb1b39b4037448eaf3eb30e1898fc7e|concept
+AMR infections|4|condition|c00efcf689b046e79324603ecf4f180e|concept
+antibacterials|4|object|c00efcf689b046e79324603ecf4f180e|concept
+WHO priority pathogens|3|concept|c00efcf689b046e79324603ecf4f180e|concept
+tuberculosis|2|condition|c00efcf689b046e79324603ecf4f180e|concept
+Global AMR R&D Hub|3|organisation|c00efcf689b046e79324603ecf4f180e|concept
+WHO|4|organisation|c00efcf689b046e79324603ecf4f180e|concept
+development of new antibacterial treatments|5|concept|676eaa0f093b4fbc80687cb2f30c6f16|concept
+emerging threat of AMR|4|condition|676eaa0f093b4fbc80687cb2f30c6f16|concept
+return on investment for new antibiotics|3|concept|676eaa0f093b4fbc80687cb2f30c6f16|concept
+big pharmaceutical companies|2|organisation|676eaa0f093b4fbc80687cb2f30c6f16|concept
+antibiotic market|3|market|676eaa0f093b4fbc80687cb2f30c6f16|concept
+small or micro biotech firms|2|organisation|676eaa0f093b4fbc80687cb2f30c6f16|concept
+novel reimbursement models|3|misc|676eaa0f093b4fbc80687cb2f30c6f16|concept
+Accelerating Global Health|4|event|29773bc63cdc4fa680e82c66e6629eed|concept
+Pathways to Health Equity for the G20|3|concept|29773bc63cdc4fa680e82c66e6629eed|concept
+Innovative financing mechanisms|5|concept|29773bc63cdc4fa680e82c66e6629eed|concept
+Antimicrobials|4|object|29773bc63cdc4fa680e82c66e6629eed|concept
+Advance market commitment–type investments|3|concept|29773bc63cdc4fa680e82c66e6629eed|concept
+DNDi (Drugs for Neglected Diseases Initiative)|4|organisation|29773bc63cdc4fa680e82c66e6629eed|concept
+CEPI (Coalition for Epidemic Preparedness Innovations)|3|organisation|29773bc63cdc4fa680e82c66e6629eed|concept
+Gavi (Global Alliance for Vaccines and Immunization)|3|organisation|29773bc63cdc4fa680e82c66e6629eed|concept
+Antibiotics|4|object|29773bc63cdc4fa680e82c66e6629eed|concept
+Governments pool funding|3|event|29773bc63cdc4fa680e82c66e6629eed|concept
+Manufacturers and the private sector|4|organisation|29773bc63cdc4fa680e82c66e6629eed|concept
+Financial incentives|3|concept|29773bc63cdc4fa680e82c66e6629eed|concept
+Equitable pricing and access|4|condition|29773bc63cdc4fa680e82c66e6629eed|concept
+Fight against AMR|3|event|29773bc63cdc4fa680e82c66e6629eed|concept
+Effective treatments for all|4|condition|29773bc63cdc4fa680e82c66e6629eed|concept
+Poor diagnostic capacity|3|condition|29773bc63cdc4fa680e82c66e6629eed|concept
+Accurate and timely diagnostics|4|condition|29773bc63cdc4fa680e82c66e6629eed|concept
+infectious diseases|5|concept|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+diagnostic capacity|4|concept|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+developing countries|3|place|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+vulnerable populations|3|misc|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+high-income countries|2|place|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+LMICs|3|organisation|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+quality and efficiency|2|misc|7745a8bcb0d44d66ad78c6d2c0971a61|concept
+healthcare delivery|3|event|705bfb5bc30d4ce9a762f127476a6352|concept
+global health goals|4|concept|705bfb5bc30d4ce9a762f127476a6352|concept
+communicable diseases|3|condition|705bfb5bc30d4ce9a762f127476a6352|concept
+non-communicable diseases|3|condition|705bfb5bc30d4ce9a762f127476a6352|concept
+innovations related to AMR|4|event|705bfb5bc30d4ce9a762f127476a6352|concept
+alternative therapies|2|concept|705bfb5bc30d4ce9a762f127476a6352|concept
+bacteriophages|3|object|705bfb5bc30d4ce9a762f127476a6352|concept
+antimicrobial peptides (AMPs) or bacteria|2|organisation|705bfb5bc30d4ce9a762f127476a6352|concept
+antimicrobial adjuvants|3|object|705bfb5bc30d4ce9a762f127476a6352|concept
+faecal microbiota transplant (FMT)|2|organisation|705bfb5bc30d4ce9a762f127476a6352|concept
+competitive exclusion of pathogens|3|concept|705bfb5bc30d4ce9a762f127476a6352|concept
+genetically modified probiotics|2|object|705bfb5bc30d4ce9a762f127476a6352|concept
+Battle Against Antimicrobial Resistance|4|concept|573672aab4184bd0a0d749d328280bc8|concept
+postbiotics|3|object|573672aab4184bd0a0d749d328280bc8|concept
+antimicrobials|4|concept|573672aab4184bd0a0d749d328280bc8|concept
+streamlined approval|3|misc|573672aab4184bd0a0d749d328280bc8|concept
+regulatory agencies|2|organisation|573672aab4184bd0a0d749d328280bc8|concept
+researchers|2|misc|573672aab4184bd0a0d749d328280bc8|concept
+industry stakeholders|2|misc|573672aab4184bd0a0d749d328280bc8|concept
+adaptive dose-ranging studies|3|document|573672aab4184bd0a0d749d328280bc8|concept
+seamless phase transitions|2|misc|573672aab4184bd0a0d749d328280bc8|concept
+drug repurposing|3|concept|573672aab4184bd0a0d749d328280bc8|concept
+Approved drugs|3|object|a2dff2067d5543578a60182bfd8845c5|concept
+Preclinical and early clinical development stages|2|event|a2dff2067d5543578a60182bfd8845c5|concept
+Repurposing drugs|4|concept|a2dff2067d5543578a60182bfd8845c5|concept
+In-silico analyses|3|event|a2dff2067d5543578a60182bfd8845c5|concept
+High-throughput screening|3|event|a2dff2067d5543578a60182bfd8845c5|concept
+Drug libraries|2|object|a2dff2067d5543578a60182bfd8845c5|concept
+Antibacterial activity|3|concept|a2dff2067d5543578a60182bfd8845c5|concept
+Machine learning (ML)|4|technique|a2dff2067d5543578a60182bfd8845c5|concept
+Artificial intelligence (AI)|4|technique|a2dff2067d5543578a60182bfd8845c5|concept
+Neural network-based approaches|3|event|a2dff2067d5543578a60182bfd8845c5|concept
+Molecular fingerprints|2|object|a2dff2067d5543578a60182bfd8845c5|concept
+Diagnostic process|3|event|a2dff2067d5543578a60182bfd8845c5|concept
+Industry Collaboration|4|event|21cf6462eb7f41de8afc3c403e296587|concept
+Sri Sathya Sai Institute of Higher Learning|2|organization|21cf6462eb7f41de8afc3c403e296587|concept
+IFCAI|2|organization|21cf6462eb7f41de8afc3c403e296587|concept
+SCIINV Biosciences Private Limited|2|organization|21cf6462eb7f41de8afc3c403e296587|concept
+AMRx™|3|object|21cf6462eb7f41de8afc3c403e296587|concept
+AI/ML-based culture-free prediction system|4|concept|21cf6462eb7f41de8afc3c403e296587|concept
+Urinary Tract Infections|3|condition|21cf6462eb7f41de8afc3c403e296587|concept
+Clinical Decision Support System|2|object|21cf6462eb7f41de8afc3c403e296587|concept
+Empirical Antibiotic Prescriptions|3|concept|21cf6462eb7f41de8afc3c403e296587|concept
+Unnecessary Laboratory Testing of Samples|2|condition|21cf6462eb7f41de8afc3c403e296587|concept
+Accelerating Global Health|5|event|0cac054347174785b04ddef8537bee36|concept
+Pathways to Health Equity for the G20|4|event|0cac054347174785b04ddef8537bee36|concept
+AMR (Antimicrobial Resistance)|5|concept|0cac054347174785b04ddef8537bee36|concept
+Quadripartite|3|organisation|0cac054347174785b04ddef8537bee36|concept
+One Health approach|4|concept|0cac054347174785b04ddef8537bee36|concept
+National Action Plans (NAPs)|3|document|0cac054347174785b04ddef8537bee36|concept
+market failure for antimicrobials|4|condition|6fa033fa9795403f88f1b4cea6fa05f4|concept
+financing development of novel antimicrobials|3|event|6fa033fa9795403f88f1b4cea6fa05f4|concept
+Rapid Diagnostic Tests and Point-of-Care Technologies in AMR|4|concept|6fa033fa9795403f88f1b4cea6fa05f4|concept
+Absolute, concrete, and timely diagnosis detection|3|event|6fa033fa9795403f88f1b4cea6fa05f4|concept
+infection-causing pathogens|4|concept|6fa033fa9795403f88f1b4cea6fa05f4|concept
+Rapid diagnostic tests (RDTs)|3|object|6fa033fa9795403f88f1b4cea6fa05f4|concept
+Point-of-care technologies (POC)|3|object|6fa033fa9795403f88f1b4cea6fa05f4|concept
+polymerase chain reaction-based tests|2|object|6fa033fa9795403f88f1b4cea6fa05f4|concept
+genotypic assays|2|object|6fa033fa9795403f88f1b4cea6fa05f4|concept
+phenotypic assays|2|object|6fa033fa9795403f88f1b4cea6fa05f4|concept
+Battle Against Antimicrobial Resistance|5|event|132097da86644b35b8147fcb94ab68d8|concept
+Accelerating Efforts to Combat AMR|3|event|132097da86644b35b8147fcb94ab68d8|concept
+Combating AMR|5|concept|132097da86644b35b8147fcb94ab68d8|concept
+Policy|3|object|132097da86644b35b8147fcb94ab68d8|concept
+Implementation|3|event|132097da86644b35b8147fcb94ab68d8|concept
+New antibiotics|4|object|132097da86644b35b8147fcb94ab68d8|concept
+Alternative treatments|3|object|132097da86644b35b8147fcb94ab68d8|concept
+Bacteriophages|2|organisation|132097da86644b35b8147fcb94ab68d8|concept
+Infection prevention and control practices|3|object|132097da86644b35b8147fcb94ab68d8|concept
+Antimicrobial use|2|condition|132097da86644b35b8147fcb94ab68d8|concept
+Surveillance and data collection|3|event|132097da86644b35b8147fcb94ab68d8|concept
+One Health approach|2|organisation|132097da86644b35b8147fcb94ab68d8|concept
+National and global health plans|3|document|132097da86644b35b8147fcb94ab68d8|concept
+Stakeholders|2|organisation|132097da86644b35b8147fcb94ab68d8|concept
+Political will|2|event|132097da86644b35b8147fcb94ab68d8|concept
+Accelerating Global Health|5|event|83a561974e644530b643bd7b78aaca7a|concept
+Pathways to Health Equity for the G20|5|event|83a561974e644530b643bd7b78aaca7a|concept
+AMR|5|concept|83a561974e644530b643bd7b78aaca7a|concept
+LMICs|4|condition|83a561974e644530b643bd7b78aaca7a|concept
+vulnerable populations in HICs|4|condition|83a561974e644530b643bd7b78aaca7a|concept
+antimicrobials pipeline|3|concept|83a561974e644530b643bd7b78aaca7a|concept
+industry leaving the field of antimicrobial drug discovery|4|event|83a561974e644530b643bd7b78aaca7a|concept
+AMR pandemic|5|concept|83a561974e644530b643bd7b78aaca7a|concept
+consequences of AMR|4|event|83a561974e644530b643bd7b78aaca7a|concept
+need for increased action|5|event|83a561974e644530b643bd7b78aaca7a|concept
+multifaceted effort|4|event|83a561974e644530b643bd7b78aaca7a|concept
+reducing the circulation and spread of existing resistant microorganisms|3|event|83a561974e644530b643bd7b78aaca7a|concept
+increase of novel resistance mechanisms|4|concept|83a561974e644530b643bd7b78aaca7a|concept
+lowering the overall use of antimicrobials|3|event|83a561974e644530b643bd7b78aaca7a|concept
+antimicrobial stewardship|4|concept|83a561974e644530b643bd7b78aaca7a|concept
+accessibility of affordable and timely diagnostics|3|event|83a561974e644530b643bd7b78aaca7a|concept
+strengthening IPC and biosecurity procedures|3|event|83a561974e644530b643bd7b78aaca7a|concept
+Dr. Bulagonda Eswarappa Pradeep|2|person|6c480a85100e4e80adba9687a25de868|concept
+Department of Biosciences|3|organisation|6c480a85100e4e80adba9687a25de868|concept
+Sri Sathya Sai Institute of Higher Learning|2|organisation|6c480a85100e4e80adba9687a25de868|concept
+India|3|place|6c480a85100e4e80adba9687a25de868|concept
+Dr. Ralf Sudbrak|2|person|6c480a85100e4e80adba9687a25de868|concept
+Deputy Director at the Global A M R R & D Hub|3|organisation|6c480a85100e4e80adba9687a25de868|concept
+Berlin, Germany|2|place|6c480a85100e4e80adba9687a25de868|concept
+G20 Countries|5|organisation|47b323d77856431b8d67d73bf0cde810|concept
+Average Life Expectancy|4|condition|47b323d77856431b8d67d73bf0cde810|concept
+Global Average of Life Expectancy|3|condition|47b323d77856431b8d67d73bf0cde810|concept
+Accelerating Global Health|4|concept|ec5c38d181dd4fe98b66c735aac3841b|concept
+G20|5|organisation|ec5c38d181dd4fe98b66c735aac3841b|concept
+Public Health Outcomes|4|concept|ec5c38d181dd4fe98b66c735aac3841b|concept
+Health Equity|4|concept|ec5c38d181dd4fe98b66c735aac3841b|concept
+Life Expectancy|4|concept|ec5c38d181dd4fe98b66c735aac3841b|concept
+Healthcare Spending|5|concept|ec5c38d181dd4fe98b66c735aac3841b|concept
+GDP|3|object|ec5c38d181dd4fe98b66c735aac3841b|concept
+Role of Health Finance in G20 Countries|5|concept|67bf46897ef2443ea58021ade0df45a0|concept
+Higher % GDP Spending in Healthcare|3|event|67bf46897ef2443ea58021ade0df45a0|concept
+Universal Health Care Coverage|4|concept|67bf46897ef2443ea58021ade0df45a0|concept
+WHO Data|2|document|67bf46897ef2443ea58021ade0df45a0|concept
+Healthcare Spending and Health Outcomes|4|event|67bf46897ef2443ea58021ade0df45a0|concept
+Innovative Financing Mechanisms|3|object|67bf46897ef2443ea58021ade0df45a0|concept
+G20 Countries|4|organization|67bf46897ef2443ea58021ade0df45a0|concept
+Out-of-Pocket Expenses|3|concept|67bf46897ef2443ea58021ade0df45a0|concept
+health equity|5|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+health disparities|4|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+socioeconomic status|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+race|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+ethnicity|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+gender|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+geographic location|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+access to healthcare services|4|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+redistributing resources|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+targeted healthcare programs|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+improving access to quality healthcare services|4|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+addressing social and economic inequalities|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+promoting health education and prevention|3|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Universal Health Coverage (UHC)|4|concept|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Global|2|organisation|cee9405d7f9345ac9beb4b3fbf485aec|concept
+India|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Indonesia|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Turkiye|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+China|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Singapore|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+South Korea|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Netherlands|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+UK|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Canada|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+United States|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Germany|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+France|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Japan|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Spain|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Brazil|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Argentina|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+South Africa|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Russia|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Australia|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Mexico|2|place|cee9405d7f9345ac9beb4b3fbf485aec|concept
+Accelerating Global Health|5|event|b3125524cd434526969844ef534e60b7|concept
+Pathways to Health Equity for the G20|5|concept|b3125524cd434526969844ef534e60b7|concept
+COVID-19 pandemic|4|event|b3125524cd434526969844ef534e60b7|concept
+G20 countries|5|organisation|b3125524cd434526969844ef534e60b7|concept
+Universal Health Coverage (UHC)|4|concept|b3125524cd434526969844ef534e60b7|concept
+Out-Of-Pocket Expenses (OOPE)|3|concept|b3125524cd434526969844ef534e60b7|concept
+maternal, newborn and child health|3|concept|9cfbef4b83674b20b627a9af06d3ae12|concept
+infectious diseases|2|concept|9cfbef4b83674b20b627a9af06d3ae12|concept
+non-communicable diseases|3|concept|9cfbef4b83674b20b627a9af06d3ae12|concept
+service capacity and access|2|concept|9cfbef4b83674b20b627a9af06d3ae12|concept
+general and most disadvantaged populations|3|concept|9cfbef4b83674b20b627a9af06d3ae12|concept
+catastrophic OOP healthcare spending|4|concept|9cfbef4b83674b20b627a9af06d3ae12|concept
+G20 countries|3|organisation|9cfbef4b83674b20b627a9af06d3ae12|concept
+Spain and Singapore|2|place|9cfbef4b83674b20b627a9af06d3ae12|concept
+WHO data6UHC|3|document|9cfbef4b83674b20b627a9af06d3ae12|concept
+Figure 4|2|object|9cfbef4b83674b20b627a9af06d3ae12|concept
+Past Decade for G20 Countries|3|event|9cfbef4b83674b20b627a9af06d3ae12|concept
+Lower Out of Pocket Expenditure as a% of Current Health Expenditure|5|concept|8557a7dfb0ce4db8a2b165aedc19d757|concept
+Global average|3|misc|8557a7dfb0ce4db8a2b165aedc19d757|concept
+2009|1|event|8557a7dfb0ce4db8a2b165aedc19d757|concept
+ZAFTURTUR|1|miscellaneous|8557a7dfb0ce4db8a2b165aedc19d757|concept
+KSA KSAFRA|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+FRA|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+USAUSAJPN|2|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+JPNDEU|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+AUSSPN|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+SPNITA|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+ITA|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+BRABRAKOR|1|miscellaneous|8557a7dfb0ce4db8a2b165aedc19d757|concept
+CHI|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+CHIRUS|1|miscellaneous|8557a7dfb0ce4db8a2b165aedc19d757|concept
+RUSMEX|1|miscellaneous|8557a7dfb0ce4db8a2b165aedc19d757|concept
+MEX|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+IDN|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+IDNIND|1|miscellaneous|8557a7dfb0ce4db8a2b165aedc19d757|concept
+INDKOR|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+SGP|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+SGPCAN|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+CAN|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+UKUK|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+DEU|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+ARG ARG|1|organisation|8557a7dfb0ce4db8a2b165aedc19d757|concept
+ZAF|2|country|8557a7dfb0ce4db8a2b165aedc19d757|concept
+Health Finance|5|concept|2637f57224b34d4895cf7ade5482c61c|concept
+G20 Countries|4|event|2637f57224b34d4895cf7ade5482c61c|concept
+Universal Health Coverage (UHC)|5|concept|2637f57224b34d4895cf7ade5482c61c|concept
+Out-of-Pocket Expenditure (OOPE)|4|concept|2637f57224b34d4895cf7ade5482c61c|concept
+Green Highlighted Countries|3|event|2637f57224b34d4895cf7ade5482c61c|concept
+Best Practices|4|concept|2637f57224b34d4895cf7ade5482c61c|concept
+Indonesia|3|place|2637f57224b34d4895cf7ade5482c61c|concept
+JKN National Health Insurance|2|document|2637f57224b34d4895cf7ade5482c61c|concept
+JKN program|5|program|f2ee990cbb1942db85479fce8ded4160|concept
+Indonesian citizens|4|concept|f2ee990cbb1942db85479fce8ded4160|concept
+Social Security Agency for Health (B P J S)|3|organisation|f2ee990cbb1942db85479fce8ded4160|concept
+Healthcare providers|2|object|f2ee990cbb1942db85479fce8ded4160|concept
+medical benefit package|3|concept|f2ee990cbb1942db85479fce8ded4160|concept
+Out-of-pocket expenditure (OOP)|2|condition|f2ee990cbb1942db85479fce8ded4160|concept
+Low and medium-income countries (LMICs)|1|concept|f2ee990cbb1942db85479fce8ded4160|concept
+Indonesia|5|place|36832b98f50e46df903ea924ff5e55c5|concept
+medicines|4|object|36832b98f50e46df903ea924ff5e55c5|concept
+healthcare expenditure|3|concept|36832b98f50e46df903ea924ff5e55c5|concept
+OOP payments|2|misc|36832b98f50e46df903ea924ff5e55c5|concept
+drug pricing and procurement|4|concept|36832b98f50e46df903ea924ff5e55c5|concept
+Accelerating Global Health|5|event|86eac922752743339f35699cfccec378|concept
+Pathways to Health Equity for the G20|4|concept|86eac922752743339f35699cfccec378|concept
+generic medicine pricing policy|5|event|86eac922752743339f35699cfccec378|concept
+Maximum Retail Price set by the MOH|3|document|86eac922752743339f35699cfccec378|concept
+2010 study|4|event|86eac922752743339f35699cfccec378|concept
+public hospitals|3|organisation|86eac922752743339f35699cfccec378|concept
+private pharmacies|2|object|86eac922752743339f35699cfccec378|concept
+NGO hospitals|3|organisation|86eac922752743339f35699cfccec378|concept
+Lowest Price Generic (LPG) medicines|4|object|86eac922752743339f35699cfccec378|concept
+Innovator Brand (IB) medicines|4|object|86eac922752743339f35699cfccec378|concept
+2010 prices|3|document|86eac922752743339f35699cfccec378|concept
+2004 prices|3|document|86eac922752743339f35699cfccec378|concept
+declines ranging from 40 percent to 2200 percent|3|misc|86eac922752743339f35699cfccec378|concept
+generic medicine pricing policies have succeeded in lowering the price of medicines|4|event|86eac922752743339f35699cfccec378|concept
+variation in implementation|3|condition|86eac922752743339f35699cfccec378|concept
+excess paid by patients compared to MOH set prices|4|misc|86eac922752743339f35699cfccec378|concept
+narrow the differences|3|condition|86eac922752743339f35699cfccec378|concept
+more recently|2|misc|86eac922752743339f35699cfccec378|concept
+state-owned enterprises|5|organisation|e66fc805e2f748178c0c1270b907aec8|concept
+drug procurement|4|event|e66fc805e2f748178c0c1270b907aec8|concept
+generic medications|5|object|e66fc805e2f748178c0c1270b907aec8|concept
+public awareness campaigns|4|event|e66fc805e2f748178c0c1270b907aec8|concept
+financial incentives|3|misc|e66fc805e2f748178c0c1270b907aec8|concept
+UHC|5|concept|e663f199a53b4d5094921d1e38169663|concept
+BPJS|4|organisation|e663f199a53b4d5094921d1e38169663|concept
+national policies|4|concept|e663f199a53b4d5094921d1e38169663|concept
+JKN|3|organisation|e663f199a53b4d5094921d1e38169663|concept
+healthcare providers|4|object|e663f199a53b4d5094921d1e38169663|concept
+public and private hospitals|3|object|e663f199a53b4d5094921d1e38169663|concept
+clinics and facilities|3|object|e663f199a53b4d5094921d1e38169663|concept
+healthcare infrastructure|4|object|e663f199a53b4d5094921d1e38169663|concept
+disparities in healthcare infrastructure|3|condition|e663f199a53b4d5094921d1e38169663|concept
+eldercare sector|4|concept|5655410587404d1a8412a9fc74acd655|concept
+GDP growth|3|concept|5655410587404d1a8412a9fc74acd655|concept
+12,000 and 17,000 beds|3|object|5655410587404d1a8412a9fc74acd655|concept
+Singapore government|4|organisation|5655410587404d1a8412a9fc74acd655|concept
+healthy economic and GDP growth|3|concept|5655410587404d1a8412a9fc74acd655|concept
+institutional places|3|object|5655410587404d1a8412a9fc74acd655|concept
+2nd fastest aging economy in Asia|4|concept|5655410587404d1a8412a9fc74acd655|concept
+Singaporeans above 65 by 2030|4|condition|5655410587404d1a8412a9fc74acd655|concept
+land and building costs of residential nursing homes|3|object|5655410587404d1a8412a9fc74acd655|concept
+competitive bids for operators|3|event|5655410587404d1a8412a9fc74acd655|concept
+means tested seniors|3|condition|5655410587404d1a8412a9fc74acd655|concept
+substantial subsidies of up to 80 percent of monthly fees|3|object|5655410587404d1a8412a9fc74acd655|concept
+Widening coverage|4|concept|47a256fcc0844063998f9a4ffb3f1c94|concept
+MediShield Life|5|organisation|47a256fcc0844063998f9a4ffb3f1c94|concept
+pre-existing conditions|4|condition|47a256fcc0844063998f9a4ffb3f1c94|concept
+older individuals|3|misc|47a256fcc0844063998f9a4ffb3f1c94|concept
+Accelerating Global Health|4|event|bab2aa6e0ee048878763f123e2e739d0|concept
+G20|3|organisation|bab2aa6e0ee048878763f123e2e739d0|concept
+hospital bills|4|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+large outpatient treatments|3|event|bab2aa6e0ee048878763f123e2e739d0|concept
+dialysis|2|object|bab2aa6e0ee048878763f123e2e739d0|concept
+chemotherapy|2|object|bab2aa6e0ee048878763f123e2e739d0|concept
+CareShield Life|3|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+long-term insurance|2|object|bab2aa6e0ee048878763f123e2e739d0|concept
+severe disability|3|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+cash payouts|2|object|bab2aa6e0ee048878763f123e2e739d0|concept
+long-term care costs|3|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+nursing home fees|2|object|bab2aa6e0ee048878763f123e2e739d0|concept
+MediShield|3|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+CareShield premiums|2|object|bab2aa6e0ee048878763f123e2e739d0|concept
+Medisave|3|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+Ministry of Health|2|organisation|bab2aa6e0ee048878763f123e2e739d0|concept
+decision-making and support services|3|concept|bab2aa6e0ee048878763f123e2e739d0|concept
+Agency for Care Effectiveness (ACE)|2|organisation|bab2aa6e0ee048878763f123e2e739d0|concept
+Pharmacoeconomic and Drug Utilization Unit (PEDU)|4|organisation|325c82ae1f6d45ca8776fccb347158ae|concept
+Health Technology Assessment (HTA) unit|3|concept|325c82ae1f6d45ca8776fccb347158ae|concept
+Ministry of Health's (MOH) Drug Advisory Committee|3|organisation|325c82ae1f6d45ca8776fccb347158ae|concept
+Standardised HTA methods and processes|3|concept|325c82ae1f6d45ca8776fccb347158ae|concept
+Advanced Clinical Evidence (ACE)|2|organisation|325c82ae1f6d45ca8776fccb347158ae|concept
+Bandwidth limitations and lack of skilled HTA practitioners|3|condition|325c82ae1f6d45ca8776fccb347158ae|concept
+Public healthcare clusters|2|organisation|325c82ae1f6d45ca8776fccb347158ae|concept
+ALPS Healthcare|2|organisation|325c82ae1f6d45ca8776fccb347158ae|concept
+Supply chain partner|2|concept|325c82ae1f6d45ca8776fccb347158ae|concept
+Health Finance|5|concept|a4172b8d44d642dd8993e93089d0e52f|concept
+G20 Countries|4|organisation|a4172b8d44d642dd8993e93089d0e52f|concept
+GP/family physician|3|concept|a4172b8d44d642dd8993e93089d0e52f|concept
+hospital-centric healthcare system|3|concept|a4172b8d44d642dd8993e93089d0e52f|concept
+preventive model|3|concept|a4172b8d44d642dd8993e93089d0e52f|concept
+universal health care|4|concept|a4172b8d44d642dd8993e93089d0e52f|concept
+Indonesia|2|place|a4172b8d44d642dd8993e93089d0e52f|concept
+Singapore|2|place|a4172b8d44d642dd8993e93089d0e52f|concept
+primary care|3|concept|a4172b8d44d642dd8993e93089d0e52f|concept
+judicious purchasing and effective procurement|2|misc|a4172b8d44d642dd8993e93089d0e52f|concept
+Southeast Asia|4|place|1324e2bb4f5742cab74473e14d467926|concept
+ASEAN countries|3|organisation|1324e2bb4f5742cab74473e14d467926|concept
+RESYST|2|concept|1324e2bb4f5742cab74473e14d467926|concept
+SPARC|2|concept|1324e2bb4f5742cab74473e14d467926|concept
+SEARCH|3|organisation|1324e2bb4f5742cab74473e14d467926|concept
+National University of Singapore|2|place|1324e2bb4f5742cab74473e14d467926|concept
+Telehealth|4|concept|76280917c6254c15b067914f14125841|concept
+insurtech|3|concept|76280917c6254c15b067914f14125841|concept
+COVID-19 pandemic|2|event|76280917c6254c15b067914f14125841|concept
+Singapore|3|place|76280917c6254c15b067914f14125841|concept
+Indonesia|4|place|76280917c6254c15b067914f14125841|concept
+mobile services|3|concept|76280917c6254c15b067914f14125841|concept
+micro-insurance|2|concept|76280917c6254c15b067914f14125841|concept
+Accelerating Global Health|5|concept|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+Pathways to Health Equity for the G20|5|concept|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+UHC (Universal Health Coverage)|4|concept|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+G20 countries|4|organisation|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+National University of Singapore's Saw Swee Hock School of Public Health|3|place|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+Associate Professor Jeremy Lim|2|person|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+Janice Tan|1|person|4dbae5e4a3ee45bdbf9d55dec8921c2c|concept
+diverse landscapes|3|misc|2f3c4ce941c14624bfbd3da82ff8def7|concept
+public and private sector hospitals|4|place|2f3c4ce941c14624bfbd3da82ff8def7|concept
+nursing homes|3|place|2f3c4ce941c14624bfbd3da82ff8def7|concept
+singapore and malaysia|4|location|2f3c4ce941c14624bfbd3da82ff8def7|concept

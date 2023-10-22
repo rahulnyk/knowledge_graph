@@ -1,0 +1,520 @@
+text|source|page|chunk_id
+"82Accelerating Global Health: Pathways to Health Equity for the G20
+83Building a Resilient 
+Digital Health 
+Ecosystem in India 
+Lav Agarwal
+Technology now permeates every facet of human existence. From 
+communication and transportation to healthcare and entertainment, 
+technology has redefined how we live, work, and interact. Its omnipresence 
+is reshaping societal norms, revolutionising various sectors, and propelling 
+us into the future.
+Through improvements in diagnostics, treatment, and patient care, 
+technological advancements have had a profound impact on healthcare. 
+Medical devices, telemedicine, electronic health records, and artificial 
+intelligence (AI)-driven diagnostics have transformed healthcare delivery by 
+making it more precise, efficient, and accessible. Wearable devices and health 
+apps have empowered individuals to monitor and manage their well-being 
+proactively. Technology has also played a crucial role in advancing medical"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|0|13476c1867c9495c84d01303b9f5222a
+"research, discovering new treatments, and improving overall healthcare 
+outcomes. In response to the COVID-19 pandemic, the world witnessed the 
+exponential growth of digital health."|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|0|86113e13490f4002a68f873173662f9a
+"83Building a Resilient Digital Health Ecosystem in India Digital Health Landscape in India
+Given India’s massive population, providing equitable access to healthcare 
+services to all is an important agenda. By harnessing the power of 
+technology, digital health can effectively address these challenges and 
+ensure that healthcare services are accessible even in the remote regions. 
+Patients can use digital platforms for convenient access to care. Digital 
+platforms therefore bridge gaps and improve healthcare delivery across the 
+nation.
+In line with the ‘Digital India’ initiative and the vision to create 
+interoperable and standardised electronic health records across the country, 
+the Indian government  notified the Electronic Health Record1 standards in 
+2016. The National Health Policy2 (2017) envisages the creation of a digital 
+health technology ecosystem  that serves the needs of all stakeholders and 
+improves efficiency, transparency, and citizens’ experiences across public"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|1|b179a090fb084d6ea17fee9439a110d1
+"and private healthcare.
+Over the recent years, India has made progress in digital healthcare 
+delivery, as demonstrated in national health programmes such as the 
+Hospital Management Information System, Online Registration System, the 
+national tuberculosis elimination (Ni-kshay) programme, Mother and Child 
+Tracking System, Mera Aspataal  (My Hospital, a patient feedback system), the 
+Health Management Information System, the Integrated Health Information 
+Platform, and Non-Communicable Diseases screening application—which 
+have benefitted patients through the timely delivery of services and  by 
+making government healthcare more affordable and accessible.3
+The need for a future-ready digital health system has become even more 
+urgent with the announcement of the Ayushman Bharat Pradhan Mantri Jan 
+Arogya Yojana (AB-PMJAY)4 in 2018, India’s flagship programme that would 
+herald an infrastructural transformation of the nation’s health system. This 
+mission envisions the following:"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|1|bf384699b63a44e9a6429a506dfb961e
+"mission envisions the following: 
+I. Operationalising 1.5 lakh health and wellness centres that offer preventive 
+and primary care, including telemedicine consultation services; and"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|1|2807f6f0a7dd43c0aff29de2279ae157
+"84Accelerating Global Health: Pathways to Health Equity for the G20
+85II. Providing financial protection of up to INR 500,000 per family annually 
+for secondary and tertiary care hospitalisation to the over 120 million 
+crore poor and vulnerable families that comprise the bottom 40 percent 
+of the Indian population.
+These initiatives aim to scale up a wellness-oriented approach instead 
+of an illness-focused one—a key step towards achieving universal health 
+coverage (UHC) through patient data portability across primary, secondary, 
+and tertiary levels. This essentially translates into an environment where 
+all people can obtain health services anywhere in the country without 
+suffering financial hardship or excessive indirect costs. 
+Achieving such scale requires us to rethink the core technology backbone 
+of our system and leverage cutting-edge digital solutions to tackle the 
+challenge. However, it is also felt that all these efforts need to converge into"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|2|d75ac3dcfd744c7b963a9b4c90fbd9d9
+"a single framework to achieve interoperability of data, which would benefit 
+both policymakers for decision-making and patients with effective services 
+at the time of need. In response, the government developed the National 
+Digital Health Blueprint as a framework for the efficient implementation of 
+digital health treatments.
+The Ayushman Bharat Digital Mission5
+To implement the principles of the blueprint, the National Digital Health 
+Mission, now known as the Ayushman Bharat Digital Mission (ABDM), was 
+launched in six union territories in August 2020.  It was proposed to be 
+carried out via six key components—i.e, the digital health ID card, Digi-
+Doctor, Health Facility Registry, Personal Health Records, e-pharmacy, and 
+telemedicine. India launched the nationwide implementation the ABDM in 
+September 2021 . The ABDM intends to create the framework needed to 
+enable an integrated digital health infrastructure in India. Additionally, it"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|2|31edc3e999ac4bc8a24b5aed3c81d49d
+"will bridge the existing gap amongst different stakeholders of the healthcare 
+ecosystem through digital highways.
+Under the ABDM, every citizen will be provided a 14-digit Ayushman 
+Bharat Account (ABHA) number, which is a unique health identifier. With 
+the patient’s informed consent, the ABHAs will be used to identify and"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|2|4077d77275bc45b98606bbe4e77387d1
+"85Building a Resilient Digital Health Ecosystem in India authenticate people’s health records across various systems and stakeholders. 
+As of July  2023, over 435 million ABHAa numbers have been created, and 
+214,396 health facilities and 207,274 doctors have been registered under 
+the ABDM ecosystem.
+ABDM has accelerated the participation of various stakeholders of the 
+healthcare ecosystem and ensured deployment of patient-centric policies—
+resulting in cashless care with improved access to ensure protection 
+for the poor. Given its federal and complex healthcare structure, India 
+demands agility, flexibility and evidence-based smart policymaking for 
+implementation of healthcare initiatives, driving all stakeholders towards 
+health-seeking behaviours with renewed energy. 
+Digital Health in COVID-19 Management
+The COVID-19 pandemic has challenged health systems across the globe. 
+The India government not only focused on the management of the pandemic"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|3|563b45ecd7d447c089670da47fd6f9ec
+"through various activities but also formulated innovative solutions to ensure 
+the continuity of health services across the spectrum. It has followed a 
+‘whole of government, whole of society’ approach to battle the pandemic 
+by engaging subnational and local governments, civil society organisations, 
+the private sector, and local communities in mitigation efforts.
+Amid the pandemic, India recognised the need to ease access to digital 
+consultations, and issued the Telemedicine Practice Guidelines in March 
+2020. India also launched eSanjeevaniOPD,6 a first of its kind and the 
+world’s largest national telemedicine service to facilitate online health 
+facilities to patients in the confines of their home at no cost to ensure 
+continuum of care. The eSanjeevani initiative has been instrumental in 
+bridging the digital divide in India, particularly in rural areas where access 
+to healthcare is often limited. This initiative has completed 142 million"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|3|8022fb132d55422fa241f9aebc537158
+"consultationsb in record time and is currently serving around 400,000 
+patients every day as of 27 July 2023. 
+a https://dashboard.abdm.gov.in/abdm/
+b https://esanjeevani.mohfw.gov.in/#/"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|3|a864c6a3aa9e4714b6773022853020df
+"86Accelerating Global Health: Pathways to Health Equity for the G20
+87India developed another state-of-the-art digital health system, CoWIN,7 a 
+digital platform that helped more than a billion beneficiaries book COVID-19 
+vaccinations in less than three months. In less than 18 months, CoWIN 
+had helped administer two billion COVID-19 vaccination doses, immunising 
+over 90 percent of all eligible adults.
+The establishment of digitally-enabled COVID-19 ‘war rooms’ at the central 
+and state levels allowed key stakeholders to undertake data-driven decisions 
+towards infrastructure gap analysis, case projection and management, and 
+to identify problem areas that required specific state-centre coordination. 
+Various other digital health initiatives that have enhanced India’s efforts 
+against the COVID-19 crisis are outlined in the following points: 
+i. the   COVID-19 India Portal developed for disease tracking by geography,"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|4|60df57d856f447b7950656fe9dbe5ae5
+"inventory tracking of essential items, and predicting demands at the 
+national, state, and district levels based on case-loads; 
+ii. the Aarogya Setu, a mobile tracking app which uses the smartphone's 
+GPS and Bluetooth features to track the coronavirus infection through 
+contact tracing, syndromic mapping, and self-assessment in addition to 
+essential risk communication for our citizens;
+iii. the RT-PCR app, a hand-held tool for country-wide sample collection; 
+and
+iv. a COVID-19 facility app which allows health system stakeholders up to 
+the district level to track the state and management of patients. 
+Institutionalising Pandemic Learnings: National Public Health 
+Observatory (NPHO) 
+India has established the National Public Health Observatory (NPHO) and 
+the Health Emergency Operations Centre (HEOC) for real-time monitoring 
+and analysis of various data points for informed decision-making. The 
+NPHO will ensure comprehensive monitoring of health systems, including"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|4|506570cee97045fdbbd6f6fa40148423
+"overall healthcare service delivery, integration of healthcare programmes, 
+and transformation of the healthcare situation in the country."|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|4|3ace18959abf4e81a8cb3d616aa96327
+"87Building a Resilient Digital Health Ecosystem in India Leveraging AI for Improved Healthcare
+Across the world, AI is being used in healthcare to support doctors and 
+healthcare workers, improve customer service and patient management, and 
+monitor diseases. The Indian government has established three centres of 
+excellence for AI—at the All India Institutes of Medical Sciences in Delhi 
+and Rishikesh, and at the Post Graduate Institute of Medical Education & 
+Research in Chandigarh—to leverage and identify potential areas for the 
+use of AI in the health sector. The centres are already working on several 
+solutions for healthcare which leverage generative AI, including:
+i. a clinical decision support system, a multilingual solution to provide 
+diagnostic and triaging support to doctors; 
+ii. event-based disease surveillance to scan large volumes of digital media 
+in English as well as 10 Indian languages to monitor events that signal 
+an impending disease outbreak; and"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|5|eaa37a93bd1b4a7a9713e4186e935786
+"an impending disease outbreak; and
+iii. an AI assistant for frontline workers  in 11 Indian languages to enable 
+and empower healthcare workers to ask questions and receive responses 
+to enhance their work.
+Stimulating Advanced Knowledge for Sustainable Health 
+Management (SAKSHAM) Portal 
+The inclusive capacity building of health professionals is an important 
+component to ensure the efficient delivery of healthcare services across 
+the country. Tele-education has benefitted all fields of education including 
+medical education, especially for students in remote areas with limited access 
+to schools and qualified teachers. Online platforms, video conferencing, 
+and pre-recorded lectures have facilitated learning for students who were 
+previously deprived of quality education due to their geographical location.
+Keeping this vision in mind, the government has developed a unified and 
+dedicated online learning and training platform, SAKSHAM,8 to enable"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|5|aa8d6614bfc94397897f73b56ab9c6ca
+"health professionals to receive advanced training without any disruption in 
+their regular jobs. The portal hosts more than 200 courses on public health 
+and 150 on clinical practices."|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|5|f473348c6cf242d3aa0a855283ed2af7
+"88Accelerating Global Health: Pathways to Health Equity for the G20
+89With such developments in digital health, India has leapfrogged in terms 
+of the adoption of digital health in the public sector. This will arguably 
+lead to the creation of a national digital health ecosystem through wide-
+scale adoption of digital tools across the continuum of care, both in the 
+private and public sectors.
+Promoting the Digital Health Agenda Globally
+India has emerged as a frontrunner in championing digital health and 
+in positioning it as a critical agenda at the global level. Recognising 
+the transformative potential of technology in healthcare, India has 
+taken proactive steps to harness digital innovations, promote healthcare 
+accessibility, and drive advancements in the field globally. 
+India tabled the Digital Health Resolution in the 71st World Health 
+Assembly in May 2018 at Geneva, which was unanimously adopted by all"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|6|8b7151d4c540461bbb6c6d1cc46ca27c
+"the member states of the World Health Organization (WHO). The resolution 
+highlighted global attention to the potential challenges and opportunities 
+related to digital health technology and need for close collaboration on the 
+issue globally. As a follow-up action, WHO has prioritised digital health 
+agenda by establishing the Department for Digital Health and Innovation in 
+April 2019 and published the Global Strategy on Digital Health 2020-2025  to 
+promote healthy lives and well-being for all. 
+India served as Chair of the Global Digital Health Partnership (GDHP, 
+between 2019 and 2021), which is the world’s largest intergovernmental 
+and multilateral forum on the issue of digital health. Under India’s 
+leadership, the GDHP’s membership grew from 14 to 33, including three 
+international organisations (WHO, Organisation for Economic Co-operation 
+and Development, and the International Digital Health and AI Research 
+Collaborative)."|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|6|c8b5be8cbd904b85993063c806f35357
+"Collaborative). 
+India’s G20 Leadership Catalysing Global Health Initiatives
+India’s G20 presidency set ambitious goals to address the 21st century’s 
+greatest challenges such as climate change, food insecurity, the threat of"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|6|1084281ae25042bcabd574e63cb93cf0
+"89Building a Resilient Digital Health Ecosystem in India future pandemics, and other health emergencies by building international 
+co-operation and strengthening global systems. The pandemic experience 
+has taught us that preventing and preparing for a health emergency must 
+always be a top priority at a global level, because when it comes to health, 
+“no one is safe until everyone is safe.”
+Drawing from the lessons from the pandemic, the G20 Health Working 
+Group set out to catalyse and enervate global health initiatives. Through 
+four meetings, culminating in the health ministers’ meeting, three main 
+priorities were discussed: 
+i. prevention, preparedness, and response to health emergencies with 
+focus on anti-microbial resistance and ‘One Health’;
+ii. strengthening cooperation in the pharmaceutical sector with focus on 
+availability and access to safe, effective, quality, and affordable medical 
+countermeasures, namely vaccines, therapeutics, and diagnostics; and"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|7|3a2b7bba4b20447bba50b43246d52bb9
+"iii. digital health innovations and solutions to aid universal health coverage 
+and improve healthcare services delivery.
+Digital health, the third priority under India’s G20 presidency aims to 
+leverage the country’s acumen and achievements along with other global 
+initiatives in the digital health space, and develop innovative digital health 
+solutions that can be applied across the world. A number of programmes 
+and projects seeking to develop digital health products are being initiated 
+independently. These projects are cumulatively spending billions of dollars 
+while working on similar aspects. 
+India’s G20 presidency has aimed to bring them all under the umbrella 
+of the Global Initiative on Digital Health (GIDH),  a network managed by 
+WHO.  The GIDH is an opportunity to create a globally connected digital 
+health ecosystem, converging worldwide efforts in scaling up commitments 
+and investments of relevant stakeholders and promotion of digital health"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|7|0409b3edab974d9abac6a39e22368ef3
+"solutions as digital public goods. This will be achieved through coordinated 
+engagements and implementation aligned with WHO norms, standards, and"|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|7|ed875ee5493d4896b733fb1ae7b9af2a
+"90Accelerating Global Health: Pathways to Health Equity for the G20
+91guidelines, while increasing transparency of resources being allocated to 
+digital transformation and identifying important gaps in support.
+Conclusion
+Adopting digital health is no longer a choice. The pandemic has undoubtedly 
+paved the way for the quick adoption of digital health. Digital health is 
+propelling the world towards more integrated health systems that are 
+focused on delivering patient-centred care, improving health outcomes, and 
+making the best use of healthcare resources. India’s digital health initiatives 
+such as the ABDM, CoWIN, and eSanjeevani have provided a stimulus to 
+act in conformity with a globally progressive commitment to health equity. 
+They have also enabled the country to work towards creating a movement 
+to enable integration of technology-informed models for universal health 
+coverage."|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|8|cefde7e5f720409c906b7a789099ba0c
+"coverage.
+Lav Agarwal  i s  A d d i t i o n a l  S e c r e t a r y  f o r  eHealth, International Health & Collaboration,  
+Public Health, and G20 at the Ministry of Health and Family Welfare, Government of 
+India."|data/MedicalDocuments/India/BuildingResilientDigitalHealthIndia.pdf|8|c5acb60e6fe04d2485554b4c5362cfc4
+"93
+9293Lessons from 
+India’s Digital Public 
+Infrastructure 
+Transformation 
+Sameer Kanwar and Varun Kumar
+In today's rapidly evolving digital landscape, many countries are 
+striving to establish and strengthen digital public infrastructure (DPI) 
+to harness the transformative power of technology to benefit citizens. India 
+has emerged as a noteworthy example by successfully using technological 
+advancements to create robust DPI. It has implemented various initiatives 
+that mobilise technology for inclusive growth, economic development, and 
+improved governance. Countries around the world can learn from India’s 
+experience and achievements to initiate similar digital transformations.
+Through the Digital India programme, India is seeking to digitally equip 
+citizens with access to all government services by improving internet 
+connectivity and developing online infrastructure. This encompasses three 
+key areas: (a) establishing a secure digital infrastructure; (b) successfully"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|0|1b372b2c96bf4cf5be87c9ecf6535941
+"delivering digital services; and (c) ensuring that every citizen has access 
+to the internet. India has also seen an increase in the number of digital 
+technology users, with an estimated 750 million smartphone users,  and a 
+projected one billion users by 2025.1 This increase has generated demand 
+for a centralised digital architecture that functions as a single enterprise."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|0|6fc85b4fdeef43289abba22a98b48bd1
+"93Lessons from India’s Digital Public Infrastructure Transformation 
+93In 2018, the Ministry of Electronics and Information Technology (MeitY) 
+created the India Enterprise Architecture (IndEA) framework1 for the adoption 
+of a whole-of-government enterprise architecture by central ministries, 
+state departments, and public sector enterprises. Built with a focus on 
+performance, IndEA offers open standards to promote interoperability 
+and supports decentralisation. At the same time, it supports both new 
+(greenfield) and legacy (brownfield) e-governance initiatives. The emphasis 
+of the IndEA initiative is to enable “One Government – a government 
+that is least visible but is effective” by implementing the concept of 
+“virtualisation of departments” to activate synergy.2
+Growing digitalisation will lead to the increased generation of data, 
+and consequently, data protection and ownership must be addressed at 
+the outset. The  Data Empowerment and Protection Architecture (DEPA)"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|1|bcba5a5d25d8471aafa6da4a13cbd5f0
+"framework, introduced in 2020, seeks to ensure user control over data. 
+DEPA suggests measures for consent-governed and secure data-sharing 
+with third-party institutions. Controlled by consent managers, only relevant 
+user data is plugged in to any private ecosystem and there is no need 
+to set up bilateral databases.3 This empowers citizens with ownership and 
+control over their own data and how it is shared. 
+While DEPA has been flexibly applied in multiple sectors, it has been 
+particularly well-used as a techno-legal solution in the finance sector. 
+Since DEPA empowers individuals to securely share their financial data 
+with banks, insurers, investors, and other stakeholders, its first immediate 
+benefit has been to encourage competition among private players. 
+Individuals and small businesses are now able to get loans, insurance, and 
+other financial products at competitive rates, just by using their digital"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|1|ad7832db5516440d84c6cfd72e7cd917
+"footprint. In practice, DEPA works closely with the many layers of India 
+Stack4—Aadhaar-based e-KYC, Unified Payments Interface (UPI) for cashless 
+payments, and Aadhaar-based eSign) and uses the Open Credit Enablement 
+Network to facilitate lending. India Stack has enabled the country to build 
+its digital infrastructure, especially in establishing a design to improve 
+private sector service delivery, and has served as India’s digital library, 
+housing several digital global goods and offering learnings to the world.
+Over the last decade, India has taken landmark steps to set in motion its 
+vision of becoming an inclusive digital economy. This includes establishing"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|1|d5bb32aab9d64c40b61624e114470f5d
+"94Accelerating Global Health: Pathways to Health Equity for the G20
+95robust DPI and the facilitation of digital governance by streamlining 
+roles, accountability, and change management. This encompasses various 
+components, including digital identification systems, digital payments 
+systems, and digital service delivery platforms. 
+Pillars of Digital Public Infrastructure in India
+The foundation: Aadhaar5
+India's Aadhaar programme, a biometric and face authentication-based 
+digital identification system, has revolutionised identity verification 
+and service delivery in the country. Aadhaar has provided a unique 
+identification number to over 1.3 billion residents of India, enabling access 
+to essential services such as government subsidies, bank accounts, and 
+mobile connections. It has enabled the government to streamline service 
+delivery and eliminate duplication by providing a single digital identity 
+across multiple sectors. The world can learn from India's approach in"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|2|0ffd7ae1eed043cbb84efab7d4513c47
+"implementing a centralised, secure, and inclusive identification system, that 
+has facilitated interoperability across service delivery platforms, both public 
+and private.
+Driving financial inclusion: Unified Payments Interface6
+India's push to digitise payments has transformed the way financial 
+transactions are conducted in the country. The implementation of UPI has 
+created a platform that enables instant money transfers between bank 
+accounts. It offers a smartphone-based interface to support seamless, 
+interoperable, and real-time payments, available on the go. UPI has not only 
+transformed the way individuals transact but has also provided a significant 
+boost to the growth of the digital economy. Countries can gather important 
+lessons from India's experience in fostering a competitive and interoperable 
+payment ecosystem, which has led to increased financial inclusion, reduced 
+reliance on cash, and enhanced transparency in transactions."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|2|323abf2e2dd640b68025a5e6b9346734
+"The number of digital transactions increased by more than three times 
+from 3 billion in November 2019 to 10 billion by January 2023.7 A 2019"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|2|2ed578303b5e4434844b6472c6c1a2a2
+"95Lessons from India’s Digital Public Infrastructure Transformation MeitY study noted that under a ‘business as usual’ scenario, India’s 
+digital economy will grow to US$500 billion by 2025, with the potential 
+to increase to US$1 trillion.8 In 2021, India had 48.6 billion real-time 
+payments, as compared to 18.5 billion in China and 8.7 billion in Brazil.9 
+This is indicative of the ease with which the Indian population has adopted 
+digital platforms for making payments even if the average value of such 
+payments may be rather low.
+Efficient welfare delivery: Direct Benefit Transfer10
+India's Direct Benefit Transfer (DBT) programme is aimed at eliminating 
+potential leakages in the physical delivery of financial benefits and ensuring 
+an efficient transfer of welfare to the right beneficiaries. By leveraging 
+digital payment systems, benefits are directly credited to the beneficiaries’ 
+bank accounts, reducing corruption, eliminating middlemen, and improving"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|3|b9fc627dc58a4940915aefe392262ca3
+"transparency in the transfer of subsidies.11 The enablers for DBT in India 
+are the Pradhan Mantri Jan-Dhan Yojana, the Jan Dhan-Aadhaar-Mobile 
+Yojana, and nearly 312 other schemes from 53 ministries across all states 
+and union territories. More than INR 24,800 billion has been transferred 
+through the DBT programme since 2013, with INR 6,300 billion transferred 
+in FY 2021-22 alone. On average, more than 9 million DBT payments were 
+processed daily in FY 2021-22.12 
+Citizen-centric services: E-governance13
+India has leveraged technology to enhance governance and service delivery 
+through initiatives like Digital India and other e-governance platforms. The 
+use of digital platforms (or information and communication technologies) 
+has facilitated efficient and transparent administration, improved the 
+accessibility of government services, and reduced bureaucratic inefficiencies."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|3|8045b63702f14e20aeecdab5e9d55069
+"The MyGov platform14 h a s  b e e n  a  c r u c i a l  c o n t r i b u t o r  t o  t r a n s f o r m i n g  c i t i z e n -
+government interactions. India's approach to digital governance emphasises 
+citizen-centricity, where technology acts as an enabler to bridge the gap 
+between the government and its citizens. By adopting similar approaches, 
+countries can enhance government services, promote transparency, and 
+strengthen democratic participation."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|3|5a6b176e0ea544508b33ab20d77ece86
+"96Accelerating Global Health: Pathways to Health Equity for the G20
+97Creating a digital ecosystem: Technology access and innovation
+India has created a vibrant digital ecosystem that fosters innovation 
+and entrepreneurship. Initiatives like Startup India15 a n d  M a k e  i n  I n d i a16 
+have encouraged the growth of technology start-ups and attracted global 
+investments. India has nurtured a conducive environment for technology 
+and innovation through policy reforms, access to funding, and incubation 
+support. Managed by the Department for Promotion of Industry and Internal 
+Trade under the commerce ministry, the Startup India initiative has helped 
+introduce various programmes that support entrepreneurs and create a 
+healthy start-up ecosystem. Similarly, the ‘Make in India’ initiative has 
+incentivised the development, manufacture, and assembly of products in the 
+country, and has thus boosted partnerships, investments, and innovations."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|4|11dbcb29edd24ce9bdc983d9f6ef4703
+"Growing digital literacy and inclusion in harnessing the benefits of 
+technology has also been crucial achievements for the country. India's 
+experience underscores the importance of widespread access to affordable 
+internet connectivity, digital skills training, and tailored initiatives for 
+marginalised communities. Initiatives like BharatNet,17 which aims to 
+connect over 250,000 local rural bodies with high-speed internet, and the 
+Common Service Centers,18 which provide access to government services in 
+remote areas, have been instrumental in extending the benefits of India’s 
+digital infrastructure to rural communities. In addition to the digital 
+training programmes offered through government-supported bodies like 
+the National Skills Development Centre19 and the National Institute for 
+Entrepreneurship and Small Business Development,20 other private training 
+institutes and online platforms have significantly contributed to digital skill"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|4|b806fb3d2fe445c49eabb633e9c94715
+"building among citizens, both in urban and rural settings. By prioritising 
+digital literacy and inclusion, countries can bridge the digital divide and 
+empower their citizens to participate fully in the digital age.
+Key Drivers of India’s Digital Transformation
+India’s achievements in implementing DPI demonstrate the transformative 
+power of technology when combined with inclusivity, scalability, regulation, 
+and collaboration. The key factors that equipped the country to achieve this 
+digital revolution include:"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|4|4346c415761a400bbd13738d2880dc1d
+"97Lessons from India’s Digital Public Infrastructure Transformation Ecosystem collaboration
+India's success in digital service delivery can be attributed to strong 
+collaboration between government agencies, industry leaders, startups, 
+academia, and civil society organisations. This collaborative approach 
+has fostered innovation, shared expertise, and effective implementation. 
+India’s G20 presidency has further drawn attention to the importance 
+of collaboration, with initiatives like the Global DPI Summit21 allowing 
+a close agreement between partners (and non-partners alike) on the 
+common principles and design aspects of DPIs. By bringing together all the 
+stakeholders, the Indian government has created a collaborative environment 
+for developing and implementing digital public infrastructure projects.
+Industry players have contributed their expertise, resources, and technological 
+innovations to build and maintain the required infrastructure. Similarly,"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|5|72341765203b43498a676b032bedf44c
+"collaborations with academic institutions and research organisations have 
+aided innovation and helped address technical and policy challenges. Public-
+private partnerships and international collaborations have further supported 
+knowledge exchange, best practice sharing, and access to resources and 
+funding.
+The Indian government has been able to promote such an ecosystem 
+collaboration by establishing platforms (such as, India Stack), forums (for 
+example, India Stack Knowledge Exchange Forum, 202222), and regulatory 
+frameworks (IndEA and DEPA) that encourage active participation, 
+information sharing, and coordination between different stakeholders. 
+These collaborations prioritise interoperability, data privacy, security, and 
+scalability to build a robust and sustainable DPI in the country.
+Scalability and inclusion
+India's experience in scaling up its DPI demonstrates the significance 
+of inclusivity, with the most successful case being that of its digital"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|5|53c1745ea8864bdcb280f11902de0be2
+"identification system.  MeitY, in response to an unstarred question in the 
+upper house of Parliament (in July 2022), said that out of the approximate 
+projected population of 1.37 billion, around 1.27 billion held a live Aadhaar  
+number.23 By ensuring accessibility and ease of enrollment for all citizens,"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|5|0c64ee48cf0246289234f29befd7b34e
+"98Accelerating Global Health: Pathways to Health Equity for the G20
+99including marginalised communities, India has achieved a notable level of 
+inclusivity. While there are gaps in digital inclusion across demographic 
+locations (55 percent share of urban telephone subscribers, as of December 
+202224) and gender (11 percent gender gap in mobile ownership, 202325), 
+the country is consistently invested in closing this difference.
+India’s digital infrastructure has been created keeping in mind future 
+needs and potential growth. With a quantum increase in users connected 
+to the internet, the emergence of multiple types of intermediaries (digital 
+media, e-commerce, and others), and the possible use of connectivity to 
+cause harm or commit crimes cannot be ignored. Comprehensive measures 
+need to be taken to prepare for the future. To check a potential DPI’s 
+scalability even before introduction, significant emphasis has been placed"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|6|c4df77774a1644f7854fce36f38dd1c9
+"on considerations like robust technology frameworks, interoperability, open 
+Application Programming Interfaces, data management, and addressing 
+infrastructure gaps. 
+India’s journey is an example of how scalability and inclusion work 
+together in building a resilient and equitable digital public infrastructure. 
+Key strategies that have helped the country’s efforts to establish its 
+infrastructure at scale are ensuring accessibility, promoting digital literacy 
+and skill development, focus on last-mile connectivity, multilingual support 
+in technological solutions, participatory implementation, and regulations to 
+ensure affordability.
+Balancing regulation and innovation
+India's digital payments ecosystem demonstrates the need to strike a 
+balance between regulation and innovation. While fostering competition and 
+innovation, the country has implemented robust regulatory measures to 
+ensure the security and integrity of transactions."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|6|8b202115529b413e805052339024fb38
+"Putting in place provisions like regulatory sandboxes, which provide a 
+controlled environment for testing innovative technologies and business 
+models, has allowed experimentation and innovation, while ensuring 
+consumer protection and risk mitigation. At the same time, taking a"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|6|095821a0ae1b48d4bc4127dd272e8e30
+"99Lessons from India’s Digital Public Infrastructure Transformation collaborative approach by establishing forums and platforms for stakeholders 
+to engage in policy discussions and regulatory consultations has helped 
+in understanding their needs and concerns, thus informing the adoption 
+of balanced regulatory policies. Recognising the fast-paced nature of the 
+digital landscape, Indian regulators have also shown agility in updating and 
+adapting regulations. Recent policy measures like the introduction of the 
+Digital Personal Data Protection Bill 2022,26 which restricts the processing 
+of personal data until after the individual’s consent has been recorded, and 
+the presentation of the Digital India Act 2023,27 to set up global standard 
+cyber laws, have demonstrated a willingness to understand and respond to 
+consumer needs, emerging technologies, and market trends. 
+While India has made strides in regulation and innovation, challenges"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|7|450a40f14b1e45e48521b712958e128a
+"remain. Striking the right balance between the two requires continuous 
+monitoring, assessment, and adaptation of regulatory frameworks to keep 
+pace with evolving technologies and market dynamics. Employing these 
+efforts at the desired scale in the country would require infrastructure, 
+investment, and a strong commitment. Ongoing collaboration between 
+regulators, industry players, and other stakeholders will be crucial to 
+maintaining an innovation-friendly environment while upholding consumer 
+protection and addressing emerging risks.
+Conclusion
+India's DPI provides valuable lessons on the advantages of harnessing 
+technology for inclusive growth, economic development, and improved 
+governance. Through initiatives like Aadhaar, UPI, digital health 
+infrastructure, DBT, e-governance, regulatory frameworks, and creating an 
+enabling digital ecosystem, India has been able to unlock the transformative 
+potential of DPI. By focusing on the key lessons from India's experience,"|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|7|8efb3d0a66f64a69b8b91f270d852d52
+"other countries can implement similar DPIs to address their unique 
+challenges and leverage the potential of technology for the benefit of their 
+citizens."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|7|9ea22e2775f04d79a52b48481a4704fb
+"100Accelerating Global Health: Pathways to Health Equity for the G20
+101These countries must consider their contextual differences based on 
+population size, level of technological development, political priorities, and 
+policy outlooks to customise their learnings to suit their specific needs and 
+challenges. As the world embraces the digital era, India's DPI experience 
+can serve as inspiration and guide for building robust digital systems that 
+could foster inclusive societies and drive sustainable development in the 
+21st century. 
+Sameer Kanwar  is Director, Digital Health, India and South Asia Hub, PATH .
+Varun Kumar  is Senior Program Officer, PATH."|data/MedicalDocuments/India/LessonsIndiaDigitalHealthTfn.pdf|8|ee322f1af7c94acd8e538b65f908692d
