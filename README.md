@@ -1,7 +1,9 @@
 # Convert any Corpus of Text into a *Graph of Knowledge*
 
 ![Knowledge Graph Banner](./assets/KG_banner.png)
-*A knowledge graph generated using this code*
+*A knowledge graph generated using this code* 
+
+ghpages link of this graph: https://rahulnyk.github.io/knowledge_graph/
 
 
 ## What is a knowledge graph?
