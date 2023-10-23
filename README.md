@@ -43,6 +43,8 @@ To generate a graph there are two notebooks you need to tweak.
 
 - [concept_graph.ipynb](https://github.com/rahulnyk/knowledge_graph/blob/main/concept_graph.ipynb): This notebook reads the csv files, and creates a graph out of them. I am also calculating the graph communities here for colouring the nodes community-wise. That's how the graph in the banner image is so colourful. The notebook also generates the pyvis graph visualisation.
 
+Both these notebooks are fairly descriptive. So it shouldnt be hard to follow what I am doing. But for any doubts, feel free to contact me. I will be happy to help.
+
 ---
 ## Tech Stack
 
