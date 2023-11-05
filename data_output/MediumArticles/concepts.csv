@@ -1,0 +1,360 @@
+entity|importance|category|chunk_id|type
+interoperability|5|concept|bb894d4a987241c6b7827d4acabac6dc|concept
+introduction|3|event|bb894d4a987241c6b7827d4acabac6dc|concept
+unique charging port design|4|misc|ebcfb9727a42482d986fa2b0a64fa8ac|concept
+usb c|5|object|ebcfb9727a42482d986fa2b0a64fa8ac|concept
+mobile phone model|3|object|ebcfb9727a42482d986fa2b0a64fa8ac|concept
+phone companies|4|organisation|ebcfb9727a42482d986fa2b0a64fa8ac|concept
+mobile charging interoperability|5|event|5799ce249cde44a28db1429ca4c2171f|concept
+standard interface|4|concept|5799ce249cde44a28db1429ca4c2171f|concept
+thousands of engineers|3|misc|5799ce249cde44a28db1429ca4c2171f|concept
+thousands of leaders|3|misc|5799ce249cde44a28db1429ca4c2171f|concept
+interoperability|5|concept|7eb8854be27f45e195dea63b72e2a111|concept
+health data interoperability (hdi)|4|concept|7eb8854be27f45e195dea63b72e2a111|concept
+mobile phone chargers|3|object|7eb8854be27f45e195dea63b72e2a111|concept
+health and wellness (hnw)|4|concept|7eb8854be27f45e195dea63b72e2a111|concept
+health data interoperability|5|concept|73070e9dc04e4ac7922d1d0048b67ab7|concept
+health information technology systems|4|object|73070e9dc04e4ac7922d1d0048b67ab7|concept
+patient's consent|3|condition|73070e9dc04e4ac7922d1d0048b67ab7|concept
+healthcare providers|4|organisation|73070e9dc04e4ac7922d1d0048b67ab7|concept
+hospitals|3|object|73070e9dc04e4ac7922d1d0048b67ab7|concept
+other healthcare organisations|4|organisation|73070e9dc04e4ac7922d1d0048b67ab7|concept
+oversimplified reconstruction|2|event|cbe8dd638b924f8394985b67838e7023|concept
+mobile charger hell|2|misc|cbe8dd638b924f8394985b67838e7023|concept
+healthcare service provider|3|organisation|cbe8dd638b924f8394985b67838e7023|concept
+technology platform|4|object|cbe8dd638b924f8394985b67838e7023|concept
+hospital management system (hms)|3|document|cbe8dd638b924f8394985b67838e7023|concept
+electronic health record (ehr)|2|document|cbe8dd638b924f8394985b67838e7023|concept
+patient record (phr) system|3|document|cbe8dd638b924f8394985b67838e7023|concept
+quest for a change|4|concept|3e17c85278284d38a2df361c47779e3d|concept
+quiescence|3|concept|3e17c85278284d38a2df361c47779e3d|concept
+interoperability|5|concept|cea903ef8852462d825e97f8f7929111|concept
+primary care|3|event|cea903ef8852462d825e97f8f7929111|concept
+secondary care|3|event|cea903ef8852462d825e97f8f7929111|concept
+tertiary care|3|event|cea903ef8852462d825e97f8f7929111|concept
+quaternary care|3|event|cea903ef8852462d825e97f8f7929111|concept
+health data interoperability|4|concept|cea903ef8852462d825e97f8f7929111|concept
+patient care|4|event|cea903ef8852462d825e97f8f7929111|concept
+complete medical history|4|object|cea903ef8852462d825e97f8f7929111|concept
+treatment decisions|3|event|cea903ef8852462d825e97f8f7929111|concept
+duplicative or unnecessary tests and procedures|2|misc|cea903ef8852462d825e97f8f7929111|concept
+redundant tests and procedures|4|event|78e6fecffe0f47b2a87181651b51c042|concept
+care coordination|3|concept|78e6fecffe0f47b2a87181651b51c042|concept
+medical errors and complications|4|event|78e6fecffe0f47b2a87181651b51c042|concept
+interoperability|5|concept|78e6fecffe0f47b2a87181651b51c042|concept
+high-risk patients|4|event|78e6fecffe0f47b2a87181651b51c042|concept
+proactive interventions|3|concept|78e6fecffe0f47b2a87181651b51c042|concept
+hospitalisations or other healthcare events|4|event|78e6fecffe0f47b2a87181651b51c042|concept
+interventions|5|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+public health|4|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+disease progression|3|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+covid19|2|misc|c70a9f10efce49bd98ff27d64a35b5a0|concept
+interoperability|4|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+disease outbreaks|3|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+research|4|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+causes and treatments of diseases|3|misc|c70a9f10efce49bd98ff27d64a35b5a0|concept
+better health outcomes|2|concept|c70a9f10efce49bd98ff27d64a35b5a0|concept
+enhanced innovation|4|event|bb0225f858ca494ca8c4c8190349dbf7|concept
+interoperability|5|concept|bb0225f858ca494ca8c4c8190349dbf7|concept
+healthcare technologies|4|object|bb0225f858ca494ca8c4c8190349dbf7|concept
+artificial intelligence and machine learning applications|3|object|bb0225f858ca494ca8c4c8190349dbf7|concept
+health data|4|object|bb0225f858ca494ca8c4c8190349dbf7|concept
+patient care|3|event|bb0225f858ca494ca8c4c8190349dbf7|concept
+healthcare costs|4|concept|bb0225f858ca494ca8c4c8190349dbf7|concept
+data sharing|3|event|bb0225f858ca494ca8c4c8190349dbf7|concept
+wearable devices|2|object|bb0225f858ca494ca8c4c8190349dbf7|concept
+remote monitoring systems|2|object|bb0225f858ca494ca8c4c8190349dbf7|concept
+artificial intelligence applications|3|object|bb0225f858ca494ca8c4c8190349dbf7|concept
+persuasion at scale|2|event|bb0225f858ca494ca8c4c8190349dbf7|concept
+healthcare governance|3|concept|bb0225f858ca494ca8c4c8190349dbf7|concept
+technical challenges|2|event|bb0225f858ca494ca8c4c8190349dbf7|concept
+wheels rolling faster than ever|4|event|fd2d01b4782d466db9c4b7273a896f62|concept
+growing effort in recent years|3|event|fd2d01b4782d466db9c4b7273a896f62|concept
+promote and facilitate interoperability|4|concept|fd2d01b4782d466db9c4b7273a896f62|concept
+national and international standards for data exchange|3|concept|fd2d01b4782d466db9c4b7273a896f62|concept
+government regulations|4|event|fd2d01b4782d466db9c4b7273a896f62|concept
+healthcare organisations|3|organisation|fd2d01b4782d466db9c4b7273a896f62|concept
+patient data|3|object|fd2d01b4782d466db9c4b7273a896f62|concept
+big cloud players|5|organisation|0ff5cf6e60214b328520d10b6ed8eeec|concept
+healthcare it components as a service (saas)|4|object|0ff5cf6e60214b328520d10b6ed8eeec|concept
+interoperability as a service|3|concept|0ff5cf6e60214b328520d10b6ed8eeec|concept
+question we have not discussed hitherto… how!|2|misc|0ff5cf6e60214b328520d10b6ed8eeec|concept
+health data interoperability|5|concept|d9f17a05951440e5891234fbd510f819|concept
+sensitive data|4|condition|d9f17a05951440e5891234fbd510f819|concept
+wrong diagnosis|3|concept|d9f17a05951440e5891234fbd510f819|concept
+public health catastrophe|3|condition|d9f17a05951440e5891234fbd510f819|concept
+data in flight|4|concept|d9f17a05951440e5891234fbd510f819|concept
+vocabulary|3|concept|d9f17a05951440e5891234fbd510f819|concept
+fhir|2|organisation|d9f17a05951440e5891234fbd510f819|concept
+user consent|3|concept|d9f17a05951440e5891234fbd510f819|concept
+data security|4|concept|d9f17a05951440e5891234fbd510f819|concept
+hdi|5|concept|152cb8d26b6b485f9eeb988655619e37|concept
+healthcare|5|concept|152cb8d26b6b485f9eeb988655619e37|concept
+data interoperability|5|concept|152cb8d26b6b485f9eeb988655619e37|concept
+interoperability|5|concept|5c3bbe4e43a943f2b2f6ca701194f742|concept
+vocabulary standards|4|concept|5c3bbe4e43a943f2b2f6ca701194f742|concept
+rubber eraser|3|object|b6af8a61cfa54d30a9fb16aec67db57a|concept
+condom|2|object|b6af8a61cfa54d30a9fb16aec67db57a|concept
+healthcare data|4|object|b6af8a61cfa54d30a9fb16aec67db57a|concept
+vocabulary standards|5|concept|b6af8a61cfa54d30a9fb16aec67db57a|concept
+medical procedures|2|concept|6154ed4901934d09a9acb8c670e841e0|concept
+international classification of diseases (icd)|3|organisation|6154ed4901934d09a9acb8c670e841e0|concept
+icd|5|concept|b44d09e785ae4fc89b5bb70810e7bd99|concept
+world health organization (who)|4|organisation|b44d09e785ae4fc89b5bb70810e7bd99|concept
+diseases|4|concept|b44d09e785ae4fc89b5bb70810e7bd99|concept
+signs, symptoms, abnormal findings|3|misc|b44d09e785ae4fc89b5bb70810e7bd99|concept
+world health organization (who)|4|organisation|b44d09e785ae4fc89b5bb70810e7bd99|concept
+headaches|3|misc|b44d09e785ae4fc89b5bb70810e7bd99|concept
+migraine|4|concept|b44d09e785ae4fc89b5bb70810e7bd99|concept
+aura|3|misc|b44d09e785ae4fc89b5bb70810e7bd99|concept
+mycobacterial diseases, unspecified|2|concept|b44d09e785ae4fc89b5bb70810e7bd99|concept
+icd|5|concept|4b2aff66872344cc96df73b00327a95e|concept
+healthcare providers|4|organisation|4b2aff66872344cc96df73b00327a95e|concept
+researchers|4|person|4b2aff66872344cc96df73b00327a95e|concept
+policymakers|4|organisation|4b2aff66872344cc96df73b00327a95e|concept
+who|5|organisation|4b2aff66872344cc96df73b00327a95e|concept
+public health surveillance|4|concept|4b2aff66872344cc96df73b00327a95e|concept
+disease outbreaks|3|event|4b2aff66872344cc96df73b00327a95e|concept
+healthcare resource management|4|concept|4b2aff66872344cc96df73b00327a95e|concept
+icd-11|5|document|4b2aff66872344cc96df73b00327a95e|concept
+systematised nomenclature of medicine clinical terms (snomed ct)|5|concept|4c90251fc22d41b787474c2a79876879|concept
+hierarchy of clinical concepts and their relationships|4|concept|4c90251fc22d41b787474c2a79876879|concept
+concept 1: common cold (code: 82272006)|3|concept|4c90251fc22d41b787474c2a79876879|concept
+concept 2: rhinovirus (code: 415810000)|3|concept|4c90251fc22d41b787474c2a79876879|concept
+concept 3: viral infectious disease (code: 1400000)|3|concept|4c90251fc22d41b787474c2a79876879|concept
+common cold|5|concept|efb0449e9bde4d83b5b0ad037234e91e|concept
+rhinovirus|4|object|efb0449e9bde4d83b5b0ad037234e91e|concept
+viral infectious disease|4|concept|efb0449e9bde4d83b5b0ad037234e91e|concept
+snomed ct|5|concept|2bede5a3aaac4e13ab882e445262ba61|concept
+world’s most comprehensive clinical healthcare terminology|4|concept|2bede5a3aaac4e13ab882e445262ba61|concept
+multilingual|3|concept|2bede5a3aaac4e13ab882e445262ba61|concept
+available in over 70 countries|2|condition|2bede5a3aaac4e13ab882e445262ba61|concept
+license fee|1|misc|2bede5a3aaac4e13ab882e445262ba61|concept
+loinc|5|organisation|ac59624643d0472caf45cec9280f346b|concept
+laboratory loinc codes|4|object|ac59624643d0472caf45cec9280f346b|concept
+clinical loinc codes|4|object|ac59624643d0472caf45cec9280f346b|concept
+component|3|concept|ac59624643d0472caf45cec9280f346b|concept
+property|3|concept|ac59624643d0472caf45cec9280f346b|concept
+time|3|concept|ac59624643d0472caf45cec9280f346b|concept
+system|3|concept|ac59624643d0472caf45cec9280f346b|concept
+scale|3|concept|ac59624643d0472caf45cec9280f346b|concept
+method|3|concept|ac59624643d0472caf45cec9280f346b|concept
+immunoassay|3|method|742fdd3127ef47b3ba2fc0184d773d8f|concept
+electrochemistry|2|method|742fdd3127ef47b3ba2fc0184d773d8f|concept
+loinc code|4|document|742fdd3127ef47b3ba2fc0184d773d8f|concept
+haemoglobin [mass/volume] in blood|3|concept|742fdd3127ef47b3ba2fc0184d773d8f|concept
+property: mass/volume|2|property|742fdd3127ef47b3ba2fc0184d773d8f|concept
+time: pt|2|time|742fdd3127ef47b3ba2fc0184d773d8f|concept
+system: bld|2|system|742fdd3127ef47b3ba2fc0184d773d8f|concept
+scale: qn|2|scale|742fdd3127ef47b3ba2fc0184d773d8f|concept
+method: spectrophotometry|2|method|742fdd3127ef47b3ba2fc0184d773d8f|concept
+adopted in 180 countries|3|misc|742fdd3127ef47b3ba2fc0184d773d8f|concept
+loinc international advisory committee|3|organisation|c616062ba1c14cca9c3b48afd3957ea7|concept
+liac|4|concept|c616062ba1c14cca9c3b48afd3957ea7|concept
+loinc standard|3|object|c616062ba1c14cca9c3b48afd3957ea7|concept
+free use|2|concept|c616062ba1c14cca9c3b48afd3957ea7|concept
+rxnorm|5|concept|a58828060685479096e84a0aa26a1f82|concept
+unique clinical drug|4|object|a58828060685479096e84a0aa26a1f82|concept
+ingredient|3|object|a58828060685479096e84a0aa26a1f82|concept
+relationship|2|concept|a58828060685479096e84a0aa26a1f82|concept
+current procedural terminology cpt|5|concept|83fcbc70f24e44aa953d41e089b13aad|concept
+american medical association (ama)|4|organisation|83fcbc70f24e44aa953d41e089b13aad|concept
+us government|3|organisation|83fcbc70f24e44aa953d41e089b13aad|concept
+insurance companies|2|organisation|83fcbc70f24e44aa953d41e089b13aad|concept
+medicare|3|organisation|83fcbc70f24e44aa953d41e089b13aad|concept
+healthcare payers|2|organisation|83fcbc70f24e44aa953d41e089b13aad|concept
+services and procedures|4|event|83fcbc70f24e44aa953d41e089b13aad|concept
+physician procedures and services|3|event|83fcbc70f24e44aa953d41e089b13aad|concept
+insurance reimbursement|4|condition|83fcbc70f24e44aa953d41e089b13aad|concept
+data collection and analysis|3|event|83fcbc70f24e44aa953d41e089b13aad|concept
+research|2|event|83fcbc70f24e44aa953d41e089b13aad|concept
+quality measurement|2|event|83fcbc70f24e44aa953d41e089b13aad|concept
+canadian classification of health interventions (cci)|5|concept|3a791d2e6ad04b5c8541ca57cbce14dc|concept
+canadian institute for health information|4|organisation|3a791d2e6ad04b5c8541ca57cbce14dc|concept
+cpt standard|3|document|3a791d2e6ad04b5c8541ca57cbce14dc|concept
+hemic and lymphatic systems|4|misc|3a791d2e6ad04b5c8541ca57cbce14dc|concept
+transfusion|3|concept|3a791d2e6ad04b5c8541ca57cbce14dc|concept
+open source|3|misc|3a791d2e6ad04b5c8541ca57cbce14dc|concept
+international classification of functioning, disability and health (icf)|5|concept|b262a26a8f8b46eb99e1050113c1839c|concept
+international classification of health interventions (ichi)|4|concept|b262a26a8f8b46eb99e1050113c1839c|concept
+healthcare common procedure coding system (hcpcs)|3|concept|b262a26a8f8b46eb99e1050113c1839c|concept
+standardising vocabulary|4|concept|64fe16b3e45447409ca1bb45a7341a04|concept
+snomed ct|3|organisation|64fe16b3e45447409ca1bb45a7341a04|concept
+icd-11|2|document|64fe16b3e45447409ca1bb45a7341a04|concept
+ontology harmonization|4|event|64fe16b3e45447409ca1bb45a7341a04|concept
+rxnorm|2|object|64fe16b3e45447409ca1bb45a7341a04|concept
+ndc|1|organisation|64fe16b3e45447409ca1bb45a7341a04|concept
+data portability|3|concept|64fe16b3e45447409ca1bb45a7341a04|concept
+rxnorm|4|concept|a35cfc0b12cd4d74af798cf133dd51c4|concept
+omop common data model|3|concept|a35cfc0b12cd4d74af798cf133dd51c4|concept
+observational health data sciences and informatics (ohdsi)|4|organisation|a35cfc0b12cd4d74af798cf133dd51c4|concept
+omop cdm|5|document|7ca4f64d2d694bf68cd8c047714c53c4|concept
+standardised codes (diseases, procedures, drugs)|4|concept|7ca4f64d2d694bf68cd8c047714c53c4|concept
+snomed ct|3|document|7ca4f64d2d694bf68cd8c047714c53c4|concept
+icd|3|document|7ca4f64d2d694bf68cd8c047714c53c4|concept
+rxnorm|3|document|7ca4f64d2d694bf68cd8c047714c53c4|concept
+ohdsi|2|organisation|7ca4f64d2d694bf68cd8c047714c53c4|concept
+suite of open-source tools|3|document|7ca4f64d2d694bf68cd8c047714c53c4|concept
+common terminology services 2 cts2|5|concept|9c91c046bcd64e1ba58b1741c679dcd7|concept
+object management group (omg!)|4|organisation|9c91c046bcd64e1ba58b1741c679dcd7|concept
+snomed ct|3|concept|9c91c046bcd64e1ba58b1741c679dcd7|concept
+loinc|3|concept|9c91c046bcd64e1ba58b1741c679dcd7|concept
+rxnorm|3|concept|9c91c046bcd64e1ba58b1741c679dcd7|concept
+query service|2|misc|9c91c046bcd64e1ba58b1741c679dcd7|concept
+mapping service|2|misc|9c91c046bcd64e1ba58b1741c679dcd7|concept
+code system maintenance service|2|misc|9c91c046bcd64e1ba58b1741c679dcd7|concept
+value set definition service|2|misc|9c91c046bcd64e1ba58b1741c679dcd7|concept
+terminology change management service|2|misc|9c91c046bcd64e1ba58b1741c679dcd7|concept
+data models|2|misc|9c91c046bcd64e1ba58b1741c679dcd7|concept
+first version|3|event|b1e4486c026945a6864a5b4cda534017|concept
+2010|4|date|b1e4486c026945a6864a5b4cda534017|concept
+national health stack|5|organisation|3333449909284dab8a68a82fd4b5f064|concept
+india|4|place|3333449909284dab8a68a82fd4b5f064|concept
+national health stack in india|3|event|3333449909284dab8a68a82fd4b5f064|concept
+icd|2|concept|3333449909284dab8a68a82fd4b5f064|concept
+snomed ct|3|concept|3333449909284dab8a68a82fd4b5f064|concept
+loinc|2|concept|3333449909284dab8a68a82fd4b5f064|concept
+doctors|5|concept|1b1bc791f879489aa2837af08bc20aac|concept
+electronic health record system|4|object|1b1bc791f879489aa2837af08bc20aac|concept
+hospital management system|3|object|1b1bc791f879489aa2837af08bc20aac|concept
+national health stack|4|object|1b1bc791f879489aa2837af08bc20aac|concept
+coding systems|3|concept|1b1bc791f879489aa2837af08bc20aac|concept
+data exchange standards|4|concept|1b1bc791f879489aa2837af08bc20aac|concept
+architecture|4|concept|4b133310ac4242428efa5534a2d67f79|concept
+semiconductor modelling|3|concept|4b133310ac4242428efa5534a2d67f79|concept
+digital circuit design|3|concept|4b133310ac4242428efa5534a2d67f79|concept
+electronic interface modelling|3|concept|4b133310ac4242428efa5534a2d67f79|concept
+internet of things|3|concept|4b133310ac4242428efa5534a2d67f79|concept
+data interoperability|4|concept|4b133310ac4242428efa5534a2d67f79|concept
+data warehouse architectures|4|concept|4b133310ac4242428efa5534a2d67f79|concept
+health and wellness|3|concept|4b133310ac4242428efa5534a2d67f79|concept
+walmart health and wellness|2|organisation|4b133310ac4242428efa5534a2d67f79|concept
+health data interoperability|5|concept|0a62c5ef3edd4b0482eb892776e56f83|concept
+standards for health data exchange|4|concept|0a62c5ef3edd4b0482eb892776e56f83|concept
+messaging standards|3|organisation|0a62c5ef3edd4b0482eb892776e56f83|concept
+american society for testing and materials|3|organisation|27422346aee04f6493536ececd6d1b5b|concept
+astm e1238|2|document|27422346aee04f6493536ececd6d1b5b|concept
+hl7 international organisation|3|organisation|27422346aee04f6493536ececd6d1b5b|concept
+health level seven (hl7) version 2|4|document|27422346aee04f6493536ececd6d1b5b|concept
+hl7 version 3|4|concept|1edd887919344641bdc4748a66244baf|concept
+hl7v2|4|concept|1edd887919344641bdc4748a66244baf|concept
+health data|4|concept|1edd887919344641bdc4748a66244baf|concept
+hipaa compliance|3|concept|1edd887919344641bdc4748a66244baf|concept
+web messaging standards|3|concept|1edd887919344641bdc4748a66244baf|concept
+data governance|2|concept|1edd887919344641bdc4748a66244baf|concept
+health data messaging standard|4|concept|b99b61327bbe412b821190f424940a73|concept
+fhir|3|organisation|b99b61327bbe412b821190f424940a73|concept
+hl7 v2 or v3|3|object|b99b61327bbe412b821190f424940a73|concept
+hl7 v2|5|organisation|f02a821138034ac690fb7c2a306752bd|concept
+hl7 standards|4|event|f02a821138034ac690fb7c2a306752bd|concept
+v1|2|misc|f02a821138034ac690fb7c2a306752bd|concept
+v4|2|misc|f02a821138034ac690fb7c2a306752bd|concept
+30-year-old standard|4|concept|f02a821138034ac690fb7c2a306752bd|concept
+modern data standards|3|misc|f02a821138034ac690fb7c2a306752bd|concept
+hl7v2|5|document|45a6201014f84cc7bcb7aea24a7f7af6|concept
+megareg|3|organisation|45a6201014f84cc7bcb7aea24a7f7af6|concept
+superoe|2|misc|45a6201014f84cc7bcb7aea24a7f7af6|concept
+xyzimgctr|2|organisation|45a6201014f84cc7bcb7aea24a7f7af6|concept
+adt_a01|2|event|45a6201014f84cc7bcb7aea24a7f7af6|concept
+pi|3|person|45a6201014f84cc7bcb7aea24a7f7af6|concept
+pid|4|object|45a6201014f84cc7bcb7aea24a7f7af6|concept
+hl70005|3|document|45a6201014f84cc7bcb7aea24a7f7af6|concept
+ra99113|2|organisation|45a6201014f84cc7bcb7aea24a7f7af6|concept
+goodwin crest drive|2|location|45a6201014f84cc7bcb7aea24a7f7af6|concept
+birmingham|3|location|45a6201014f84cc7bcb7aea24a7f7af6|concept
+al|2|condition|45a6201014f84cc7bcb7aea24a7f7af6|concept
+35209|2|location|45a6201014f84cc7bcb7aea24a7f7af6|concept
+10000 w 100th ave|2|location|45a6201014f84cc7bcb7aea24a7f7af6|concept
+birmingham|3|location|45a6201014f84cc7bcb7aea24a7f7af6|concept
+35200|2|location|45a6201014f84cc7bcb7aea24a7f7af6|concept
+99def|2|document|45a6201014f84cc7bcb7aea24a7f7af6|concept
+an|2|misc|45a6201014f84cc7bcb7aea24a7f7af6|concept
+hl7 v2 messages|3|concept|87ad86a32f8d4a8fa3c6250e3d807a6d|concept
+adt a01 message|3|concept|87ad86a32f8d4a8fa3c6250e3d807a6d|concept
+hl7v2|5|concept|0b52063ab9da401ba161b31b73314a15|concept
+minimal lower layer protocol (mllp)|3|organisation|0b52063ab9da401ba161b31b73314a15|concept
+healthcare systems in the usa|4|place|0b52063ab9da401ba161b31b73314a15|concept
+hl7v4 (fhir)|3|concept|0b52063ab9da401ba161b31b73314a15|concept
+email|1|document|a6b6a4bb9d054701a790019960b99302|concept
+validations|2|misc|a6b6a4bb9d054701a790019960b99302|concept
+api designers|3|organisation|a6b6a4bb9d054701a790019960b99302|concept
+data schema|4|document|a6b6a4bb9d054701a790019960b99302|concept
+fhir standard|5|document|a6b6a4bb9d054701a790019960b99302|concept
+r4 profile|4|document|a6b6a4bb9d054701a790019960b99302|concept
+r4 profile|5|concept|2d3b7f719bf44320ae8973626ad5bb58|concept
+base profiles|5|concept|2d3b7f719bf44320ae8973626ad5bb58|concept
+telehealth service provider|3|organisation|2d3b7f719bf44320ae8973626ad5bb58|concept
+patient resource|4|object|2d3b7f719bf44320ae8973626ad5bb58|concept
+phone number|3|object|2d3b7f719bf44320ae8973626ad5bb58|concept
+medical record number|3|object|2d3b7f719bf44320ae8973626ad5bb58|concept
+fhir implementation guides|4|document|2d3b7f719bf44320ae8973626ad5bb58|concept
+fhir short hand (fsh)|5|concept|f25fba2f56fc43619bf5ace29af5ea3d|concept
+sushi|4|misc|f25fba2f56fc43619bf5ace29af5ea3d|concept
+implementation guides, profiles, structured definitions|5|concept|f25fba2f56fc43619bf5ace29af5ea3d|concept
+smart on fhir|4|concept|f25fba2f56fc43619bf5ace29af5ea3d|concept
+electronic health record systems|4|system|c2e550ea10fd4a25980bd4ee10b00af4|concept
+fhir data|3|data|c2e550ea10fd4a25980bd4ee10b00af4|concept
+smart|4|organisation|c2e550ea10fd4a25980bd4ee10b00af4|concept
+oauth2|3|technology|c2e550ea10fd4a25980bd4ee10b00af4|concept
+app launch framework|3|technology|c2e550ea10fd4a25980bd4ee10b00af4|concept
+standard way to manage scopes and consents|2|technology|c2e550ea10fd4a25980bd4ee10b00af4|concept
+google play store|1|misc|c2e550ea10fd4a25980bd4ee10b00af4|concept
+apple app store|1|misc|c2e550ea10fd4a25980bd4ee10b00af4|concept
+fhir resource|4|object|b317d4f145b249b7a5e17334f279242a|concept
+stephen hawking|2|person|b317d4f145b249b7a5e17334f279242a|concept
+theory of everything|3|concept|b317d4f145b249b7a5e17334f279242a|concept
+dicom|5|concept|50e91ace46ca49379dd3ab43054f9301|concept
+digital imaging and communications in medicine|4|concept|50e91ace46ca49379dd3ab43054f9301|concept
+fhir|3|organisation|50e91ace46ca49379dd3ab43054f9301|concept
+hl7|3|organisation|50e91ace46ca49379dd3ab43054f9301|concept
+medical images|4|object|50e91ace46ca49379dd3ab43054f9301|concept
+x-rays|2|object|50e91ace46ca49379dd3ab43054f9301|concept
+mris|2|object|50e91ace46ca49379dd3ab43054f9301|concept
+ultrasounds|2|object|50e91ace46ca49379dd3ab43054f9301|concept
+ct scans|2|object|50e91ace46ca49379dd3ab43054f9301|concept
+iod|4|concept|50e91ace46ca49379dd3ab43054f9301|concept
+data elements|3|concept|50e91ace46ca49379dd3ab43054f9301|concept
+tcp/ip protocol suite|2|object|50e91ace46ca49379dd3ab43054f9301|concept
+data transfer syntaxes|5|concept|c77319de283b4f898a0b0b8d22420b01|concept
+dicom|5|object|c77319de283b4f898a0b0b8d22420b01|concept
+dicom web|4|object|c77319de283b4f898a0b0b8d22420b01|concept
+ai algorithms and workflows in medical imaging|3|concept|c77319de283b4f898a0b0b8d22420b01|concept
+new data elements and modules for ai-related metadata and annotations|3|object|c77319de283b4f898a0b0b8d22420b01|concept
+emerging imaging technologies|2|concept|c77319de283b4f898a0b0b8d22420b01|concept
+3d printing|2|object|c77319de283b4f898a0b0b8d22420b01|concept
+molecular imaging|2|object|c77319de283b4f898a0b0b8d22420b01|concept
+advanced visualisation|2|object|c77319de283b4f898a0b0b8d22420b01|concept
+cda|5|concept|e72824d09b01455db507f5916bc37ac7|concept
+hl7|4|organisation|e72824d09b01455db507f5916bc37ac7|concept
+xml|3|technology|e72824d09b01455db507f5916bc37ac7|concept
+html|2|technology|e72824d09b01455db507f5916bc37ac7|concept
+continuity of care documents (ccd)|3|document|e72824d09b01455db507f5916bc37ac7|concept
+discharge summaries|2|document|e72824d09b01455db507f5916bc37ac7|concept
+laboratory reports|2|document|e72824d09b01455db507f5916bc37ac7|concept
+transactional data exchange|3|event|045fe3e5dfd7435089b71450147047ef|concept
+discrete data elements|2|object|045fe3e5dfd7435089b71450147047ef|concept
+clinical document architecture (cda)|3|document|045fe3e5dfd7435089b71450147047ef|concept
+narrative-based documents|2|document|045fe3e5dfd7435089b71450147047ef|concept
+data exchange|5|concept|2ccc33d78d5648019b9070572c8ea5d0|concept
+health and wellness|3|event|2ccc33d78d5648019b9070572c8ea5d0|concept
+data regulations|4|concept|2ccc33d78d5648019b9070572c8ea5d0|concept
+public health organisations|3|organisation|2ccc33d78d5648019b9070572c8ea5d0|concept
+fhir|4|object|2ccc33d78d5648019b9070572c8ea5d0|concept
+governments worldwide|3|organisation|2ccc33d78d5648019b9070572c8ea5d0|concept
+health data interoperability|4|concept|2ccc33d78d5648019b9070572c8ea5d0|concept
+the usa|3|organisation|2ccc33d78d5648019b9070572c8ea5d0|concept
+the uk|2|place|2ccc33d78d5648019b9070572c8ea5d0|concept
+australia|2|place|2ccc33d78d5648019b9070572c8ea5d0|concept
+netherlands|2|place|2ccc33d78d5648019b9070572c8ea5d0|concept
+estonia|2|place|2ccc33d78d5648019b9070572c8ea5d0|concept
+singapore|2|place|2ccc33d78d5648019b9070572c8ea5d0|concept
+national health stack|4|object|2ccc33d78d5648019b9070572c8ea5d0|concept
+india|2|place|2ccc33d78d5648019b9070572c8ea5d0|concept
+health information system|4|organisation|4720605569b4471bb16afaf40f97963b|concept
+data exchange formats|3|object|4720605569b4471bb16afaf40f97963b|concept
+health and wellness information technology|2|organisation|4720605569b4471bb16afaf40f97963b|concept
+data storage models|3|object|4720605569b4471bb16afaf40f97963b|concept
+interoperability standards|2|organisation|4720605569b4471bb16afaf40f97963b|concept
+security and compliances concerns|3|condition|4720605569b4471bb16afaf40f97963b|concept
+health-tech|3|concept|760f2d99f5bf4a02a82338634d649d93|concept
+article|2|document|760f2d99f5bf4a02a82338634d649d93|concept
