@@ -50,12 +50,6 @@ fonttools==4.43.1
 fqdn==1.5.1
 frozenlist==1.4.0
 fsspec==2023.6.0
-google-api-core==2.11.1
-google-api-python-client==2.96.0
-google-auth==2.22.0
-google-auth-httplib2==0.1.0
-google-auth-oauthlib==1.0.0
-googleapis-common-protos==1.60.0
 gotrue==1.0.3
 graphviz==0.20.1
 gspread==5.10.0
