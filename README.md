@@ -37,13 +37,20 @@ I assume that the concepts that are mentioned in the vicinity of each other are 
 Once the nodes (concepts) and the edges (text chunks) are calculated, It is easy to create a graph out of them using the libraries mentioned here.
 All the components I used here are set up locally, so this project can be run very easily on a personal machine. I have adopted a no-GPT approach here to keep things economical. I am using the fantastic Mistral 7B openorca instruct, which crushes this use case wonderfully. The model can be set up locally using Ollama so generating the KG is basically free (No calls to GPT).
 
-To generate a graph there are two notebooks you need to tweak.
+To generate a graph this the notebook you have to tweak. 
 
-- [extract_concepts.ipynb](https://github.com/rahulnyk/knowledge_graph/blob/main/extract_concepts.ipynb): This notebook loads the documents, splits them up into chunks of text, and extracts concepts from each chunk. It outputs two CSV files in the data_output directory.
+**[extract_graph.ipynb](https://github.com/rahulnyk/knowledge_graph/blob/main/extract_graph.ipynb)**
 
-- [concept_graph.ipynb](https://github.com/rahulnyk/knowledge_graph/blob/main/concept_graph.ipynb): This notebook reads the csv files, and creates a graph out of them. I am also calculating the graph communities here for colouring the nodes community-wise. That's how the graph in the banner image is so colourful. The notebook also generates the pyvis graph visualisation.
+The notebook implements the method outlined in the following flowchart. 
 
-Both these notebooks are fairly descriptive. So it shouldnt be hard to follow what I am doing. But for any doubts, feel free to contact me. I will be happy to help.
+<img src="./assets/Method.png"/>
+
+1. Split the corpus of text into chunks. Assign a chunk_id to each of these chunks.
+2. For every text chunk extract concepts and their semantic relationships using an LLM. Let’s assign this relation a weightage of W1. There can be multiple relationships between the same pair of concepts. Every such relation is an edge between a pair of concepts.
+3. Consider that the concepts that occur in the same text chunk are also related by their contextual proximity. Let’s assign this relation a weightage of W2. Note that the same pair of concepts may occur in multiple chunks.
+4. Group similar pairs, sum their weights, and concatenate their relationships. So now we have only one edge between any distinct pair of concepts. The edge has a certain weight and a list of relations as its name.
+
+Additional it also calculated the Degree of each node and Communities of nodes, for sizing and coloring the nodes in the graph respectively. 
 
 ---
 ## Tech Stack

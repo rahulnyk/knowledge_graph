@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-08T11:10:43.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="v5sq1uP-DgdB9AmrsngA" version="22.0.3" type="device" pages="2">
+<mxfile host="Electron" modified="2023-11-09T14:01:24.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="7HlLU8aML6TrK5n0LBlX" version="22.0.3" type="device" pages="2">
   <diagram name="Page-1" id="XuGeWDecFlch1JsXA4oA">
-    <mxGraphModel dx="804" dy="1139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QQHtqteWFPHU6G1sQdef" name="Page-2">
-    <mxGraphModel dx="1207" dy="1367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="32EfeAnbv8p_S3MVI69l-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;fontColor=#000099;fontStyle=0;fontFamily=Comic Sans MS;" parent="1" source="32EfeAnbv8p_S3MVI69l-2" target="32EfeAnbv8p_S3MVI69l-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="32EfeAnbv8p_S3MVI69l-2" value="Extract concepts pairs and semantic relationship between them" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
+        <mxCell id="32EfeAnbv8p_S3MVI69l-2" value="Extract the concepts pairs and the semantic relationship between them" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="138.5" y="150.5" width="220" height="97" as="geometry" />
         </mxCell>
         <mxCell id="32EfeAnbv8p_S3MVI69l-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="32EfeAnbv8p_S3MVI69l-1" target="32EfeAnbv8p_S3MVI69l-4" edge="1">
@@ -103,7 +103,7 @@
         <mxCell id="32EfeAnbv8p_S3MVI69l-72" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontFamily=Comic Sans MS;fontColor=#000099;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="32EfeAnbv8p_S3MVI69l-10" target="32EfeAnbv8p_S3MVI69l-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="32EfeAnbv8p_S3MVI69l-10" value="For concepts occuring in the same text chunk add a contextual proximity relationship&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
+        <mxCell id="32EfeAnbv8p_S3MVI69l-10" value="For the concepts occurring in the same text chunk add a contextual proximity relationship&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="138.5" y="323.5" width="229" height="97" as="geometry" />
         </mxCell>
         <mxCell id="32EfeAnbv8p_S3MVI69l-12" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#C6F065;shadow=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;fontColor=#4D4D4D;rounded=0;swimlaneLine=0;fillStyle=hachure;" parent="1" vertex="1">
@@ -231,13 +231,13 @@
             <mxPoint x="-9" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="PIKaR7FMq6GDjSDADch5-2" target="32EfeAnbv8p_S3MVI69l-76">
+        <mxCell id="PIKaR7FMq6GDjSDADch5-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="PIKaR7FMq6GDjSDADch5-2" target="32EfeAnbv8p_S3MVI69l-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="32EfeAnbv8p_S3MVI69l-71" target="PIKaR7FMq6GDjSDADch5-2">
+        <mxCell id="PIKaR7FMq6GDjSDADch5-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="32EfeAnbv8p_S3MVI69l-71" target="PIKaR7FMq6GDjSDADch5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="32EfeAnbv8p_S3MVI69l-71" value="Concatenate two dataframes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
+        <mxCell id="32EfeAnbv8p_S3MVI69l-71" value="Concatenate the two dataframes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="441" y="499" width="159" height="53" as="geometry" />
         </mxCell>
         <mxCell id="32EfeAnbv8p_S3MVI69l-73" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="32EfeAnbv8p_S3MVI69l-62" target="32EfeAnbv8p_S3MVI69l-71" edge="1">
@@ -372,19 +372,19 @@
         <mxCell id="32EfeAnbv8p_S3MVI69l-76" value="Final Graph Dataframe" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;shape=ellipse;perimeter=ellipsePerimeter;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="458.48" y="686" width="136.03" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-2" value="Group node pairs, sum weights and concatenate the relationships" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="387" y="595" width="279" height="53" as="geometry" />
+        <mxCell id="PIKaR7FMq6GDjSDADch5-2" value="Group the node pairs, sum their weights and concatenate the relationships" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fontColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="387" y="586" width="279" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="PIKaR7FMq6GDjSDADch5-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="108" y="-17" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="PIKaR7FMq6GDjSDADch5-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="113" y="123" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="PIKaR7FMq6GDjSDADch5-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="108" y="287" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PIKaR7FMq6GDjSDADch5-8" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="PIKaR7FMq6GDjSDADch5-8" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#004C99;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="365" y="565" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
