@@ -50,7 +50,12 @@ The notebook implements the method outlined in the following flowchart.
 3. Consider that the concepts that occur in the same text chunk are also related by their contextual proximity. Let’s assign this relation a weightage of W2. Note that the same pair of concepts may occur in multiple chunks.
 4. Group similar pairs, sum their weights, and concatenate their relationships. So now we have only one edge between any distinct pair of concepts. The edge has a certain weight and a list of relations as its name.
 
-Additional it also calculated the Degree of each node and Communities of nodes, for sizing and coloring the nodes in the graph respectively. 
+Additional it also calculates the Degree of each node, and Communities of nodes, for sizing and coloring the nodes in the graph respectively. 
+
+
+**[Here is a Medium article explaining the method in detail ](https://medium.com/towards-data-science/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)**
+
+
 
 ---
 ## Tech Stack
