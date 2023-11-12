@@ -83,7 +83,7 @@ This is a python library that makes dealing with graphs super easy
 
 
 # Looking for contributions
-This project needs a lot more work. There are some wonderful ideas suggested by folks on medium and here on Github. If this interests you, Please join hands and lets' build this together. Here is a list of ideas 
+This project needs a lot more work. There are some wonderful ideas suggested by folks on medium and here on Github. If this interests you, Please join hands and lets' build this together. Here are a few suggested imrpovements. 
 
 ### Back End
 
