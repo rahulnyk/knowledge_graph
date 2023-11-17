@@ -70,6 +70,12 @@ I am using the [Mistral 7B Openorca](https://huggingface.co/Open-Orca/Mistral-7B
 
 Ollama makes it easy to host any model locally. Mistral 7B OpenOrca version is already available with Ollama to use out of the box. 
 
+To set up this project, you must install Ollama on your local machine. 
+
+Step 1: Install Ollama https://ollama.ai
+
+Step 2: run `ollama run zephyr` in your terminal. This will pull the zephyr model to your local machine and start the Ollama server.
+
 ### Pandas 
 dataframes for graph schema (can use a graphdb at a later stage).
 
