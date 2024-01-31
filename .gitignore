@@ -2,4 +2,5 @@
 */.DS_Store
 .DS_Store
 .ipynb_checkpoints/
+.venv
 # old_notebooks
