@@ -2,7 +2,8 @@ import os
 import json
 import requests
 
-BASE_URL = os.environ.get('OLLAMA_HOST', 'http://localhost:11434')
+CONTAINER_NAME = os.environ.get('CONTAINER_NAME', 'ollama')
+BASE_URL = os.environ.get('OLLAMA_HOST', 'http://ollama:11434')
 
 # Generate a response for a given prompt with a provided model. This is a streaming endpoint, so will be a series of responses.
 # The final response object will include statistics and additional data from the request. Use the callback function to override
@@ -111,7 +112,10 @@ def pull(model_name, insecure=False, callback=None):
                     if 'digest' in chunk:
                         print(f" - Digest: {chunk['digest']}", end='', flush=True)
                         print(f" - Total: {chunk['total']}", end='', flush=True)
-                        print(f" - Completed: {chunk['completed']}", end='\n', flush=True)
+                        try:
+                            print(f" - Completed: {chunk['completed']}", end='\n', flush=True)
+                        except:
+                            pass
                     else:
                         print()
     except requests.exceptions.RequestException as e:

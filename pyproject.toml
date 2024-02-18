@@ -6,7 +6,7 @@ authors = ["Nayak <rahul.nyk@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 langchain = "^0.0.335"
 pandas = "^2.1.3"
 numpy = "^1.26.2"

@@ -31,9 +31,10 @@ def df2ConceptsList(dataframe: pd.DataFrame) -> list:
     results = results.dropna()
     results = results.reset_index(drop=True)
 
+    ## broked
     ## Flatten the list of lists to one single list of entities.
-    concept_list = np.concatenate(results).ravel().tolist()
-    return concept_list
+    # concept_list = np.concatenate(results).ravel().tolist()
+    return results
 
 
 def concepts2Df(concepts_list) -> pd.DataFrame:

@@ -1,0 +1,36 @@
+
+version: '3'
+services:
+  # llama:
+  #   build:
+  #     context: .
+  #     dockerfile: ./docker_app/Dockerfile.web
+  #   ports:
+  #     - "5000:5000"
+  #   env_file: .env
+  #   depends_on:
+  #     - mongo-server
+  #   volumes:
+  #     - .:/code
+  jupyter:
+    build:
+      context: .
+      dockerfile: ./docker_python/Dockerfile
+    ports:
+      - "8888:8888"
+    # env_file: .env
+    # depends_on:
+    #   - redis
+    volumes:
+      - .:/code
+  # mongo-server:
+  #   image: mongo:latest
+  #   ports:
+  #     - "27017:27017"
+  ollama:
+    image: "ollama/ollama:latest"
+    # volumes:
+    #   - ollama:/root/.ollama
+    ports:
+      - "11435:11434"
+      
