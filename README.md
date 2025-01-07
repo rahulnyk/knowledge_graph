@@ -56,6 +56,44 @@ Additional it also calculates the Degree of each node, and Communities of nodes,
 **[Here is a Medium article explaining the method in detail ](https://medium.com/towards-data-science/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)**
 
 
+---
+## Installing Locally
+
+### Prerequisites
+- Python 3.11 or higher
+- Poetry (recommended) or pip
+
+### Using Poetry (Recommended)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rahulnyk/knowledge_graph.git
+   cd knowledge_graph
+   ```
+
+2. Install dependencies and the package:
+   ```bash
+   poetry install
+   ```
+
+### Using pip
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rahulnyk/knowledge_graph.git
+   cd knowledge_graph
+   ```
+
+2. Install in editable mode:
+   ```bash
+   pip install -e .
+   ```
+
+### Verifying Installation
+After installation, you can verify everything is working by running the tests:
+```bash
+poetry run pytest
+# or if using pip:
+pytest
+```
 
 ---
 ## Tech Stack
