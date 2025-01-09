@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "knowlege-graph"
+name = "knowledge-graph"  # Fixed typo in name
 version = "0.1.0"
-description = ""
+description = "Knowledge Graph package for code analysis"  # Added description
 authors = ["Nayak <rahul.nyk@gmail.com>"]
 readme = "README.md"
 
@@ -19,7 +19,6 @@ seaborn = "^0.13.0"
 uuid = "^1.30"
 jupyterlab = "^4.0.8"
 yachalk = "^0.1.5"
-
 
 [build-system]
 requires = ["poetry-core"]
