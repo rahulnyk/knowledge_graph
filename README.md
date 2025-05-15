@@ -60,40 +60,22 @@ Additional it also calculates the Degree of each node, and Communities of nodes,
 ## Installing Locally
 
 ### Prerequisites
-- Python 3.11 or higher
-- Poetry (recommended) or pip
+- Docker
 
-### Using Poetry (Recommended)
+### Using Docker (Recommended)
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahulnyk/knowledge_graph.git
    cd knowledge_graph
    ```
-
-2. Install dependencies and the package:
-   ```bash
-   poetry install
+2. Build
    ```
-
-### Using pip
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rahulnyk/knowledge_graph.git
-   cd knowledge_graph
+   docker build -t knowledge-graph .
    ```
-
-2. Install in editable mode:
-   ```bash
-   pip install -e .
+3. Run
    ```
-
-### Verifying Installation
-After installation, you can verify everything is working by running the tests:
-```bash
-poetry run pytest
-# or if using pip:
-pytest
-```
+   docker run -p 8888:8888 knowledge-graph
+   ```
 
 ---
 ## Tech Stack
